@@ -1079,7 +1079,15 @@
 	     "¿Qué debe aparecer en los certificados de estudios?",
 	     "¿Qué medidas se toman para validar la autenticidad de mis certificados?",
 	     "¿Cuáles son los elementos necesarios que deben incluirse en mi certificado de estudios secundarios?",
-	
+	     "¿Cuáles son los requisitos para que los certificados de estudios sean válidos?",
+	    "¿Qué condiciones deben satisfacer los certificados de estudios?",
+	    "¿Qué criterios se requieren para validar los certificados de estudios?",
+	    "¿Cuáles son los estándares que deben cumplir los certificados de estudios?",
+	    "¿Qué especificaciones deben reunir los certificados de estudios?",
+	    "¿Cuáles son los lineamientos que deben seguir los certificados de estudios?",
+	    "¿Qué reglamentos deben observar los certificados de estudios?",
+	    "¿Cuáles son los requisitos necesarios para obtener certificados de estudios válidos?",
+	    "¿Qué normativas se aplican a los certificados de estudios?",		   	
 	     "¿Qué se necesita si mi certificado de estudios es digital?",
 	     "¿Que requisitos debe cumplir mi Constancia de Logros de Aprendizaje",
 	     "¿Qué requisitos deben cumplir mi certificado digital o Constancia de Logros de Aprendisaje?"
@@ -1098,9 +1106,18 @@
 	     "E ingresado por la modalidad de Titulados O Graduados, ¿Qué documentos debo presentar?",
 	     "¿Qué documentación se requiere para el proceso de convalidación de cursos?",
 	     "¿Que documentos debo presentar si ingresé por la modalidad Titulados o Graduados?",
-	     "¿Que papeles debo presentar para realizar el trámite de convalidacion de cursos?",
 	     "¿Que certificado debo presentar si ingresé por la modalidad Titulados o Graduados?",
-	     "¿Qué documentos debo proporcionar si mi ingreso se ha realizado bajo la modalidad de Titulados o Graduados?"
+	     "¿Qué documentos debo proporcionar si mi ingreso se ha realizado bajo la modalidad de Titulados o Graduados?",
+	     "¿Cuáles son los documentos requeridos para los nuevos estudiantes que ingresan como Titulados o Graduados?",
+	    "¿Qué se solicita a los nuevos ingresantes que acceden bajo la modalidad de Titulados o Graduados?",
+	    "¿Qué documentos deben entregar aquellos que ingresan como Titulados o Graduados?",
+	    "¿Cuál es la documentación necesaria para los aspirantes que ingresan como Titulados o Graduados?",
+	    "¿Qué deben aportar los estudiantes que ingresan bajo la modalidad de Titulados o Graduados?",
+	    "¿Qué requisitos se exigen a los aspirantes que ingresan como Titulados o Graduados?",
+	    "¿Qué documentos son obligatorios para los nuevos estudiantes bajo la modalidad de Titulados o Graduados?",
+	    "¿Qué información deben proporcionar aquellos que ingresan como Titulados o Graduados?",
+	    "¿Cuáles son los requisitos específicos para los ingresantes que provienen como Titulados o Graduados?",
+	    "¿Qué papeles deben presentar los estudiantes que ingresan bajo la categoría de Titulados o Graduados?"
 	
 	
 	   ],
@@ -1114,9 +1131,18 @@
 	     "¿Cuando pierdo el derecho de ingreso?",
 	     "¿En que casos pierdo el derecho de ingreso?",
 	     "¿Cuáles son las razones por las cuales alguien puede perder el derecho de ingreso una vez dada el examen de admision?",
-	
 	     "¿Qué ocurre si renuncias o abandonas la vacante otorgadas luego de ser admitido?",
-	     "¿Qué sucede si se comete un acto ilícito en el Concurso de Admisión?"
+	     "¿Qué sucede si se comete un acto ilícito en el Concurso de Admisión?",
+	    "¿Cuándo puedo perder el derecho de ingreso?",
+	    "¿Qué situaciones pueden hacer que pierda el derecho de ingreso?",
+	    "¿Bajo qué circunstancias podría perder la posibilidad de ingresar?",
+	    "¿En qué condiciones se podría revocar mi derecho de ingreso?",
+	    "¿Qué acciones podrían llevar a la pérdida del derecho de ingreso?",
+	    "¿Cuáles son las razones por las que podría perder el derecho de ingreso?",
+	    "¿Qué comportamientos pueden causar la pérdida del derecho de ingreso?",
+	    "¿Qué eventos pueden descalificarme para el ingreso?",
+	    "¿Qué medidas pueden tomarse en caso de perder el derecho de ingreso?",
+	    "¿Cómo puedo evitar perder el derecho de ingreso?"
 	   ],
 	   "responses": [
 	     "Quienes pueden perder el derecho de ingreso a la UNAM incluyen a aquellos que no entreguen todos los documentos originales dentro del plazo establecido según el Artículo 49° y 50° ,de acuerdo con la modalidad de ingreso. También, quienes hayan sido sancionados en aplicación del presente reglamento, renuncien o abandonen la vacante otorgada, o hayan cometido un acto ilícito en cualquier etapa del Concurso de Admisión. Las vacantes liberadas se llenan de acuerdo con lo estipulado en el Artículo 39° del reglamento de EXAMEN GENERAL DEL PROCESO DE ADMISIÓN ."
@@ -1130,7 +1156,16 @@
 	     "¿Qué ocurre si no entregué los documentos necesarios después de ser admitido?",
 	     "¿Qué ocurres si los requisitos que deben cumplir los certificados de estudios no cumplen con lo establecido en el reglamento?",
 	     "No presente mi certificado de secundaria pasados los 48 horas, ¿Que hago?",
-	     
+	     "¿Qué consecuencias hay si no he entregado los documentos necesarios después de ser admitido?",
+	    "Si no he presentado los documentos requeridos después de la admisión, ¿qué ocurre?",
+	    "¿Qué sucede si no he proporcionado la documentación necesaria después de ser aceptado?",
+	    "¿Cuáles son las implicaciones si no entrego los documentos necesarios después de haber sido aceptado?",
+	    "Si no he completado la entrega de documentos tras la aceptación, ¿qué implicaciones tiene?",
+	    "¿Qué pasa si no he cumplido con la presentación de documentos tras haber sido aceptado?",
+	    "¿Cuál es el procedimiento si no he proporcionado los documentos requeridos después de la admisión?",
+	    "¿Cuál es el protocolo si no he presentado los documentos necesarios tras la admisión?",
+	    "Si no he cumplido con la entrega de documentos luego de la admisión, ¿qué medidas se toman?",
+	    "¿Qué acciones se toman si no se han presentado los documentos necesarios después de ser admitido?",
 	     "¿Qué sucede si no entregas todos los documentos originales a tiempo luego de dar el examen de ingreso?",
 	     "¿Qué pasa si no entrego todos los documentos originales a tiempo luego de dar el examen de ingreso?"
 	   ],
@@ -1143,8 +1178,18 @@
 	   "tag": "articulo53",
 	   "patterns": [
 	     "Se puede solicitar un plazo para presentar la documentación luego de ser admitido para el ingreso?",
-	     "¿Puedo solicitar una ampliación de plazo para presentar mis documentos?"     
-	     
+	     "¿Puedo solicitar una ampliación de plazo para presentar mis documentos?",
+	    "¿Es posible pedir una prórroga para entregar la documentación después de ser aceptado?",
+	    "¿Se permite solicitar una extensión de tiempo para presentar los documentos requeridos después de la admisión?",
+	    "Si no puedo presentar los documentos a tiempo después de ser admitido, ¿hay algún procedimiento para solicitar una extensión?",
+	    "¿Existe la posibilidad de requerir un aplazamiento para la presentación de los documentos después de haber sido admitido?",
+	    "¿Puedo pedir una prórroga para entregar los documentos necesarios después de haber recibido la aceptación?",
+	    "En caso de no poder cumplir con la fecha límite para la entrega de documentos tras la aceptación, ¿existe la opción de solicitar una extensión?",
+	    "¿Hay alguna forma de extender el plazo para presentar los documentos requeridos después de haber sido admitido?",
+	    "¿Se contempla la posibilidad de pedir una ampliación del plazo para presentar la documentación después de la aceptación?",
+	    "¿Qué procedimiento debo seguir si necesito más tiempo para completar la presentación de documentos tras la admisión?",
+	    "¿Cuál es el proceso para solicitar una extensión en la fecha límite para entregar los documentos después de ser admitido?"
+   
 	   ],
 	   "responses": [
 	     "De manera excepcional y por razones ajenas al ingresante, este puede solicitar una ampliación de plazo para la presentación de la documentación correspondiente mediante un documento formal. Las razones y el procedimiento para justificar esta solicitud deben estar claramente especificados en el documento. Esta medida se permite para casos extraordinarios en los que el ingresante no puede cumplir con los plazos establecidos. Para mayor información se puede comunicar con la dirección de Admisión"
@@ -1157,7 +1202,11 @@
 	     "¿En que condición realizo la solicitud para la amplaición de plazo para presentar los documentos una vez admitido?",
 	     "¿Cuando solicito la ampliación para entregar los documentos una ves ser admitido como ingresante?",
 	     "¿En que situaciones puedo realizar la solicitud de ampliación de plazo para presentar los documentos una vez de ser admitido?",
-	     "Cuales son las razones ajenas para solicitar una ampliacion de plazo para presentar mis documentos?"
+	     "Cuales son las razones ajenas para solicitar una ampliacion de plazo para presentar mis documentos?",
+	     "¿Bajo qué condiciones debo realizar la solicitud de ampliación de plazo para presentar los documentos una vez admitido?",
+	    "¿Cuál es el momento adecuado para solicitar una extensión de plazo para la entrega de documentos después de haber sido admitido?",
+	    "¿En qué circunstancias puedo pedir una ampliación de plazo para presentar la documentación después de haber sido aceptado?",
+	    "¿Cuáles podrían ser motivos para solicitar una ampliación de tiempo para presentar mis documentos después de haber sido admitido?"
 	   ],
 	   "responses": [
 	     "Las razones y el procedimiento para justificar esta solicitud deben estar claramente especificados en el documento. Esta medida se permite para casos extraordinarios en los que el ingresante no puede cumplir con los plazos establecidos. Para mayor información se puede comunicar con la dirección de Admisión"
@@ -1167,8 +1216,10 @@
 	   "tag": "articulo53_V2",
 	   "patterns": [
 	     "¿Hasta cuando me da el plazo un vez realizado la solicitud para presentar los documentos luego de ser admitido como ingresante?",
-	     "¿Cuál es el procedimiento para solicitar una ampliación de plazo?",
-	     "¿A quien le envío la solicitud de ampliación para entregar los documentos necesarios luego de ser admitido00?"
+	"¿Cuál es el plazo límite que se me otorga una vez realizada la solicitud para presentar los documentos después de ser admitido como ingresante?",
+	    "¿Hasta cuándo se extiende el plazo después de haber realizado la solicitud para entregar los documentos una vez admitido como ingresante?",
+	    "¿Cuánto tiempo tengo disponible luego de haber solicitado la presentación de documentos una vez admitido como ingresante?",
+	    "¿Cuál es la fecha límite para presentar los documentos una vez que he realizado la solicitud después de ser admitido como ingresante?"
 	
 	   ],
 	   "responses": [
@@ -1184,6 +1235,11 @@
 	     "¿Quiero mi Constancia de Ingreso donde lo solicito?",
 	     "¿A dónde solicito para optener mi constancia de ingreso?",
 	     "¿Cómo solicito para obtener la Constancia de Ingreso?",
+	     "Necesito obtener mi constancia de ingreso, ¿cuál es el procedimiento?",
+	    "¿Cómo puedo solicitar mi constancia de ingreso?",
+	    "¿Qué pasos debo seguir para obtener mi constancia de ingreso?",
+	    "¿Dónde puedo solicitar mi constancia de ingreso y cuáles son los requisitos?",
+	    "¿Cuál es el proceso para obtener la constancia de ingreso?",
 	
 	     "¿Cuándo debo solicitar mi Constancia de Ingreso como ingresante  del Examen de Admisión Ordinario, Extraordinario O la CEPRE?",
 	     "¿Cuánto tiempo tienen para solicitar la Constancia de Ingreso después de la publicación de resultados?",
@@ -1196,10 +1252,6 @@
 	     "¿Qué se requiere para solicitar la Constancia de Ingreso?",
 	     "¿Qué documentos deben entregar junto con la solicitud de Constancia de Ingreso?",
 	     "¿Cuales son los requisitos para obtener la Constancia de Ingreso?",
-	
-	     "¿Cuándo se debe pagar el recibo por la Constancia de Ingreso?",
-	     "¿cual es el costo de constancia de ingreso?",
-	     "Que monto de dinero debo pagar por la constancia de ingreso?"
 	
 	   ],
 	   "responses": [
@@ -1219,10 +1271,13 @@
 	     "¿Donde se publicará el horario para ingresar y dar el examen?",
 	     "¿A qué hora será en ingreso de los postulantes para dar el examen?",
 	     "¿A que hora tengo que ir para rendir mi examen de ingreso?",
-	
 	     "¿Qué sucede si un postulante llega después del horario establecido?",
 	     "¿Puedo ingresar a dar el examen si llegué tarde?" ,
-	     "¿Que suscede si llego tarde al examen a dar para el ingreso?"
+	     "¿Que suscede si llego tarde al examen a dar para el ingreso?",
+	     "¿Cuál será el procedimiento para que los postulantes ingresen a las instalaciones del examen?",
+	    "¿Cómo se organizará el acceso de los candidatos a las instalaciones donde se realizará el examen?",
+	    "¿Qué protocolo se seguirá para el ingreso de los aspirantes al sitio del examen?",
+	    "¿De qué manera se controlará el ingreso de los postulantes a las instalaciones del examen?"
 	    
 	
 	   ],  
