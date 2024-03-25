@@ -171,480 +171,321 @@
     },
 
     {
-      "tag": "articulo16",
-      "patterns": [
-        "¿Qué documentos necesito si tengo un título Profesional para el examen extraordinario?",
-        "¿Que documentos debo presentar si tengo titulo profesional?",
-        "¿Que requisitos debo presentar si tengo titulo profesional?",
-        "¿Que documentos debo presentar si solo tengo bachiller?",
-        "¿Que requisitos debo presentar si tengo titulo profesional?",
-        "¿Si tengo bachiller a que examen tengo derecho de postular?",
-        "¿Si tengo titulo profesional a que tipo de examen puedo postular?",
-        "¿Si tengo bachiller que documentos debo presentar?",
-        "¿Si tengo titulo profesional que documentos debo presentar?",
-        "¿Puedo participar del examen de admision si mi titulo profesional es del extranjero?",
-        "¿Para el examen extraordinario necesito presentar una copia fedateada o notariada de mi bachiller?",
-        "¿Puedo participar si el grado academico de bachiller he obtenido en la Policia Nacional del Perú?",
-        "¿Puedo partidipar si el titulo profesional he obtenido en la Policia Nacional del Perú?",
-        " ¿Puedo participar si he obtenido el grado academico de bachiller en las fuerzas armadas?",
-        "¿Que debo presentar si mi título es de otro país?",
-        "¿Debo revalidar mi título extranjero para el examen extraordinario?",
-        "¿Qué documentos adicionales debo presentar si soy titulado?",
-        "¿Cómo acredito mi título para el examen extraordinario?",
-        "¿Qué requisitos necesito para dar el examen extraordinario?",
-        "¿Que documento debo presentar si tengo un título?"
-      ],
-      "responses": [
-        "Los postulantes por la modalidad de examen extraordinario que tengan Título Profesional o Grado Académico de Bachiller otorgado por una universidad del Perú o del extranjero, deberán acreditar su condición de tal, presentando a través de la plataforma virtual de admisión, en formato PDF, los siguientes documentos:- Copia (fedateada o notariada) del Título o grado académico que posee. Si la universidad es de origen extranjera deberá presentar el título o grado académico revalidado por la SUNEDU. Se incluye el título o grado obtenido en Escuelas de Oficiales de las Fuerzas Armadas y de la Policía Nacional. - Los documentos requeridos en el Artículo 12º del presente reglamento con excepción de los incisos “a” y “c”. - Formatos de declaraciones juradas N°12 y N°13 que figuran en la sección de anexos."
-      ]
-    },
-
-    {
-      "tag": "articulo17",
-      "patterns": [
-        "¿Que requisitos son los debo presentar para traslado externo?",
-        "¿Para participar del examen y soy de traslado externo que requisitos debo presentar?",
-        "¿Si he sido sancionado por falta grave, puedo postular al examen admision?",
-        "¿Qué documentos necesito para inscribirme en la modalidad de traslado externo?",
-        "¿Si tengo antecedentes penales puedo participar del proceso de admisión?",
-        "¿Cómo acredito mi condición para el traslado externo?",
-        "¿Se requiere algún certificado especial para el traslado externo?",
-        "¿Qué tipo de declaración jurada necesito para el traslado externo?",
-        "¿Cómo presento mis documentos para el traslado externo?",
-        "¿Es necesario tener un cierto número de créditos para el traslado externo?",
-        "¿Cuantos créditos necesito para el traslado externo?",
-        "¿Debo tener un mínimo de semestres aprobados para el traslado externo?",
-        "¿Qué se necesita para el traslado externo?",
-        "¿Debo presentar certificado de estudio cuando es traslado externo?",
-        "¿Es necesario tener un cierto número de créditos para el traslado externo?"
-      ],
-      "responses": [
-        "Para inscribirse virtualmente como postulante en la modalidad de traslado externo, deberán acreditar su condición de tal, presentando a través de la plataforma virtual de admisión, en formato PDF, los siguientes documentos: a) Certificado de estudios universitarios (fedateado por la Universidad de origen) que acrediten haber aprobado por lo menos cuatro periodos lectivos semestrales o dos anuales o setenta y dos (72) créditos. b) Los documentos requeridos en el Artículo 12º del presente reglamento con excepción de los incisos “a” y “c”.  c) Declaración Jurada de no tener antecedentes penales según formato N°15 que figuran en la sección de anexos. d) Declaración Jurada de no haber sido separado de su institución de procedencia por medida disciplinaria o falta grave, según formato N°16 que figuran en la sección de anexos.",
-        "Los postulantes de traslado externo deben adjuntar a través de la plataforma virtual: certificado de estudios que acrediten ciertos créditos, declaraciones según formato N°15 y N°16 y documentos indicados en el Artículo 12º, excepto los incisos 'a' y 'c'."
-      ]
-    },
-
-    {
-      "tag": "articulo18",
-      "patterns": [
-        "¿Que documentos debo presentar para el traslado interno y participar del examen?",
-        "¿Qué documentos necesito para inscribirme en la modalidad de traslado interno?",
-        "¿Que requisitos son los debo presentar para traslado interno?",
-        "¿Para participar del examen y soy de traslado interno que requisitos debo presentar?",
-        "¿Qué necesito para inscribirme en traslado interno?",
-        "¿Que debo presentar para el traslado interno?",
-        "¿Que debo presentar para la modalidad de traslado interno?",
-        "¿Cómo se realiza la inscripción para el traslado interno?",
-        "¿Qué documentos son necesarios para el traslado interno?",
-        "¿Es necesario un certificado de estudios secundarios para el traslado interno?",
-        "¿Debo presentar certificado de estudio cuando es traslado interno?",
-        "¿Debo presentar algún certificado de la UNAM para el traslado interno?",
-        "¿Qué declaraciones juradas son necesarias para el traslado interno?",
-        "¿Que formatos debo completar para traslado interno?",
-        "¿Que formatos debo llenar para traslado interno?"
-      ],
-      "responses": [
-        "Para inscribirse virtualmente, como postulante en la modalidad de traslado interno deberán acreditar su condición de tal, presentando a través de la plataforma virtual de admisión, en formato PDF,los siguientes documentos: a) Certificado de estudios de Educación Secundaria o Constancia de conformidad de Documentos, emitida por la Dirección de Actividades y Servicios Académicos (DASA). b) Certificado de estudios universitarios que acrediten haber aprobado por lo menos cuatro periodos lectivos semestrales o dos anuales o setenta y dos (72) créditos en la escuela profesional de origen. c) Declaración jurada de no haber sido sancionado y no tener proceso disciplinario en trámite en la UNAM, según formato N°18 que figuran en la sección de anexos. d) Declaración Jurada de no adeudo de bienes y material bibliográfico de la UNAM, según formato N°19 que figuran en la sección de anexos. e) Los documentos requeridos en el Artículo 12º del presente reglamento con excepción de los incisos “a” y “c”."
-      ]
-    },
-
-    {
-      "tag": "articulo19",
-      "patterns": [
-        "¿Quiénes no pueden hacer traslado interno?",
-        "¿Puedo realizar traslado interno si ya realice traslado externo?",
-        "¿Si ingrese por metodología de grado o título profesional puedo realizar traslado interno?",
-        "¿En que casos no puedo realizar traslado interno?",
-        "¿Puedo volver a realizar traslado interno?",
-        "¿Hay restricciones para el traslado interno?",
-        "¿Puedo hacer traslado interno si ya tengo un título profesional?",
-        "¿Se permite el traslado interno si ya hice uno antes?",
-        "¿Qué pasa si he sido separado temporalmente de la UNAM?",
-        "¿Puedo trasladarme internamente si fui separado por desaprobar una materia?"
-      ],
-      "responses": [
-        "Los estudiantes no tendrán derecho al traslado interno en los casos siguientes: a) Aquellos que ya hayan ingresado por tener grado académico o título profesional, o por traslado externo. b) Aquellos que ya hayan realizado su traslado interno anteriormente. c) Aquellos comprendidos en el Art. 102 de la Ley Universitaria N° 30220, quienes, habiéndose desaprobado una misma materia por tres veces, hayan sido separados temporalmente de la Universidad Nacional de Moquegua."
-      ]
-    },
-
-    {
-      "tag": "articulo20",
-      "patterns": [
-        "¿Cómo me exonero del Concurso de Admisión Ordinario si fui primero o segundo en mi colegio?",
-        "¿Cómo me exonero del examen de Admisión si obtuve el primer o segundo puesto en mi colegio?",
-	      "¿Cómo me exonero del examen de Admisión si obtuve el primer puesto en mi colegio?",
-	      "¿Cómo me exonero del examen de Admisión si obtuve el segundo puesto en mi colegio?",
-	      "¿Cómo me exonero del examen ordinario si obtuve el primer puesto en mi colegio?",
-        "¿Cómo me exonero del Concurso de Admisión Ordinario si obtuve el primer o segundo puesto en mi colegio?",
-	      "¿Cómo me exonero del Concurso de Admisión Ordinario si obtuve el primer puesto en mi colegio?",
- 	      "¿Cómo me exonero del Concurso de Admisión Ordinario si obtuve el segundo puesto en mi colegio?",
-        "¿Qué debo presentar si ocupe los primeros puestos en el colegio?",
-        "¿Por ocupar primer puesto en mi colegio doy un examen separado?",
-        "¿Si ocupe los primeros puestos en mi colegio debo dar el examen ordinario?",
-        "¿Si ocupe el primer puesto en mi colegio debo dar el examen ordinario?",
-        "¿Si ocupe el segundo puesto en mi colegio debo dar el examen ordinario?",
-        "¿Solo puedo postular una vez por la metodología de primeros puestos?",
-        "¿Qué documentos presento para la exoneración por mérito académico en secundaria?",
-        "¿Qué necesito para acreditar haber ocupado los primeros puestos en secundaria?",
-        "¿Cómo demuestro que no he usado antes el derecho de admisión por mérito?",
-        "¿Qué documentos adicionales requiero para la exoneración del Concurso de Admisión?"
-      ],
-      "responses": [
-        "En el caso de los postulantes que quieran acogerse a la exoneración del Concurso de Admisión Ordinario por haber ocupado los dos (02) primeros puestos de su respectivo Centro Educativo de Nivel Secundario en los dos últimos años (2022 o 2023), deberán acreditar su condición de tal, presentando a través de la plataforma virtual de admisión, en formato PDF, los siguientes documentos: a) Constancia o Certificado (original) otorgado por el director del Centro Educativo del cual procede, que acredite el orden de mérito en el que se encuentra y evidencie haber concluido los estudios secundarios en el año 2022 o 2023. b) Declaración Jurada de no haber hecho uso del derecho de admisión del primer o segundo puesto en ninguna Universidad pública o privada a nivel nacional, según formato N°3 que figura en la sección de anexos. c) Los documentos requeridos en el Artículo 12° del presente reglamento."
-      ]
-    },
-
-    {
-      "tag": "articulo21",
-      "patterns": [
-        "¿Qué documentos debo presentar si soy egresado del COAR?",
-        "¿Qué debo presentar para acreditar que soy del COAR?",
-	      "¿Qué trámite debo realizar si soy egresado del COAR?",
-        "¿Qué requisitos debo cumplir si soy egresado del COAR?",
-        "¿Que examen me corresponde dar si soy egresado del COAR?",
-        "¿Qué documentos debo presentar para poder participar del examen de admisión si soy egresado del COAR?",
-        "¿Qué necesitan los egresados de Colegios de Alto Rendimiento para postular al examen extraordinario?",
-        "¿Qué necesito presentar para postular si soy alumno del COAR?",
-        "¿Si estudie en el COAR debo dar un examen diferente?",
-        "¿Cómo acreditan su condición los egresados de Colegios de Alto Rendimiento?",
-        "¿Cuales son los requisitos que debo cumplir para participar del examen de admision si sy egresado del COAR?",
-        "¿Qué documentos presentan los egresados de Colegios de Alto Rendimiento?",
-        "¿Deben los egresados de Colegios de Alto Rendimiento hacer una declaración jurada?",
-        "¿Cómo demuestran los egresados de Colegios de Alto Rendimiento que no usaron esta modalidad antes?",
-        "¿Qué documentación adicional requieren los egresados de Colegios de Alto Rendimiento?"
-      ],
-      "responses": [
-        "Los egresados de Colegios de Alto Rendimiento de 2022 o 2023 deben presentar para el examen extraordinario 2024-I: constancia de egreso del colegio, declaración jurada de no haber usado esta modalidad en otras universidades según formato N°8 y los documentos del Artículo 12º.",
-        "Para postular al examen extraordinario, los egresados de Colegios de Alto Rendimiento deben adjuntar: constancia de egreso expedida por el colegio, declaración jurada según formato N°8,y cumplir con los requisitos del Artículo 12º del reglamento."
-      ]
-    },
-
-    {
-      "tag": "articulo22",
-      "patterns": [
-        "¿Qué documentos debo presentar si soy deportista calificado?",
-        "¿Qué debo presentar para acreditar que soy deportista calificado?",
-        "¿Qué requisitos debo cumplir si soydeportista calificado?",
-        "¿Cuáles son los requisitos que debo presentar para presentarme al examen de admisión si soy deportista calificado?",
-        "¿Cuáles son los documentos que debo presentar para rendir el examen de admisión si soy deportista calificado?",
-        "¿Qué necesitan los deportistas calificados para postular a la universidad?",
-        "¿Cómo acreditan su condición los deportistas calificados?",
-        "¿Qué documentos deben presentar los deportistas calificados?",
-        "¿Deben los deportistas hacer alguna declaración jurada?",
-        "¿Qué compromisos deben asumir los deportistas calificados?",
-        "¿Qué documentación adicional requieren los deportistas calificados?",
-        "¿Como demuestro que soy deportista calificado?"
-      ],
-      "responses": [
-        "Los deportistas calificados deben presentar resolución del Instituto Peruano del Deporte, declaración jurada de no haber sido sancionado por actividades antideportivas según formato N°10 y documento de compromiso de participación en el equipo de la universidad, además de los documentos del Artículo 11º.",
-        "Para postular a la universidad, los deportistas calificados deben adjuntar resolución emitida por el IPD, declaración jurada conforme al formato N°10, compromiso de representación deportiva y cumplir con los requisitos del Artículo 11º."
-      ]
-    },
-
-    {
-      "tag": "articulo23",
-      "patterns": [
-        "¿Qué documentos debo presentar si tengo alguna discapacidad?",
-        "¿Qué debo presentar para acreditar que soy una persona con discapacidad?",
-        "¿Qué requisitos debo cumplir si soy una persona con discapacidad?",
-        "¿Que examen me corresponde dar si soy una persona con discapacidad?",
-        "¿Cuáles son los requisitos para presentarme al examen si soy una persona con discapacidad?",
-        "¿Qué documentos debo presentar para poder participar del examen de admisión si tengo alguna discapacidad?",
-        "¿Qué necesitan las personas con discapacidad para postular a la universidad?",
-        "¿Recibo algun apoyo si soy una persona con discapacidad?",
-        "¿Si presento alguna discapacidad como puedo postular?",
-        "¿Cómo acreditan su condición las personas con discapacidad?",
-        "¿Qué documentos deben presentar las personas con discapacidad?",
-        "¿Hay algún apoyo especial para personas con discapacidad en el examen?",
-        "¿Cómo comunican las personas con discapacidad su necesidad de apoyo en el examen?",
-        "¿Qué documentación adicional requieren las personas con discapacidad?"
-      ],
-      "responses": [
-        "Las personas con discapacidad deben presentar el carnet expedido por CONADIS y los documentos del Artículo 12º (a) Certificado de estudios de educación secundaria (digital con código QR y código virtual) o constancia de logros de aprendizaje emitidas por el ministerio de educación. b) Fotografía actual a color, tamaño carnet, en fondo blanco (formato JPG). c) Declaración jurada, que cumple con los requisitos establecidos en el estatuto de la UNAM para ingresar a la Universidad por el Concurso de Admisión (Formato N° 1 de la sección de anexos).d) Documento de identificación DNI o certificado de Inscripción C4 (Formato PDF anverso 1 página y reverso 1 pagina) ). Si requieren apoyo especial para el examen, deben comunicarlo a la comisión de admisión hasta el cierre de inscripciones.",
-        "Para postular a la universidad, las personas con discapacidad necesitan adjuntar su carnet de CONADIS y cumplir con los requisitos del Artículo 12º (a) Certificado de estudios de educación secundaria (digital con código QR y código virtual) o constancia de logros de aprendizaje emitidas por el ministerio de educación. b) Fotografía actual a color, tamaño carnet, en fondo blanco (formato JPG). c) Declaración jurada, que cumple con los requisitos establecidos en el estatuto de la UNAM para ingresar a la Universidad por el Concurso de Admisión (Formato N° 1 de la sección de anexos).d) Documento de identificación DNI o certificado de Inscripción C4 (Formato PDF anverso 1 página y reverso 1 pagina) ). Deben informar a la universidad sobre cualquier soporte necesario para el examen."
-      ]
-    },
-
-    {
-      "tag": "articulo24",
-      "patterns": [
-        "¿Qué documentos debo presentar si soy víctima de terrorismo?",
-        "¿Qué debo presentar para acreditar que soy víctima de terrorismo?",
-        "¿Qué requisitos debo cumplir si soy víctima de terrorismo?",
-        "¿Qué requisitos debo cumplir para dar el examen de admision si soy víctima de terrorismo?",
-        "¿Que examen me corresponde dar si soy víctima de terrorismo?",
-        "¿Cuáles son los requisitos para presentarme al examen de admision si soy víctima de terrorismo?",
-        "¿Cuáles son los documentos que debo presentar para participar en el examen de admisión si soy víctima de terrorismo?",
-        "¿Qué documentos debo presentar para poder participar del examen de admisión si soy victima de terrorismo?",
-        "¿Qué necesitan los postulantes víctimas de terrorismo para postular a la universidad?",
-        "¿Cómo demuestro que fui víctima de terrorismo?",
-        "¿Cómo puedo postular si fui víctima de terrorismo?",
-        "¿Cómo acreditan su condición los postulantes víctimas de terrorismo?",
-        "¿Qué documentos deben presentar los postulantes víctimas de terrorismo?",
-        "¿Deben hacer alguna declaración jurada los postulantes víctimas de terrorismo?",
-        "¿Qué documentación adicional requieren los postulantes víctimas de terrorismo?",
-        "¿Cómo demuestran los postulantes víctimas de terrorismo que no han usado este derecho antes?"
-      ],
-      "responses": [
-        "Los postulantes víctimas de terrorismo deben presentar constancia del Consejo Nacional de Calificación, declaración jurada de no haber usado este derecho en otra universidad y los documentos del Artículo 12º (a) Certificado de estudios de educación secundaria (digital con código QR y código virtual) o constancia de logros de aprendizaje emitidas por el ministerio de educación. b) Fotografía actual a color, tamaño carnet, en fondo blanco (formato JPG). c) Declaración jurada, que cumple con los requisitos establecidos en el estatuto de la UNAM para ingresar a la Universidad por el Concurso de Admisión (Formato N° 1 - Declaración jurada de inscripción proceso de admisión 2024-I).d) Documento de identificación DNI o certificado de Inscripción C4 (Formato PDF anverso 1 página y reverso 1 pagina)).",
-        "Para postular a la universidad, los postulantes víctimas de terrorismo necesitan adjuntar constancia del Consejo Nacional de Calificación, declaración jurada según formato N°6, y cumplir con los requisitos del Artículo 12º (a) Certificado de estudios de educación secundaria (digital con código QR y código virtual) o constancia de logros de aprendizaje emitidas por el ministerio de educación. b) Fotografía actual a color, tamaño carnet, en fondo blanco (formato JPG). c) Declaración jurada, que cumple con los requisitos establecidos en el estatuto de la UNAM para ingresar a la Universidad por el Concurso de Admisión (Formato N° 1 - Declaración jurada de inscripción proceso de admisión 2024-I).d) Documento de identificación DNI o certificado de Inscripción C4 (Formato PDF anverso 1 página y reverso 1 pagina))."
-      ]
-    },
-
-    {
-      "tag": "articulo25",
-      "patterns": [
-        "¿Qué documentos debo presentar si soy beneficiaria del Plan Integral de Reparaciones?",
-        "¿Qué debo presentar para acreditar si soy beneficiaria del Plan Integral de Reparaciones?",
-        "¿Cómo postulan al examen los beneficiarios del Plan Integral de Reparaciones?",
-        "¿Qué requisitos debo cumplir si soy beneficiario del Plan Integral de Reparaciones?",
-        "¿Qué documentos necesitan los postulantes del Plan Integral de Reparaciones?",
-        "¿Que examen me corresponde dar si soy beneficiaria del Plan Integral de Reparaciones?",
-        "¿Cuáles son los documentos que debo presentar para participar en el examen de admisión si soy beneficiaria del Plan Integral de Reparaciones?",
-        "¿Qué requisitos debo cumplir para dar el examen de admision si soy beneficiaria del Plan Integral de Reparaciones?",
-        "¿Qué constancia deben presentar los postulantes del Plan Integral de Reparaciones?",
-        "¿Es necesaria una declaración jurada para postular bajo el Plan Integral de Reparaciones?",
-        "¿Qué otros documentos se requieren para postular bajo el Plan Integral de Reparaciones?",
-        "¿Cómo acredito ser beneficiario del Plan Integral de Reparaciones para postular?"
-      ],
-      "responses": [
-        "Los postulantes del Plan Integral de Reparaciones deben presentar en formato PDF en la plataforma virtual de admisión: constancia del Consejo Nacional de Calificación, declaración jurada de no haber accedido a educación superior haciendo valer su calidad de víctima según formato N°6, y los documentos requeridos en el Artículo 12 (a) Certificado de estudios de educación secundaria (digital con código QR y código virtual) o constancia de logros de aprendizaje emitidas por el ministerio de educación. b) Fotografía actual a color, tamaño carnet, en fondo blanco (formato JPG). c) Declaración jurada, que cumple con los requisitos establecidos en el estatuto de la UNAM para ingresar a la Universidad por el Concurso de Admisión (Formato N° 1 - Declaración jurada de inscripción proceso de admisión 2024-I).d) Documento de identificación DNI o certificado de Inscripción C4 (Formato PDF anverso 1 página y reverso 1 pagina)).",
-        "Para postular bajo el Plan Integral de Reparaciones, se debe adjuntar en formato PDF en la plataforma virtual de admisión: constancia del Consejo de Reparaciones de la PCM, declaración jurada de no haber accedido a educación superior haciendo valer su calidad de víctima, y cumplir con los requisitos del Artículo 12 del reglamento (a) Certificado de estudios de educación secundaria (digital con código QR y código virtual) o constancia de logros de aprendizaje emitidas por el ministerio de educación. b) Fotografía actual a color, tamaño carnet, en fondo blanco (formato JPG). c) Declaración jurada, que cumple con los requisitos establecidos en el estatuto de la UNAM para ingresar a la Universidad por el Concurso de Admisión (Formato N° 1 - Declaración jurada de inscripción proceso de admisión 2024-I).d) Documento de identificación DNI o certificado de Inscripción C4 (Formato PDF anverso 1 página y reverso 1 pagina))."
-      ]
-    },
-
-    {
-      "tag": "articulo26",
-      "patterns": [
-        "¿Qué documentos debo presentar si participo por el Convenio Andres Bello?",
-        "¿Qué requisitos debo cumplir si participo por el Convenio Andres Bello?",
-        "¿Qué requisitos debo cumplir para dar el examen de admision si participo por el Convenio Andres Bello?",
-        "¿Que examen me corresponde dar si participo por el Convenio Andres Bello?",
-        "¿Cuáles son los requisitos para presentarme al examen de admisión si participo por el Convenio Andres Bello?",
-        "¿Cuáles son los documentos que debo presentar para participar en el examen de admisión si participo por el Convenio Andres Bello?",
-        "¿Qué documentos debo presentar para poder participar del examen de admisión si participo por el Convenio Andres Bello?",
-        "¿Qué documentos necesito para postular por el Convenio Andrés Bello?",
-        "¿Cómo acredito mis estudios secundarios del extranjero para postular?",
-        "¿Qué constancia se requiere para postular por el Convenio Andrés Bello?",
-        "¿Necesito algún documento especial si nací en el extranjero?",
-        "¿Qué documentos adicionales se requieren para postulantes del Convenio Andrés Bello?",
-        "¿Cómo postulo al examen 2023-II bajo el Convenio Andrés Bello?"
-      ],
-      "responses": [
-        "Para postular por el Convenio Andrés Bello, se necesita: certificado de convalidación o revalidación de estudios, certificado de estudios secundarios acreditado y traducido si es necesario, partida de nacimiento, pasaporte o carne de extranjería, y los documentos requeridos en el artículo 12° con excepciones.",
-        "Los postulantes del Convenio Andrés Bello deben presentar: certificado de convalidación del MINEDU, certificado de estudios secundarios del país de origen, documento de identidad (partida de nacimiento, pasaporte o carne de extranjería), y los documentos del Artículo 12° excepto ciertos incisos."
-      ]
-    },
-
-    {
-      "tag": "articulo27",
-      "patterns": [
-        "¿Cuáles son las fechas de inscripcion para participar del proceso admisión?",
-        "¿Cuando me entregan mi carnet de postulante?",
-        "¿Cuando se realizan la toma de imagenes e identificación biometrica?",
-        "¿Cuando se realizan la toma de imagenes e identificación biometrica del examen extraordinario?",
-        "¿Cuando se realizan la toma de imagenes e identificación biometrica del examen ordinario?",
-        "¿Cuando se publican los resultados?",
-        "¿Cuando se publican los resultados del examen ordinario?",
-        "¿Cuando se publican los resultados del examen extraordinario?",
-		    "¿Cuando es la fecha para rendir el examen extraordinario?",
-		    "¿Cuando es la fecha para rendir el examen ordinario?",
-		    "¿Cuando es el exámen?",
-        "¿Cuando es el examen extraordinario?",
-        "¿Cuando es el examen ordinario?",
-        "¿Cuándo debo inscribirme para el examen de admisión?",
-        "¿Dónde tengo que rendir mi examen de admisión?",
-        "¿En qué sede rindo el examen si elijo una carrera en Ilo?",
-        "¿El lugar del examen depende de la carrera que elija?",
-        "¿Cómo sé la ubicación de mi examen de admisión?",
-        "¿La inscripción y el examen de admisión tienen fechas específicas?"
-      ],
-      "responses": [
-        "La inscripción del postulante se realiza según el cronograma de la tabla 2 del reglamento del Proceso de Admisión 2024. Los postulantes deben rendir su examen en la sede Moquegua o filial Ilo, dependiendo de la ubicación de la carrera profesional a la que postulan.",
-        "Para inscribirse y rendir el examen de admisión, los postulantes deben seguir el cronograma establecido y presentarse en la sede asignada según la carrera elegida, que puede ser Moquegua o la filial Ilo."
-      ]
-    },
-
-    {
-      "tag": "articulo28",
-      "patterns": [
-        "¿Cómo realizo la inscripción para el examen de admisión?",
-		    "¿La inscripción al examen de admisión es en linea?",
-		    "¿La inscripción al examen de admisión es a distancia?",
-        "¿La inscripción al examen de admisión es presencial o virtual?",
-        "¿Dónde debo inscribirme para el examen de admisión?",
-        "¿Puedo inscribirme de otra forma que no sea virtual?",
-        "¿Cómo accedo a la plataforma virtual de inscripción?",
-        "¿Cuál es el link para inscripciones?",
-        "¿Hay otra manera de inscribirme aparte de la plataforma virtual?"
-      ],
-      "responses": [
-        "La inscripción del postulante al examen de admisión es exclusivamente a través de la plataforma virtual de la Universidad Nacional de Moquegua a (https://unam.edu.pe/admision/ ).",
-        "Para inscribirse al examen de admisión, los postulantes deben hacerlo únicamente por medio de la plataforma virtual de la Universidad Nacional de Moquegua (https://unam.edu.pe/admision/ )."
-      ]
-    },
-
-    {
-      "tag": "articulo29",
-      "patterns": [
-        "¿Qué involucra el proceso de preinscripción?",
-        "¿Cómo se verifica la información que envío para la preinscripción?",
-        "¿Qué pasa si hay un error en mi documentación de preinscripción?",
-        "¿Cómo estar seguro que mi preinscripción esta correcta?",
-        "¿Debo pagar algo durante el proceso de preinscripción?",
-        "¿Cómo se si hice mal mi preinscripción?",
-        "¿Puedo corregir mi preinscripción?",
-        "¿Cómo me notifican sobre la validación de mi preinscripción?",
-        "¿Qué documentos necesito para la preinscripción?"
-
-      ],
-      "responses": [
-        "El proceso de preinscripción incluye el llenado de datos y carga de documentos digitales según los requisitos de inscripción de la modalidad a la que se encuentre postulando. La oficina de admisión verifica esta información y notifica al postulante en caso de errores en un plazo de 24 horas. No se realiza ningún pago hasta completar esta validación.",
-        "Durante la preinscripción, se deben llenar los datos y subir documentos digitales según los requisitos de la modalidad seleccionada. La admisión verifica y valida la información, y se notifica al postulante sobre cualquier error. El pago se realiza solo después de validar este proceso."
-      ]
-    },
-
-    {
-      "tag": "articulo30",
-      "patterns": [
-        "¿Qué hago después de que validen mi preinscripción?",
-        "¿Dónde pago el derecho al examen de admisión?",
-        "¿Cómo se valida el pago del examen de admisión?",
-        "¿Puedo pagar el examen de admisión en cualquier sede?",
-        "¿Hay un proceso automático para validar el pago del examen?",
-        "¿Qué debe hacer el postulante una vez validada su preinscripción?",
-        "¿Cuándo debo realizar el pago del examen de admisión?"
-      ],
-      "responses": [
-        "Una vez validada la preinscripción, el postulante debe pagar el derecho al examen de admisión en el área de Caja UNAM en la sede Moquegua o filial Ilo. Este pago se valida automáticamente.",
-        "El postulante debe realizar el pago por el derecho al examen de admisión en el área de Caja UNAM, ubicada en la sede Moquegua o filial Ilo.",
-        "Después de la validación de la preinscripción, se procede al pago por derecho al examen de admisión, que se puede hacer en la sede Moquegua o filial Ilo de la UNAM. El proceso de validación de este pago es automático."
-      ]
-    },
-
-    {
-      "tag": "articulo31",
-      "patterns": [
-        "¿Cómo hago el pago si vengo de otra ciudad para el examen?",
-        "¿Cómo puedo realizar el pago si no me encuentro en Ilo o Moquegua?",
-        "¿Cómo puedo realizar el pago si no puedo acercarme a caja UNAM?",
-        "¿Cómo valido el pago por Banco de la Nación?",
-        "¿Qué hago después de pagar en el Banco de la Nación?",
-        "¿En qué formato debo subir el comprobante de pago a la plataforma?",
-        "¿Es necesario que el boucher sea legible?",
-        "¿Dónde debo subir el boucher escaneado del pago?",
-        "¿Qué pasa si el boucher tiene enmendaduras?"
-      ],
-      "responses": [
-        "Si provienes de otra ciudad, puedes realizar el depósito en el Banco de la Nación (C.C.: 00-141-028154) y luego subir a la plataforma de inscripción el boucher escaneado en formato JPG, asegurándote de que sea legible y sin enmendaduras para su validación.",
-        "Para postulantes de otras ciudades, el pago se hace en el Banco de la Nación (C.C.: 00-141-028154), y luego deben subir el comprobante de pago en formato JPG a la plataforma, verificando que el boucher sea claro y sin alteraciones para su correcta validación."
-      ]
-    },
-
-    {
-      "tag": "articulo32",
-      "patterns": [
-        "¿Qué recibo después de validar mi pago de inscripción?",
-        "¿Despues de validar el pago como soy notificada?",
-        "¿Me confirman mi inscripción después de realizar el pago?",
-        "¿La confirmación de inscripción lo envian a travez del correo electronico?",
-        "¿Porque medio me confirman mi inscripción?",
-        "¿Porqué medio enviaran el prospecto?",
-        "¿Enviaran información información adicional del proceso?",
-        "¿Cómo confirmo mi inscripción para el examen de admisión?",
-        "¿Dónde recibiré la información e instructivos del examen?",
-        "¿Qué sucede tras realizar el pago de inscripción?",
-        "¿Me enviarán información al correo después del pago?",
-        "¿Cómo accederé al correo institucional creado por la UNAM?"
-      ],
-      "responses": [
-        "Tras validar el proceso de pago, el postulante recibirá un mensaje de confirmación de inscripción en su correo, junto con un instructivo para acceder al correo institucional de la UNAM, donde se enviará toda la información e instructivos del examen de admisión.",
-        "Una vez completado el pago, el postulante obtendrá un mensaje de confirmación en su correo proporcionado, incluyendo detalles para acceder al correo institucional de la UNAM, que contiene la información relevante y obligatoria sobre el examen de admisión."
-      ]
-    },
-
-    {
-      "tag": "articulo33",
-      "patterns": [
-        "¿Puedo cambiar mi carrera o modalidad después de inscribirme?",
-        "¿Es posible modificar la sede elegida tras la inscripción?",
-        "¿Se aceptan cambios en la inscripción una vez realizada?",
-        "¿Qué pasa si quiero cambiar mi carrera después de inscribirme?",
-        "¿Puedo cambiar la modalidad de admisión después de inscribirme?",
-        "¿Está permitido modificar la sede elegida tras la inscripción virtual?"
-      ],
-      "responses": [
-        "Una vez realizada la inscripción virtual, no se aceptan cambios de carrera, modalidad o sede.",
-        "Después de completar la inscripción virtual, no es posible realizar cambios en la carrera, modalidad o sede elegida."
-      ]
-    },
-
-    {
-      "tag": "articulo34",
-      "patterns": [
-        "¿Puedo volver a postular en el proceso Ordinario?",
-        "¿Puedo volver a postular?",
-        "¿Puedo participar de otro proceso de admision?",
-        "¿Qué opción tienen los postulantes que no alcanzan vacante a través del CEPREUNAM o del Examen Extraordinario?",
-        "¿Qué oportunidad tiene los postulantes que no alcancen vacantes?",
-        "¿A qué proceso pueden inscribirse los postulantes que no alcanzan vacante por CEPREUNAM o Examen Extraordinario?"
-      ],
-      "responses": [
-        "Los postulantes que no alcanzan vacante, ya sea por la modalidad del CEPREUNAM o por la modalidad del Examen Extraordinario, tienen la opción de inscribirse al proceso de Examen Ordinario.",
-        "Los postulantes que no alcanzan vacante por CEPREUNAM o Examen Extraordinario pueden inscribirse al proceso de Examen Ordinario."
-      ]
-    },
-
-    {
-      "tag": "articulo35",
-      "patterns": [
-        "¿Cómo se realiza la evaluación en el examen ordinario?",
-        "¿Qué se evalúa en el examen extraordinario de la UNAM?",
-        "¿Cuánto porcentaje del examen extraordinario es Razonamiento Matemático?",
-        "¿Cuál es la importancia del Razonamiento Verbal en el examen extraordinario?",
-        "¿Cómo se divide el examen extraordinario en términos de áreas evaluadas?",
-        "¿Qué áreas debo preparar para el examen extraordinario de admisión?",
-        "¿Qué áreas evalúa el examen extraordinario?",
-        "¿Cuál es el peso del Razonamiento Matemático en el examen extraordinario?",
-        "¿Cómo se distribuyen las áreas de evaluación en el examen extraordinario?",
-        "¿Cuánto cuenta el Razonamiento Verbal en el examen extraordinario?",
-        "¿Qué porcentaje de la prueba representa cada sección en el examen extraordinario?"
-      ],
-      "responses": [
-        "En el examen extraordinario de admisión de la UNAM, los postulantes son evaluados en dos áreas principales: Razonamiento Matemático y Razonamiento Verbal, con cada una contribuyendo al 50% del total del examen.",
-        "En el examen extraordinario de admisión, los postulantes son evaluados en dos áreas principales: Razonamiento Matemático y Razonamiento Verbal, cada una representando el 50% del total del examen."
-      ]
-    },
-
-    {
-      "tag": "articulo36",
-      "patterns": [
-        "¿Cuánto es el puntaje de cada pregunta si postulo a ciencias de la salud?",
-        "¿Cuánto es el puntaje de cada pregunta si postulo a sociales?",
-        "¿Cuánto es el puntaje de cada pregunta si postulo a ingenierias?",
-        "¿Cuánto es el puntaje de cada pregunta en el examen de admision?",
-        "¿Cómo se determina los puntajes para cada pregunta si postulo a ciencias de la salud?",
-        "¿Cómo se determina los puntajes para cada pregunta si postulo a sociales?",
-        "¿Cómo se determina los puntajes para cada pregunta si postulo a ingenierias?",
-        "¿Cuánto vale cada pregunta en el examen?",
-        "¿Qué temas evaluan en el examen y cuales son los puntajes?",
-        "¿Qué temas debo estudiar para el examen de admisión ordinario?",
-        "¿En qué se enfoca la prueba general del examen ordinario?",
-        "¿Cuál es el porcentaje de la sección de conocimientos en el examen ordinario?",
-        "¿La prueba de admisión ordinaria incluye preguntas de mi currículo escolar?",
-        "¿Cómo se divide la evaluación en el examen ordinario de la UNAM?",
-        "¿Cuánto vale la sección de Aptitud Académica en el examen ordinario?",
-        "¿De qué se compone la evaluación en el Examen Ordinario?",
-        "¿Cuál es el enfoque principal del Examen Ordinario?",
-        "¿Qué porcentaje del examen se dedica a la Aptitud Académica?",
-        "¿En qué se basa la sección de Conocimientos del examen?",
-        "¿Cómo se divide el examen en términos de contenidos evaluados?"
-      ],
-      "responses": [
-        "Los postulantes que se presenten al examen general de admisión en la modalidad de Examen Ordinario serán evaluados en base a dos componentes principales: Aptitud Académica, que representa el 50% de la prueba, y Conocimientos, que también comprende el 50% restante. La sección de Conocimientos se basa en los contenidos del diseño curricular de educación secundaria a nivel nacional y regional.",
-        "Los postulantes en el examen de admisión en la modalidad de Examen Ordinario serán evaluados en dos componentes principales: Aptitud Académica, que representa el 50% de la prueba, y Conocimientos, que también abarca el 50% restante. La sección de Conocimientos se basa en los contenidos del diseño curricular de educación secundaria a nivel nacional y regional."
-      ]
-    },
+            "tag": "articulo16",
+            "patterns": [
+              "¿Qué documentos necesito si tengo un título Profesional para el examen extraordinario?",
+              "¿Que documentos debo presentar si tengo titulo profesional?",
+              "¿Que requisitos debo presentar si tengo titulo profesional?",
+              "¿Que documentos debo presentar si solo tengo bachiller?",
+              "¿Que requisitos debo presentar si tengo titulo profesional?",
+              "¿Si tengo bachiller a que examen tengo derecho de postular?",
+              "¿Si tengo titulo profesional a que tipo de examen puedo postular?",
+              "¿Si tengo bachiller que documentos debo presentar?",
+              "¿Si tengo titulo profesional que documentos debo presentar?",
+              "¿Puedo participar del examen de admision si mi titulo profesional es del extranjero?",
+              "¿Para el examen extraordinario necesito presentar una copia fedateada o notariada de mi bachiller?",
+              "¿Puedo participar si el grado academico de bachiller he obtenido en la Policia Nacional del Perú?",
+              "¿Puedo partidipar si el titulo profesional he obtenido en la Policia Nacional del Perú?",
+              " ¿Puedo participar si he obtenido el grado academico de bachiller en las fuerzas armadas?",
+              "¿Que debo presentar si mi título es de otro país?",
+              "¿Debo revalidar mi título extranjero para el examen extraordinario?",
+              "¿Qué documentos adicionales debo presentar si soy titulado?",
+              "¿Cómo acredito mi título para el examen extraordinario?",
+              "¿Qué requisitos necesito para dar el examen extraordinario?",
+              "¿Que documento debo presentar si tengo un título?",
+              "¿Cómo debe ser la foto para modalidad de graduados o titulados?",
+              "¿Cómo debe ser la fotografia para modalidad de graduados o titulados?",
+              "¿Cómo debe ser la foto si tengo bachiller?",
+              "¿Cómo debe ser la foto si tengo titulo?",
+              "¿Cómo debe ser la fotografia si tengo bachiller?",
+              "¿Cómo debe ser la fotografia si tengo titulo?",
+              "¿Cómo debe ser la foto para modalidad de graduados?"
+            ],
+            "responses": [
+                "Para el examen extraordinario con título profesional o grado académico otorgado por una universidad del Perú o del extranjero, se requiere una copia fedateada o notariada del título, fotografía actual (a color, tamaño carnet, en fondo blanco, formato JPG) y documento de identificación DNI  o certificado de Inscripción C4 (Formato PDF anverso 1 página y reverso 1 página) y declaraciones juradas N°12 (Cumplimiento de requisitos para la Modalidad de Graduados y/o Titulados Unviersitarios) y N°13 (Declaración jurada indicando el título o grado académico que posee).",
+                "Si posees un título profesional o grado académico para el examen extraordinario otorgado por una universidad del Perú o del extranjero, debes presentar una copia certificada de tu título, fotografía actual (a color, tamaño carnet, en fondo blanco, formato JPG) y documento de identificación DNI  o certificado de Inscripción C4 (Formato PDF anverso 1 página y reverso 1 página) y entregar las declaraciones juradas N°12 (Cumplimiento de requisitos para la Modalidad de Graduados y/o Titulados Unviersitarios) y N°13 (Declaración jurada indicando el título o grado académico que posee)."            
+            ]
+        },
+        
+        {
+            "tag": "articulo17",
+            "patterns": [
+              "¿Que requisitos son los que debo presentar para traslado externo?",
+              "¿Si he sido sancionado por falta grave puedo postular al examen admision como traslado externo?",
+              "¿Si he sido sancionado puedo postular al examen admision como traslado externo?",
+              "¿Qué documentos necesito para inscribirme en la modalidad de traslado externo?",
+              "¿Si tengo antecedentes penales puedo participar del proceso de admisión por traslado externo?",
+              "¿Si tengo antecedentes penales puedo realizar traslado externo?",
+              "¿Cómo acredito mi condición para el traslado externo?",
+              "¿Se requiere algún certificado especial para el traslado externo?",
+              "¿Qué tipo de declaración jurada necesito para el traslado externo?",
+              "¿Cómo presento mis documentos para el traslado externo?",
+              "¿Es necesario tener un cierto número de créditos para el traslado externo?",
+              "¿Cuantos créditos necesito para el traslado externo?",
+              "¿Debo tener un mínimo de semestres aprobados para el traslado externo?",
+              "¿Qué se necesita para el traslado externo?",
+              "¿Debo presentar certificado de estudio cuando es traslado externo?",
+              "¿Es necesario tener un cierto número de créditos para el traslado externo?",
+              "¿Cómo debe ser la fotografia para traslado externo?",
+              "¿Cómo debo tomar la fotografia para realizar mi traslado externo?",
+              "¿Cómo debe ser la foto para traslado externo?",
+              "¿Cómo debo tomar la fotografia para realizar mi traslado externo?"
+            ],
+            "responses": [
+                "Para inscribirse virtualmente como postulante en la modalidad de traslado externo, los candidatos deben presentar a través de la plataforma virtual de admisión, en formato PDF, los siguientes documentos: a) Certificado de estudios universitarios que acrediten haber aprobado por lo menos cuatro periodos lectivos semestrales o dos anuales o setenta y dos (72) créditos. b) Los documentos requeridos en el Artículo 12º (excepto incisos 'a' y 'c') del presente reglamento, los cuales son fotografía actual (a color, tamaño carnet, en fondo blanco, formato JPG) y documento de indetificación DNI o certificado de Inscripción C4 (Formato PDF anverso 1 página y reverso 1 página). c) Declaración Jurada de no tener antecedentes penales según formato N°15. d) Declaración Jurada de no haber sido separado de su institución por medida disciplinaria o falta grave, según formato N°16.",
+                "Los postulantes de traslado externo deben adjuntar a través de la plataforma virtual: certificado de estudios que acrediten ciertos créditos, declaraciones según formato N°15 (Declaración jurada de no tener antecedentes penales) y N°16 (Declaración jurada de no haber sido separado de su institución de procedencia por medida disciplinaria o falta grave), y documentos indicados en el Artículo 12º (excepto incisos 'a' y 'c'), los cuales son fotografía actual (a color, tamaño carnet, en fondo blanco, formato JPG) y documento de indetificación DNI o certificado de Inscripción C4 (Formato PDF anverso 1 página y reverso 1 página) ."
+            ]
+        },
+        
+        {
+            "tag": "articulo18",
+            "patterns": [
+              "¿Que documentos debo presentar para el traslado interno y participar del examen?",
+              "¿Qué documentos necesito para inscribirme en la modalidad de traslado interno?",
+              "¿Que requisitos son los que debo presentar para traslado interno?",
+              "¿Para participar del examen y soy de traslado interno que requisitos debo presentar?",
+              "¿Qué necesito para inscribirme en traslado interno?",
+              "¿Que debo presentar para el traslado interno?",
+              "¿Que debo presentar para la modalidad de traslado interno?",
+              "¿Cómo se realiza la inscripción para el traslado interno?",
+              "¿Qué documentos son necesarios para el traslado interno?",
+              "¿Es necesario un certificado de estudios secundarios para el traslado interno?",
+              "¿Debo presentar certificado de estudio cuando es traslado interno?",
+              "¿Debo presentar algún certificado de la UNAM para el traslado interno?",
+              "¿Qué declaraciones juradas son necesarias para el traslado interno?",
+              "¿Que formatos debo completar para traslado interno?",
+              "¿Que formatos debo llenar para traslado interno?",
+              "¿Cómo debe ser la fotografia para traslado interno?",
+              "¿Cómo debo tomar la fotografia para realizar mi traslado interno?",
+              "¿Cómo debe ser la foto para traslado interno?",
+              "¿Cómo debo tomar la foto para realizar mi traslado interno?"
+            ],
+            "responses": [
+                "Para el traslado interno, se requiere presentar en formato PDF: certificado de estudios secundarios o constancia de conformidad emitida por DASA, certificado de estudios universitarios de la escuela de origen que acrediten haber aprobado por lo menos cuatro periodos lectivos semestrales o 72 créditos, declaraciones juradas de no haber sido sancionado y de no adeudo de bienes según formato N°18 (Declaración jurada de no haber sido sancionado o estar incursando en proceso disciplinario de la escuela de origen) y N°19 (Declaración jurada de no adeudo de material bibliográfico), y documentos del Artículo 12º (excepto incisos 'a' y 'c'), los cuales son fotografía actual (a color, tamaño carnet, en fondo blanco, formato JPG) y documento de indetificación DNI o certificado de Inscripción C4 (Formato PDF anverso 1 página y reverso 1 página).",
+                "Para inscribirse virtualmente como postulante en la modalidad de traslado interno, los candidatos deben presentar en formato PDF, los siguientes documentos: a) Certificado de estudios de Educación Secundaria o Constancia de conformidad de Documentos, emitida por (DASA). b) Certificado de estudios universitarios que acrediten haber aprobado por lo menos cuatro periodos lectivos semestrales o 72 créditos en la escuela profesional de origen. c) Declaración jurada de no haber sido sancionado y no tener proceso disciplinario en trámite en la UNAM, según formato N°18. d) Declaración Jurada de no adeudo de bienes y material bibliográfico de la UNAM, según formato N°19 que figuran en la sección de anexos. e) Documentos del Artículo 12º (excepto incisos 'a' y 'c'), los cuales son fotografía actual (a color, tamaño carnet, en fondo blanco, formato JPG) y documento de indetificación DNI o certificado de Inscripción C4 (Formato PDF anverso 1 página y reverso 1 página)."
+            ]
+        },
+        
+        {
+            "tag": "articulo19",
+            "patterns": [
+              "¿Quiénes no pueden hacer traslado interno?",
+              "¿Puedo realizar traslado interno si ya realice traslado antes?",
+              "¿Puedo realizar traslado interno si ya realice traslado anteriormente?",
+              "¿Puedo realizar traslado interno dos veces?",
+              "¿Cuantas veces puedo hacer traslado interno?",
+              "¿Si ingrese por metodología de grado o título profesional puedo realizar traslado interno?",
+              "¿En que casos no puedo realizar traslado interno?",
+              "¿Puedo volver a realizar traslado interno?",
+              "¿Hay restricciones para el traslado interno?",
+              "¿Puedo hacer traslado interno si ya tengo un título profesional?",
+              "¿Se permite el traslado interno si ya hice uno antes?",
+              "¿Qué pasa si he sido separado temporalmente de la UNAM?",
+              "¿Puedo trasladarme internamente si fui separado por desaprobar una materia?"
+            ],
+            "responses": [
+                "No tienen derecho al traslado interno los estudiantes que ya ingresaron por grado académico, título profesional o traslado externo, quienes ya realizaron un traslado interno anteriormente, y aquellos separados temporalmente de la UNAM por haber desaprobado la misma materia tres veces según el Artículo 102 de la Ley Universitaria.",
+                "Se excluye del traslado interno a estudiantes que previamente ingresaron por otro medio como grado o título profesional, aquellos que ya han hecho un traslado interno, y los que fueron separados temporalmente por desaprobar una materia tres veces, conforme al Artículo 102 de la Ley Universitaria."
+            ]
+        },
+        
+        {
+            "tag": "articulo20",
+            "patterns": [
+              "¿Cómo me exonero del Concurso de Admisión Ordinario si fui primero o segundo en mi colegio?",
+              "¿Cómo me exonero del examen de Admisión si obtuve el primer o segundo puesto en mi colegio?",
+                "¿Cómo me exonero del examen de Admisión si obtuve el primer puesto en mi colegio?",
+                "¿Cómo me exonero del examen de Admisión si obtuve el segundo puesto en mi colegio?",
+                "¿Cómo me exonero del examen ordinario si obtuve el primer puesto en mi colegio?",
+              "¿Cómo me exonero del Concurso de Admisión Ordinario si obtuve el primer o segundo puesto en mi colegio?",
+                "¿Cómo me exonero del Concurso de Admisión Ordinario si obtuve el primer puesto en mi colegio?",
+                 "¿Cómo me exonero del Concurso de Admisión Ordinario si obtuve el segundo puesto en mi colegio?",
+              "¿Qué debo presentar si ocupe los primeros puestos en el colegio?",
+              "¿Por ocupar primer puesto en mi colegio doy un examen separado?",
+              "¿Si ocupe los primeros puestos en mi colegio debo dar el examen ordinario?",
+              "¿Si ocupe el primer puesto en mi colegio debo dar el examen ordinario?",
+              "¿Si ocupe el segundo puesto en mi colegio debo dar el examen ordinario?",
+              "¿Solo puedo postular una vez por la metodología de primeros puestos?",
+              "¿Qué documentos presento para la exoneración por mérito académico en secundaria?",
+              "¿Qué necesito para acreditar haber ocupado los primeros puestos en secundaria?",
+              "¿Cómo demuestro que no he usado antes el derecho de admisión por mérito?",
+              "¿Qué documentos adicionales requiero para la exoneración del Concurso de Admisión?",
+              "¿Cómo debe ser la fotografia para modalidad de primeros puestos?",
+              "¿Cómo debo tomar la fotografia para primeros puestos?",
+              "¿Cómo debe ser la foto para modalidad de primeros puestos?",
+              "¿Cómo debo tomar la foto para primeros puestos?"
+            ],
+            "responses": [
+                "Para la exoneración del Concurso de Admisión por ocupar los (02) primeros puestos en secundaria, se debe presentar en formato PDF: constancia o certificado del orden de mérito que evidencie haber concluido estudios en el año 2022 y 2023, declaración jurada de no haber usado este derecho en otra universidad y los documentos indicados en el Artículo 12º ( a) Certificado de estudios de educación secundaria (digital con código QR y código virtual) o constancia de logros de aprendizaje emitidas por el ministerio de educación. b) Fotografía actual a color, tamaño carnet, en fondo blanco (formato JPG). c) Declaración jurada, que cumple con los requisitos establecidos en el estatuto de la UNAM para ingresar a la Universidad por el Concurso de Admisión (Formato N° 1 de la sección de anexos). d) Documento de identificación DNI o certificado de Inscripción C4 (Formato PDF anverso 1 página y reverso 1 pagina) ).",
+                "Los postulantes que busquen exonerarse del Concurso de Admisión Ordinario por ser primeros en su centro educativo necesitan adjuntar: constancia o certificado de su mérito académico  que evidencie haber concluido estudios en el año 2022 y 202, declaración jurada conforme al formato N°3, y cumplir con los requisitos del Artículo 12º ( a) Certificado de estudios de educación secundaria (digital con código QR y código virtual) o constancia de logros de aprendizaje emitidas por el ministerio de educación. b) Fotografía actual a color, tamaño carnet, en fondo blanco (formato JPG). c) Declaración jurada, que cumple con los requisitos establecidos en el estatuto de la UNAM para ingresar a la Universidad por el Concurso de Admisión (Formato N° 1 de la sección de anexos).d) Documento de identificación DNI o certificado de Inscripción C4 (Formato PDF anverso 1 página y reverso 1 pagina) )."
+            ]
+        },
+        
+        {
+            "tag": "articulo21",
+            "patterns": [
+              "¿Qué documentos debo presentar si soy egresado del COAR?",
+              "¿Qué debo presentar para acreditar que soy del COAR?",
+                "¿Qué trámite debo realizar si soy egresado del COAR?",
+              "¿Qué requisitos debo cumplir si soy egresado del COAR?",
+              "¿Que examen me corresponde dar si soy egresado del COAR?",
+              "¿Qué documentos debo presentar para poder participar del examen de admisión si soy egresado del COAR?",
+              "¿Qué necesitan los egresados de Colegios de Alto Rendimiento para postular al examen extraordinario?",
+              "¿Qué necesito presentar para postular si soy alumno del COAR?",
+              "¿Si estudie en el COAR debo dar un examen diferente?",
+              "¿Cómo acreditan su condición los egresados de Colegios de Alto Rendimiento?",
+              "¿Cuales son los requisitos que debo cumplir para participar del examen de admision si sy egresado del COAR?",
+              "¿Qué documentos presentan los egresados de Colegios de Alto Rendimiento?",
+              "¿Deben los egresados de Colegios de Alto Rendimiento hacer una declaración jurada?",
+              "¿Cómo demuestran los egresados de Colegios de Alto Rendimiento que no usaron esta modalidad antes?",
+              "¿Qué documentación adicional requieren los egresados de Colegios de Alto Rendimiento?",
+              "¿Cómo debe ser la fotografia para la modalidad de alumnos COAR?",
+              "¿Cómo debo tomar la fotografia para la modalidad de alumnos COAR?",
+              "¿Cómo debe ser la foto para alumnos del colegio de alto rendimiento?",
+              "¿Cómo debo tomar la foto para alumnos del colegio de alto rendimiento?",
+              "¿Cómo debe ser la fotografia para la modalidad de alumnos del colegio de alto rendimiento?",
+              "¿Cómo debo tomar la fotografia para la modalidad de alumnos del colegio de alto rendimiento?",
+              "¿Cómo debe ser la foto para modalidad de alumnos COAR?",
+              "¿Cómo debo tomar la foto para alumnos COAR?"
+            ],
+            "responses": [
+                "Los egresados de Colegios de Alto Rendimiento de 2022 o 2023 deben presentar para el examen extraordinario 2024-I: constancia de egreso del colegio, declaración jurada de no haber usado esta modalidad en otras universidades según formato N°8 y los documentos del Artículo 12º (a) Certificado de estudios de educación secundaria (digital con código QR y código virtual) o constancia de logros de aprendizaje emitidas por el ministerio de educación. b) Fotografía actual a color, tamaño carnet, en fondo blanco (formato JPG). c) Declaración jurada, que cumple con los requisitos establecidos en el estatuto de la UNAM para ingresar a la Universidad por el Concurso de Admisión (Formato N° 1 de la sección de anexos). d) Documento de identificación DNI o certificado de Inscripción C4 (Formato PDF anverso 1 página y reverso 1 pagina) ).",
+                "Para postular al examen extraordinario, los egresados de Colegios de Alto Rendimiento deben adjuntar: constancia de egreso expedida por el colegio, declaración jurada según formato N°8,y cumplir con los requisitos del Artículo 12º del reglamento (a) Certificado de estudios de educación secundaria (digital con código QR y código virtual) o constancia de logros de aprendizaje emitidas por el ministerio de educación. b) Fotografía actual a color, tamaño carnet, en fondo blanco (formato JPG). c) Declaración jurada, que cumple con los requisitos establecidos en el estatuto de la UNAM para ingresar a la Universidad por el Concurso de Admisión (Formato N° 1 de la sección de anexos).d) Documento de identificación DNI o certificado de Inscripción C4 (Formato PDF anverso 1 página y reverso 1 pagina) )."
+            ]
+        },
+        
+        {
+            "tag": "articulo22",
+            "patterns": [
+              "¿Qué documentos debo presentar si soy deportista calificado?",
+              "¿Qué debo presentar para acreditar que soy deportista calificado?",
+              "¿Qué requisitos debo cumplir si soydeportista calificado?",
+              "¿Cuáles son los requisitos que debo presentar para presentarme al examen de admisión si soy deportista calificado?",
+              "¿Cuáles son los documentos que debo presentar para rendir el examen de admisión si soy deportista calificado?",
+              "¿Qué necesitan los deportistas calificados para postular a la universidad?",
+              "¿Cómo acreditan su condición los deportistas calificados?",
+              "¿Qué documentos deben presentar los deportistas calificados?",
+              "¿Deben los deportistas hacer alguna declaración jurada?",
+              "¿Qué compromisos deben asumir los deportistas calificados?",
+              "¿Qué documentación adicional requieren los deportistas calificados?",
+              "¿Como demuestro que soy deportista calificado?"
+            ],
+            "responses": [
+              "Los deportistas calificados deben presentar resolución del Instituto Peruano del Deporte, declaración jurada de no haber sido sancionado por actividades antideportivas según formato N°10 y documento de compromiso de participación en el equipo de la universidad, además de los documentos del Artículo 11º.",
+              "Para postular a la universidad, los deportistas calificados deben adjuntar resolución emitida por el IPD, declaración jurada conforme al formato N°10, compromiso de representación deportiva y cumplir con los requisitos del Artículo 11º."
+            ]
+        },
+        
+        {
+            "tag": "articulo23",
+            "patterns": [
+              "¿Qué documentos debo presentar si tengo alguna discapacidad?",
+              "¿Qué debo presentar para acreditar que soy una persona con discapacidad?",
+              "¿Qué requisitos debo cumplir si soy una persona con discapacidad?",
+              "¿Que examen me corresponde dar si soy una persona con discapacidad?",
+              "¿Cuáles son los requisitos para presentarme al examen si soy una persona con discapacidad?",
+              "¿Qué documentos debo presentar para poder participar del examen de admisión si tengo alguna discapacidad?",
+              "¿Qué necesitan las personas con discapacidad para postular a la universidad?",
+              "¿Recibo algun apoyo si soy una persona con discapacidad?",
+              "¿Si presento alguna discapacidad como puedo postular?",
+              "¿Cómo acreditan su condición las personas con discapacidad?",
+              "¿Qué documentos deben presentar las personas con discapacidad?",
+              "¿Hay algún apoyo especial para personas con discapacidad en el examen?",
+              "¿Cómo comunican las personas con discapacidad su necesidad de apoyo en el examen?",
+              "¿Qué documentación adicional requieren las personas con discapacidad?",
+              "¿Cómo debe ser la fotografia para personas con discapacidad?",
+              "¿Cómo debo tomarme la fotografia si soy una persona con discapacidad?",
+              "¿Cómo debe ser la foto para modalidad de personas con discapacidad?",
+              "¿Cómo debo tomar la foto si soy una persona con discapacidad?"
+            ],
+            "responses": [
+                "Las personas con discapacidad deben presentar el carnet expedido por CONADIS y los documentos del Artículo 12º (a) Certificado de estudios de educación secundaria (digital con código QR y código virtual) o constancia de logros de aprendizaje emitidas por el ministerio de educación. b) Fotografía actual a color, tamaño carnet, en fondo blanco (formato JPG). c) Declaración jurada, que cumple con los requisitos establecidos en el estatuto de la UNAM para ingresar a la Universidad por el Concurso de Admisión (Formato N° 1 de la sección de anexos).d) Documento de identificación DNI o certificado de Inscripción C4 (Formato PDF anverso 1 página y reverso 1 pagina) ). Si requieren apoyo especial para el examen, deben comunicarlo a la comisión de admisión hasta el cierre de inscripciones.",
+                "Para postular a la universidad, las personas con discapacidad necesitan adjuntar su carnet de CONADIS y cumplir con los requisitos del Artículo 12º (a) Certificado de estudios de educación secundaria (digital con código QR y código virtual) o constancia de logros de aprendizaje emitidas por el ministerio de educación. b) Fotografía actual a color, tamaño carnet, en fondo blanco (formato JPG). c) Declaración jurada, que cumple con los requisitos establecidos en el estatuto de la UNAM para ingresar a la Universidad por el Concurso de Admisión (Formato N° 1 de la sección de anexos).d) Documento de identificación DNI o certificado de Inscripción C4 (Formato PDF anverso 1 página y reverso 1 pagina) ). Deben informar a la universidad sobre cualquier soporte necesario para el examen."
+            ]
+        },
+        
+        {
+            "tag": "articulo24",
+            "patterns": [
+              "¿Qué documentos debo presentar si soy víctima de terrorismo?",
+              "¿Qué debo presentar para acreditar que soy víctima de terrorismo?",
+              "¿Qué requisitos debo cumplir si soy víctima de terrorismo?",
+              "¿Qué requisitos debo cumplir para dar el examen de admision si soy víctima de terrorismo?",
+              "¿Que examen me corresponde dar si soy víctima de terrorismo?",
+              "¿Cuáles son los requisitos para presentarme al examen de admision si soy víctima de terrorismo?",
+              "¿Cuáles son los documentos que debo presentar para participar en el examen de admisión si soy víctima de terrorismo?",
+              "¿Qué documentos debo presentar para poder participar del examen de admisión si soy victima de terrorismo?",
+              "¿Qué necesitan los postulantes víctimas de terrorismo para postular a la universidad?",
+              "¿Cómo demuestro que fui víctima de terrorismo?",
+              "¿Cómo puedo postular si fui víctima de terrorismo?",
+              "¿Cómo acreditan su condición los postulantes víctimas de terrorismo?",
+              "¿Qué documentos deben presentar los postulantes víctimas de terrorismo?",
+              "¿Deben hacer alguna declaración jurada los postulantes víctimas de terrorismo?",
+              "¿Qué documentación adicional requieren los postulantes víctimas de terrorismo?",
+              "¿Cómo demuestran los postulantes víctimas de terrorismo que no han usado este derecho antes?",
+              "¿Cómo debe ser la fotografia para las víctimas de terrorismo?",
+              "¿Cómo debo tomarme la fotografia si soy víctima de terrorismo?",
+              "¿Cómo debe ser la foto para modalidad de víctimas de terrorismo?",
+              "¿Cómo debo tomar la foto si soy víctima de terrorismo?"
+            ],
+            "responses": [
+                "Los postulantes víctimas de terrorismo deben presentar constancia del Consejo Nacional de Calificación, declaración jurada de no haber usado este derecho en otra universidad y los documentos del Artículo 12º (a) Certificado de estudios de educación secundaria (digital con código QR y código virtual) o constancia de logros de aprendizaje emitidas por el ministerio de educación. b) Fotografía actual a color, tamaño carnet, en fondo blanco (formato JPG). c) Declaración jurada, que cumple con los requisitos establecidos en el estatuto de la UNAM para ingresar a la Universidad por el Concurso de Admisión (Formato N° 1 - Declaración jurada de inscripción proceso de admisión 2024-I).d) Documento de identificación DNI o certificado de Inscripción C4 (Formato PDF anverso 1 página y reverso 1 pagina)).",
+                "Para postular a la universidad, los postulantes víctimas de terrorismo necesitan adjuntar constancia del Consejo Nacional de Calificación, declaración jurada según formato N°6, y cumplir con los requisitos del Artículo 12º (a) Certificado de estudios de educación secundaria (digital con código QR y código virtual) o constancia de logros de aprendizaje emitidas por el ministerio de educación. b) Fotografía actual a color, tamaño carnet, en fondo blanco (formato JPG). c) Declaración jurada, que cumple con los requisitos establecidos en el estatuto de la UNAM para ingresar a la Universidad por el Concurso de Admisión (Formato N° 1 - Declaración jurada de inscripción proceso de admisión 2024-I).d) Documento de identificación DNI o certificado de Inscripción C4 (Formato PDF anverso 1 página y reverso 1 pagina))."
+            ]
+        },
+        
+        {
+            "tag": "articulo25",
+            "patterns": [
+              "¿Qué documentos debo presentar si soy beneficiario del Plan Integral de Reparaciones?",
+              "¿Qué debo presentar para acreditar si soy beneficiaria del Plan Integral de Reparaciones?",
+              "¿Cómo postulan al examen los beneficiarios del Plan Integral de Reparaciones?",
+              "¿Qué requisitos debo cumplir si soy beneficiario del Plan Integral de Reparaciones?",
+              "¿Qué documentos necesitan los postulantes del Plan Integral de Reparaciones?",
+              "¿Que examen me corresponde dar si soy beneficiaria del Plan Integral de Reparaciones?",
+              "¿Cuáles son los documentos que debo presentar para participar en el examen de admisión si soy beneficiaria del Plan Integral de Reparaciones?",
+              "¿Qué requisitos debo cumplir para dar el examen de admision si soy beneficiaria del Plan Integral de Reparaciones?",
+              "¿Qué constancia deben presentar los postulantes del Plan Integral de Reparaciones?",
+              "¿Es necesaria una declaración jurada para postular bajo el Plan Integral de Reparaciones?",
+              "¿Qué otros documentos se requieren para postular bajo el Plan Integral de Reparaciones?",
+              "¿Cómo acredito ser beneficiario del Plan Integral de Reparaciones para postular?",
+              "¿Cómo debe ser la fotografia para postulantes del Plan Integral de Reparaciones?",
+              "¿Cómo debo tomarme la fotografia si soy beneficiario del Plan Integral de Reparaciones?",
+              "¿Cómo debe ser la foto para modalidad de postulantes del Plan Integral de Reparaciones?",
+              "¿Cómo debo tomar la foto si soy postulante del Plan Integral de Reparaciones?"
+            ],
+            "responses": [
+                "Los postulantes del Plan Integral de Reparaciones deben presentar en formato PDF en la plataforma virtual de admisión: constancia del Consejo Nacional de Calificación, declaración jurada de no haber accedido a educación superior haciendo valer su calidad de víctima según formato N°6, y los documentos requeridos en el Artículo 12 (a) Certificado de estudios de educación secundaria (digital con código QR y código virtual) o constancia de logros de aprendizaje emitidas por el ministerio de educación. b) Fotografía actual a color, tamaño carnet, en fondo blanco (formato JPG). c) Declaración jurada, que cumple con los requisitos establecidos en el estatuto de la UNAM para ingresar a la Universidad por el Concurso de Admisión (Formato N° 1 - Declaración jurada de inscripción proceso de admisión 2024-I).d) Documento de identificación DNI o certificado de Inscripción C4 (Formato PDF anverso 1 página y reverso 1 pagina)).",
+                "Para postular bajo el Plan Integral de Reparaciones, se debe adjuntar en formato PDF en la plataforma virtual de admisión: constancia del Consejo de Reparaciones de la PCM, declaración jurada de no haber accedido a educación superior haciendo valer su calidad de víctima, y cumplir con los requisitos del Artículo 12 del reglamento (a) Certificado de estudios de educación secundaria (digital con código QR y código virtual) o constancia de logros de aprendizaje emitidas por el ministerio de educación. b) Fotografía actual a color, tamaño carnet, en fondo blanco (formato JPG). c) Declaración jurada, que cumple con los requisitos establecidos en el estatuto de la UNAM para ingresar a la Universidad por el Concurso de Admisión (Formato N° 1 - Declaración jurada de inscripción proceso de admisión 2024-I).d) Documento de identificación DNI o certificado de Inscripción C4 (Formato PDF anverso 1 página y reverso 1 pagina))."
+            ]
+        },
+        
+        {
+            "tag": "articulo26",
+            "patterns": [
+              "¿Qué documentos debo presentar si participo por el Convenio Andres Bello?",
+              "¿Qué requisitos debo cumplir si participo por el Convenio Andres Bello?",
+              "¿Qué requisitos debo cumplir para dar el examen de admision si participo por el Convenio Andres Bello?",
+              "¿Que examen me corresponde dar si participo por el Convenio Andres Bello?",
+              "¿Cuáles son los requisitos para presentarme al examen de admisión si participo por el Convenio Andres Bello?",
+              "¿Cuáles son los documentos que debo presentar para participar en el examen de admisión si participo por el Convenio Andres Bello?",
+              "¿Qué documentos debo presentar para poder participar del examen de admisión si participo por el Convenio Andres Bello?",
+              "¿Qué documentos necesito para postular por el Convenio Andrés Bello?",
+              "¿Cómo acredito mis estudios secundarios del extranjero para postular?",
+              "¿Qué constancia se requiere para postular por el Convenio Andrés Bello?",
+              "¿Necesito algún documento especial si nací en el extranjero?",
+              "¿Qué documentos adicionales se requieren para postulantes del Convenio Andrés Bello?",
+              "¿Cómo postulo al examen 2023-II bajo el Convenio Andrés Bello?",
+              "¿Cómo debe ser la fotografia si participo por el Convenio Andres Bello?",
+              "¿Cómo debo tomarme la fotografia si soy beneficiario del Plan Integral de Reparaciones?",
+              "¿Cómo debe ser la foto para modalidad del Convenio Andrés Bello?",
+              "¿Cómo debo tomar la foto si soy postulante del Convenio Andrés Bello?"
+            ],
+            "responses": [
+              "Para postular por el Convenio Andrés Bello, se necesita: certificado de convalidación o revalidación de estudios, certificado de estudios secundarios acreditado y traducido si es necesario, partida de nacimiento, pasaporte o carne de extranjería, y los documentos requeridos en el artículo 12° con excepciones.",
+              "Los postulantes del Convenio Andrés Bello deben presentar: certificado de convalidación del MINEDU, certificado de estudios secundarios del país de origen, documento de identidad (partida de nacimiento, pasaporte o carne de extranjería), y los documentos del Artículo 12° excepto ciertos incisos."
+            ]
+        },
 
     {
       "tag": "articulo37",
