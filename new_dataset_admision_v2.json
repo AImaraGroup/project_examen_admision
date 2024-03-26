@@ -548,7 +548,7 @@
         "cuando se abre el proceso de inscripción"
       ],
       "responses": [
-        " "
+        "Las fechas de inscripción al examen de admisión de la UNAM varían. Consulta el sitio web oficial para conocer los plazos actuales.  \n \n Para el 2024-I fue del 29 de enero al 08 de marzo."
       ]
     },
 
@@ -573,7 +573,7 @@
         "plazo de entrega del carnet"
       ],
       "responses": [
-        " "
+        "Las fechas de toma de imágenes, identificación biométrica y generación de carnet de postulante al examen de admisión, varían segun la modalidad de asmision (Ordinario y extraordinario). Consulta el sitio web oficial para conocer los plazos actuales: \n \n . Para el proceso de admision 2024-I:  \n Para la modalidad Extraordinario fue el 8 de Marzo en la sede Moquegua. \n Para la modalidad Ordinario fue el 11 al 15 de marzo en sede Moquegua e Ilo "
       ]
     },
 
@@ -603,7 +603,7 @@
         "fecha de examen canal B Y C",
       ],
       "responses": [
-        " "
+        "Las fechas del  examen de admisión de la UNAM varían en cada proceso de admisión. Consulta el sitio web oficial para conocer los plazos actuales.  \n \n Para el proceso de admisión 2024-I: \n El examen de admisión extraordinario fue el 10 de Marzo. \n El examen de admisión ordinario-canal A (sede Moquegua) fue el 16 de marzo.\n  El examen de admisión ordinario-canal B y C (sede Moquegua e Ilo) fue el 17 de marzo."
       ]
     },
 
@@ -618,8 +618,10 @@
         "¿Puedo realizar mi inscripción al examen de forma virtual?",
         "¿Cuál es el enlace para realizar mi inscripción?",
         "¿Puedo hacer mi inscripción de forma presencial?",
-        "¿Dónde realizo mi inscripción para el examen de admisión?"
-        "puedo realizar mi inscripción de forma virtual"
+        "¿Dónde realizo mi inscripción para el examen de admisión?",
+        "¿puedo realizar mi inscripción de forma virtual?",
+	"¿Cuántas formas de inscribirme existen?",
+	"¿Cómo accedo a la plataforma virtual de inscripción?",
       ],
       "responses": [
         "La inscripción del postulante al examen de admisión es exclusivamente a través de la plataforma virtual de la Universidad Nacional de Moquegua a (https://unam.edu.pe/admision/ )."
@@ -635,9 +637,15 @@
         "¿Cómo se si hice mal mi preinscripción?",
         "¿Puedo corregir mi preinscripción?",
         "¿Cómo me notifican sobre la validación de mi preinscripción?",
-	"cuanto demoran en notificar observaciones",
-        "cuanto tiempo demoraran en validar mi postulación",
-        "cuanto tiempo demoraran en validar mis documentos"
+	"¿cuanto demoran en notificar observaciones?",
+        "¿cuanto tiempo demoraran en validar mi postulación?",
+        "¿cuanto tiempo demoraran en validar mis documentos?",
+	"¿Qué documentos necesito para la preinscripción?",
+	"¿Cómo determina si mi preinscripción fue válida?",
+	"¿Qué cosas tengo que hacer en la preinscripción?",
+	"¿Hay la posibilidad de corregir mi preinscripción?",
+	"¿Puedo hacer la corrección de mi preinscripción?",
+	"¿Cómo sé que mi preinscripción fue correcta?"
       ],
       "responses": [
         "El proceso de preinscripción incluye el llenado de datos y carga de documentos digitales según los requisitos de inscripción de la modalidad a la que se encuentre postulando. La oficina de admisión verifica esta información y notifica al postulante en caso de errores en un plazo de 24 horas. No se realiza ningún pago hasta completar esta validación.",
@@ -774,7 +782,7 @@
       "tag": "articulo37",
       "patterns": [
         "¿Cuantas preguntas tiene el examen?",
-        "¿Cuántas preguntas tiene el examen extraordinario?",
+        "¿Cuántas preguntas tiene el examen ordinario?",
         "¿Cuántas preguntas tiene el examen ordinario?",
         "¿Cuántas preguntas tiene el examen ordinario general?",
         "¿Cuál es el total de preguntas del examen de admisión?",
