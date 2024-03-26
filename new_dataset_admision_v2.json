@@ -424,17 +424,6 @@
        "¿Qué cursos se evalúan para el examen extraordinario?",
        "¿Qué porcentaje se distribuye para el Razonamiento Verbal en el examen extraordinario?",
        "¿De qué forma se dividen las materias en el examen extraordinario?",
-       "¿Para el examen extraordinario solo se toma RV y RM?"
-     ],
-      "responses": [
-        "En el examen extraordinario de admisión de la UNAM, los postulantes son evaluados en dos áreas principales: Razonamiento Matemático y Razonamiento Verbal, con cada una contribuyendo al 50% del total del examen.",
-        "En el examen extraordinario de admisión, los postulantes son evaluados en dos áreas principales: Razonamiento Matemático y Razonamiento Verbal, cada una representando el 50% del total del examen."
-      ]
-    },
-
-    {
-      "tag": "articulo36",
-      "patterns": [
        "puntaje canal A",
        "puntaje canal B",
        "puntaje canal C",
@@ -460,8 +449,7 @@
        "¿Cómo se divide el examen en términos de contenidos evaluados?"
      ],
       "responses": [
-        "Los postulantes que se presenten al examen general de admisión en la modalidad de Examen Ordinario serán evaluados en base a dos componentes principales: Aptitud Académica, que representa el 50% de la prueba, y Conocimientos, que también comprende el 50% restante. La sección de Conocimientos se basa en los contenidos del diseño curricular de educación secundaria a nivel nacional y regional.",
-        "Los postulantes en el examen de admisión en la modalidad de Examen Ordinario serán evaluados en dos componentes principales: Aptitud Académica, que representa el 50% de la prueba, y Conocimientos, que también abarca el 50% restante. La sección de Conocimientos se basa en los contenidos del diseño curricular de educación secundaria a nivel nacional y regional."
+        "En el examen extraordinario de admisión de la UNAM, los postulantes son evaluados en dos áreas principales: Razonamiento Matemático y Razonamiento Verbal, con cada una contribuyendo al 50% del total del examen. \n Los postulantes que se presenten al examen general de admisión en la modalidad de Examen Ordinario serán evaluados en base a dos componentes principales: Aptitud Académica, que representa el 50% de la prueba, y Conocimientos, que también comprende el 50% restante. La sección de Conocimientos se basa en los contenidos del diseño curricular de educación secundaria a nivel nacional y regional. \n para ver MATRIZ DE EVALUACIÓN PARA EL EXAMEN ORDINARIO GENERAL:www.larespuestaentucorazon.com "
       ]
     },
     {
