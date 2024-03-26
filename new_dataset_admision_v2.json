@@ -213,6 +213,379 @@
         "La modalidad del Examen Extraordinario es para titulados o graduados universitarios, traslados externos e internos, primeros puestos de secundaria ,egresados de los Colegios de Alto Rendimiento(COAR), deportistas calificados, personas con discapacidad, víctimas del terrorismo y bajo el Convenio Andrés Bello." 
       ]
     },
+	  
+    {
+      "tag": "articulo27_fecha_inscripción",
+      "patterns": [
+        "hasta que fecha puedo inscribirme al examen UNAM",
+        "fecha de inscripción del proceso de admisión",
+        "hasta que fecha puedo inscribirme",
+        "plazo de inscripciones",
+        "ultimo día de inscripción",
+        "cuando debo inscribirme para el examen de admisión",
+        "cuales son las fechas para inscribirme",
+        "en que fechas puedo inscribirme",
+        "cual es el plazo de inscripciones",
+        "hay alguna fecha límite para inscribirme",
+        "cuando se abre el proceso de inscripción"
+      ],
+      "responses": [
+        " "
+      ]
+    },
+
+    {
+      "tag": "articulo27_registro_biometrico",
+      "patterns": [
+        "cuando será el registro biometrico",
+        "fecha del registro biometrico",
+        "cuando se realiza la toma de imágenes biometricas",
+        "fecha de entrega de carnet",
+        "cuando me entregaran mi carnet de postulante",
+        "cuando se realiza la identificación biometrica",
+        "que es el registro biometrico",
+        "cuando se realiza la captura de datos biometricos",
+        "cuando se hace el registro biometrico",
+        "cual es la programación para el registro biometrico",
+        "para cuando esta previsto el registro biometrico",
+        "hay alguna fecha establecida para el registro biometrico",
+        "cuando empieza la captura de datos biometricos",
+        "cuando recibire mi carnet",
+        "en que fecha me entregaran mi carnet de postulante",
+        "plazo de entrega del carnet"
+      ],
+      "responses": [
+        " "
+      ]
+    },
+
+    {
+      "tag": "articulo27_fechas_examen_ordinario_Extraordinario",
+      "patterns": [
+        "cuando sera el examen ordinario",
+        "cuando será el examen extraordinario",
+        "fecha del examen ordinario",
+        "fecha del examen extraordinario",
+        "cuando se realizara el examen extraordinario",
+        "cuando se realizara el examen ordinario",
+        "para cuando esta programado el examen ordinario",
+        "para cuando esta programado el examen extraordinario",
+        "en que fecha se llevara a cabo el examen extraordinario",
+        "en que fecha se llevara a cabo el examen ordinario",
+        "día del examen ordinario",
+        "dia del examen extraordinario",
+        "fecha del examen de admisión",
+        "que día doy mi examen",
+        "cuando se realizara el examen de admisión",
+        "día del examen de admisión",
+        "cuando se publican los resultados",
+        "para cuando esta prevista la publicación de resultados",
+        "fecha que se anuncian los resultados",
+        "fecha de examel canal A",
+        "fecha de examen canal B Y C",
+      ],
+      "responses": [
+        " "
+      ]
+    },
+
+    {
+      "tag": "articulo28",
+      "patterns": [
+        "¿Cómo realizo la inscripción para el examen de admisión?",
+        "¿La inscripción al examen de admisión es en linea?",
+        "¿Dónde debo inscribirme para el examen de admisión?",
+        "¿Cuál es el link para inscripciones?",
+        "¿Puedo realizar mi inscripción de forma remota?",
+        "¿Puedo realizar mi inscripción al examen de forma virtual?",
+        "¿Cuál es el enlace para realizar mi inscripción?",
+        "¿Puedo hacer mi inscripción de forma presencial?",
+        "¿Dónde realizo mi inscripción para el examen de admisión?"
+        "puedo realizar mi inscripción de forma virtual"
+      ],
+      "responses": [
+        "La inscripción del postulante al examen de admisión es exclusivamente a través de la plataforma virtual de la Universidad Nacional de Moquegua a (https://unam.edu.pe/admision/ )."
+      ]
+    },
+
+    {
+      "tag": "articulo29",
+      "patterns": [
+        "¿Qué involucra el proceso de preinscripción?",
+        "¿Cómo se verifica la información que envío para la preinscripción?",
+        "¿Qué pasa si hay un error en mi documentación de preinscripción?",
+        "¿Cómo estar seguro que mi preinscripción esta correcta?",
+        "¿Cómo se si hice mal mi preinscripción?",
+        "¿Puedo corregir mi preinscripción?",
+        "¿Cómo me notifican sobre la validación de mi preinscripción?",
+        "cuanto tiempo demoraran en validar mi postulación",
+        "cuanto tiempo demoraran en validar mis documentos"
+      ],
+      "responses": [
+        "El proceso de preinscripción incluye el llenado de datos y carga de documentos digitales según los requisitos de inscripción de la modalidad a la que se encuentre postulando. La oficina de admisión verifica esta información y notifica al postulante en caso de errores en un plazo de 24 horas. No se realiza ningún pago hasta completar esta validación.",
+      ]
+    },
+
+    {
+      "tag": "articulo30",
+      "patterns": [
+       "validación de la preinscipción",
+       "despues de validar mi preinscripción",
+       "pago derecho de examen",
+       "cuando realizo el pago para el examen",
+       "¿Qué hago después de que validen mi preinscripción?",
+       "¿Dónde pago el derecho al examen de admisión?",
+       "¿Cómo se valida el pago del examen de admisión?",
+       "¿Puedo pagar el examen de admisión en cualquier sede?",
+       "¿Hay un proceso automático para validar el pago del examen?",
+       "¿Qué debe hacer el postulante una vez validada su preinscripción?",
+       "¿Cuándo debo realizar el pago del examen de admisión?",  
+       "¿Cómo realizo el pago de admisión?",
+       "¿Dónde hago el pago de admisión?",
+       "¿Cuál es el lugar donde tengo que hacer el pago del examen de admisión?"
+     ],
+      "responses": [
+        "Una vez validada la preinscripción, el postulante debe pagar el derecho al examen de admisión en el área de Caja UNAM en la sede Moquegua o filial Ilo. Este pago se valida automáticamente.",
+        "El postulante debe realizar el pago por el derecho al examen de admisión en el área de Caja UNAM, ubicada en la sede Moquegua o filial Ilo.",
+        "Después de la validación de la preinscripción, se procede al pago por derecho al examen de admisión, que se puede hacer en la sede Moquegua o filial Ilo de la UNAM. El proceso de validación de este pago es automático."
+      ]
+    },
+
+    {
+      "tag": "articulo31",
+      "patterns": [
+       "como puedo realizar el pago si soy de otra ciudad",
+       "puedo pagar en el banco",
+       "¿Cómo hago el pago si vengo de otra ciudad para el examen?",
+       "¿Cómo puedo realizar el pago si no me encuentro en Ilo o Moquegua?",
+       "¿Cómo puedo realizar el pago si no puedo acercarme a caja UNAM?",
+       "¿Cómo valido el pago por Banco de la Nación?",
+       "¿Qué hago después de pagar en el Banco de la Nación?",
+       "¿En qué formato debo subir el comprobante de pago a la plataforma?",
+       "¿Es necesario que el boucher sea legible?",
+       "¿Dónde debo subir el boucher escaneado del pago?",
+       "¿Qué pasa si el boucher tiene enmendaduras?",
+       "¿Puedo realizar el pago desde otra región?",
+       "¿Puedo realizar el pago a través de un agente del Banco de la Nación?"
+     ],
+      "responses": [
+        "Si provienes de otra ciudad, puedes realizar el depósito en el Banco de la Nación (C.C.: 00-141-028154) y luego subir a la plataforma de inscripción el boucher escaneado en formato JPG, asegurándote de que sea legible y sin enmendaduras para su validación.",
+        "Para postulantes de otras ciudades, el pago se hace en el Banco de la Nación (C.C.: 00-141-028154), y luego deben subir el comprobante de pago en formato JPG a la plataforma, verificando que el boucher sea claro y sin alteraciones para su correcta validación."
+      ]
+    },
+
+    {
+      "tag": "articulo32",
+      "patterns": [
+        "¿Qué recibo después de validar mi pago de inscripción?",
+        "¿Despues de validar el pago como soy notificada?",
+        "¿Me confirman mi inscripción después de realizar el pago?",
+        "¿La confirmación de inscripción lo envian a travez del correo electronico?",
+        "¿Porque medio me confirman mi inscripción?",
+        "¿Porqué medio enviaran el prospecto?",
+        "¿Enviaran información información adicional del proceso?",
+        "¿Cómo confirmo mi inscripción para el examen de admisión?",
+        "¿Dónde recibiré la información e instructivos del examen?",
+        "¿Qué sucede tras realizar el pago de inscripción?",
+        "¿Me enviarán información al correo después del pago?",
+        "¿Cómo accederé al correo institucional creado por la UNAM?",
+        "¿Cómo me confirman el pago que realicé para el examen de admisión?",
+        "¿Dónde recibiré la confirmación de mi inscripción al examen de admisión?",
+        "¿A través de qué medio me notificarán mi inscripción al examen de admisión?",
+        "Ya realicé el pago de preinscripción, ¿qué sigue?",
+        "¿Cómo sé que fue aceptado mi pago para el examen de admisión?",
+        "¿Cómo sé que validaron mi pago realizado para el examen de admisión?"
+      ],
+      "responses": [
+        "Tras validar el proceso de pago, el postulante recibirá un mensaje de confirmación de inscripción en su correo, junto con un instructivo para acceder al correo institucional de la UNAM, donde se enviará toda la información e instructivos del examen de admisión.",
+        "Una vez completado el pago, el postulante obtendrá un mensaje de confirmación en su correo proporcionado, incluyendo detalles para acceder al correo institucional de la UNAM, que contiene la información relevante y obligatoria sobre el examen de admisión."
+      ]
+    },
+
+    {
+      "tag": "articulo33",
+      "patterns": [
+       "cambio de carrera despues de la inscripción",
+       "¿Puedo cambiar mi carrera o modalidad después de inscribirme?",
+       "¿Es posible modificar la sede elegida tras la inscripción?",
+       "¿Se aceptan cambios en la inscripción una vez realizada?",
+       "¿Qué pasa si quiero cambiar mi carrera después de inscribirme?",
+       "¿Puedo cambiar la modalidad de admisión después de inscribirme?",
+       "¿Está permitido modificar la sede elegida tras la inscripción virtual?",
+       "¿Existe la posibilidad de cambiarme de carrera o modalidad luego de inscribirme?",
+       "Luego de inscribirme, ¿puedo cambiar de carrera?",
+       "¿Se aceptan cambios de carrera una vez realizada la inscripción?",
+       "¿Se aceptan cambios de modalidad de admisión luego de realizar la inscripción?",
+       "¿Es posible hacer un cambio de carrera para el examen de admisión luego de realizar la inscripción?"      
+     ],
+      "responses": [
+        "Una vez realizada la inscripción virtual, no se aceptan cambios de carrera, modalidad o sede.",
+        "Después de completar la inscripción virtual, no es posible realizar cambios en la carrera, modalidad o sede elegida."
+      ]
+    },
+
+    {
+      "tag": "articulo34",
+      "patterns": [
+        "¿Puedo volver a postular en el proceso Ordinario?",
+        "¿Puedo volver a postular?",
+        "¿Puedo participar de otro proceso de admision?",
+        "¿Qué opción tienen los postulantes que no alcanzan vacante a través del CEPREUNAM o del Examen Extraordinario?",
+        "¿Qué oportunidad tiene los postulantes que no alcancen vacantes?",
+        "¿A qué proceso pueden inscribirse los postulantes que no alcanzan vacante por CEPREUNAM o Examen Extraordinario?",
+        "No alcancé una vacante por CEPREUNAM, ¿puedo postular?",
+        "No alcancé una vacante por el examen extraordinario, ¿puedo postular?",
+        "¿Puedo volver a dar el examen de admisión?",
+        "¿Cuándo puedo volver a postular?"
+      ],
+      "responses": [
+        "Los postulantes que no alcanzan vacante, ya sea por la modalidad del CEPREUNAM o por la modalidad del Examen Extraordinario, tienen la opción de inscribirse al proceso de Examen Ordinario.",
+        "Los postulantes que no alcanzan vacante por CEPREUNAM o Examen Extraordinario pueden inscribirse al proceso de Examen Ordinario."
+      ]
+    },
+
+    {
+      "tag": "articulo35",
+      "patterns": [
+       "puntaje examen extraordinario",
+       "evaluación examen extraordinario",
+       "¿Cómo se realiza la evaluación en el examen extraordinario?",
+       "¿Qué se evalúa en el examen extraordinario de la UNAM?",
+       "¿Cuánto porcentaje del examen extraordinario es Razonamiento Matemático?",
+       "¿Cuál es la importancia del Razonamiento Verbal en el examen extraordinario?",
+       "¿Cómo se divide el examen extraordinario en términos de áreas evaluadas?",
+       "¿Qué áreas debo preparar para el examen extraordinario de admisión?",
+       "¿Qué áreas evalúa el examen extraordinario?",
+       "¿Cuál es el peso del Razonamiento Matemático en el examen extraordinario?",
+       "¿Cómo se distribuyen las áreas de evaluación en el examen extraordinario?",
+       "¿Cuánto cuenta el Razonamiento Verbal en el examen extraordinario?",
+       "¿Qué porcentaje de la prueba representa cada sección en el examen extraordinario?",
+       "¿Qué materias se evalúan en el examen extraordinario?",
+       "¿Cómo se realiza la evaluación en el examen extraordinario?",
+       "¿Qué cursos se evalúan para el examen extraordinario?",
+       "¿Qué porcentaje se distribuye para el Razonamiento Verbal en el examen extraordinario?",
+       "¿De qué forma se dividen las materias en el examen extraordinario?",
+       "¿Para el examen extraordinario solo se toma RV y RM?"
+     ],
+      "responses": [
+        "En el examen extraordinario de admisión de la UNAM, los postulantes son evaluados en dos áreas principales: Razonamiento Matemático y Razonamiento Verbal, con cada una contribuyendo al 50% del total del examen.",
+        "En el examen extraordinario de admisión, los postulantes son evaluados en dos áreas principales: Razonamiento Matemático y Razonamiento Verbal, cada una representando el 50% del total del examen."
+      ]
+    },
+
+    {
+      "tag": "articulo36",
+      "patterns": [
+       "puntaje canal A",
+       "puntaje canal B",
+       "puntaje canal C",
+       "¿Cuánto es el puntaje de cada pregunta si postulo a ciencias de la salud?",
+       "¿Cuánto es el puntaje de cada pregunta si postulo a sociales?",
+       "¿Cuánto es el puntaje de cada pregunta si postulo a ingenierias?",
+       "¿Cuánto es el puntaje de cada pregunta en el examen de admision?",
+       "¿Cómo se determina los puntajes para cada pregunta si postulo a ciencias de la salud?",
+       "¿Cómo se determina los puntajes para cada pregunta si postulo a sociales?",
+       "¿Cómo se determina los puntajes para cada pregunta si postulo a ingenierias?",
+       "¿Cuánto vale cada pregunta en el examen?",
+       "¿Qué temas evaluan en el examen y cuales son los puntajes?",
+       "¿Qué temas debo estudiar para el examen de admisión ordinario?",
+       "¿En qué se enfoca la prueba general del examen ordinario?",
+       "¿Cuál es el porcentaje de la sección de conocimientos en el examen ordinario?",
+       "¿La prueba de admisión ordinaria incluye preguntas de mi currículo escolar?",
+       "¿Cómo se divide la evaluación en el examen ordinario de la UNAM?",
+       "¿Cuánto vale la sección de Aptitud Académica en el examen ordinario?",
+       "¿De qué se compone la evaluación en el Examen Ordinario?",
+       "¿Cuál es el enfoque principal del Examen Ordinario?",
+       "¿Qué porcentaje del examen se dedica a la Aptitud Académica?",
+       "¿En qué se basa la sección de Conocimientos del examen?",
+       "¿Cómo se divide el examen en términos de contenidos evaluados?"
+     ],
+      "responses": [
+        "Los postulantes que se presenten al examen general de admisión en la modalidad de Examen Ordinario serán evaluados en base a dos componentes principales: Aptitud Académica, que representa el 50% de la prueba, y Conocimientos, que también comprende el 50% restante. La sección de Conocimientos se basa en los contenidos del diseño curricular de educación secundaria a nivel nacional y regional.",
+        "Los postulantes en el examen de admisión en la modalidad de Examen Ordinario serán evaluados en dos componentes principales: Aptitud Académica, que representa el 50% de la prueba, y Conocimientos, que también abarca el 50% restante. La sección de Conocimientos se basa en los contenidos del diseño curricular de educación secundaria a nivel nacional y regional."
+      ]
+    },
+    {
+      "tag": "articulo36_salud",
+      "patterns": [
+       "¿Qué materias tengo que estudiar si postulo a ciencias de la salud?",
+       "¿Qué cursos tengo que estudiar si postulo a medicina?",
+       "¿Para ciencias de la salud, qué asignaturas tengo que estudiar?",
+       "¿Para ciencias de la salud, qué materias tengo que estudiar?",
+       "¿Cuáles son las materias que tengo que estudiar para medicina?"
+     ],
+      "responses": [
+        "Para el área de ciencias de la salud se tomarán la evaluación en base a las siguientes asignaturas: Aritmética-álgebra, Geometría-trigonometría, Razonamiento Matemático, Lenguaje, Razonamiento verbal, Historia, Física, Química y Biología."
+      ]
+    },
+    {
+      "tag": "articulo37_ingenierias",
+      "patterns": [
+       "¿Qué materias tengo que estudiar si postulo al área de ingenierías?",
+       "¿Qué cursos tengo que estudiar si postulo al área de ingenierías?",
+       "¿Para ingenierías, qué asignaturas tengo que estudiar?",
+       "¿Para ingenierías, qué materias tengo que estudiar?",
+       "¿Cuáles son las materias que tengo que estudiar para ingenierías?",
+       "¿Cuáles son los cursos que tengo que estudiar para ingresar a ingeniería de sistemas?",
+       "¿Cuáles son los cursos que tengo que estudiar para ingresar a ingeniería de minas?",
+       "¿Cuáles son los cursos que tengo que estudiar para ingresar a ingeniería agroindustrial?",
+       "¿Cuáles son los cursos que tengo que estudiar para ingresar a ingeniería ambiental?",
+       "¿Cuáles son los cursos que tengo que estudiar para ingresar a ingeniería pesquera?"
+
+     ],
+      "responses": [
+        "Para el área de ingenierías se tomarán la evaluación en base a las siguientes asignaturas: Aritmética-álgebra, Geometría-trigonometría, Razonamiento Matemático, Lenguaje, Razonamiento verbal, Historia, Geografía, Física, Química y Biología."
+      ]
+    },
+    {
+      "tag": "articulo36_sociales",
+      "patterns": [
+       "¿Qué materias tengo que estudiar si postulo al área de sociales?",
+       "¿Qué cursos tengo que estudiar si postulo al área de sociales?",
+       "¿Para sociales, qué asignaturas tengo que estudiar?",
+       "¿Para sociales, qué materias tengo que estudiar?",
+       "¿Cuáles son las materias que tengo que estudiar para sociales?",
+       "¿Cuáles son los cursos que tengo que estudiar para ingresar a ingeniería pesquera?"
+     ],
+      "responses": [
+        "Para el área de ciencias de la salud se tomarán la evaluación en base a las siguientes asignaturas: Aritmética-álgebra, Geometría-trigonometría, Razonamiento Matemático, Lenguaje, Razonamiento verbal, Historia, Geografía, Economía y Biología."
+      ]
+    },
+    {
+      "tag": "articulo37",
+      "patterns": [
+        "¿Cuantas preguntas tiene el examen?",
+        "¿Cuántas preguntas tiene el examen extraordinario?",
+        "¿Cuántas preguntas tiene el examen ordinario?",
+        "¿Cuántas preguntas tiene el examen ordinario general?",
+        "¿Cuál es el total de preguntas del examen de admisión?",
+        "¿Cuál es el total de preguntas del examen ordinario?",   
+        "¿Cuál es el total de preguntas del examen extraordinario?",
+        "¿Cuánto es el tiempo de duración del examen?",
+        "¿Cuánto es el tiempo de duración del examen extraordinario?",
+        "¿Cuánto es el tiempo de duración del examen ordinario?",
+        "Cuánto es el tiempo de duración del examen ordinario general?",
+        "¿Cuánto tiempo dura el examen?",
+        "En cuanto tiempo debo responder el examen de admisión?",
+        "En cuanto tiempo debo responder el examen ordinario?",   
+        "En cuanto tiempo debo responder el examen extraordinario?",
+        "¿Cuántas preguntas tiene el examen de admisión en la UNAM?",
+        "¿Cuál es la duración total del examen de admisión en la UNAM?",
+        "¿Cuánto tiempo tengo para responder el examen de admisión?",
+        "¿Cuántas preguntas debo esperar en el examen ordinario y extraordinario?",
+        "¿Cuál es la duración del examen de admisión, tanto ordinario como extraordinario?",
+        "¿De cuántas preguntas se compone el examen de admisión?",
+        "¿Cuál es el tiempo asignado para completar el examen de admisión?",
+        "¿Tengo 2 horas para todas las preguntas del examen?",
+        "¿El examen ordinario y extraordinario tienen la misma cantidad de preguntas?",
+        "¿Qué tiempo se me da para contestar el examen en la UNAM?"
+      ],
+      "responses": [
+        "El examen presencial, tanto en la modalidad ordinario como extraordinario, en la Universidad Nacional de Moquegua consta de 60 preguntas y tiene una duración de 2 horas (120 minutos).",
+        "Tanto en las modalidades ordinaria como extraordinaria del examen de admisión de la UNAM, el examen consta de 60 preguntas, y los postulantes tienen un total de 2 horas (120 minutos) para completarlo."
+      ]
+    },
+	  
     {
 	   "tag": "articulo49",
 	   "patterns": [
