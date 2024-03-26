@@ -494,6 +494,14 @@
 	 {
       "tag": "articulo27",
       "patterns": [
+	      "fecha examen ordinario",
+	      "fecha examen extraordinario",
+	      "cuando se realiza el registro biometrico",
+	      "publicación de resultados",
+	      "cuando me entregan mi carnet",
+	      "fecha límite de incripción al examen de admisión",
+	      "fecha de examel canal A",
+	      "fecha de examen canal B Y C",
         "¿Cuáles son las fechas de inscripcion para participar del proceso admisión?",
         "¿Cuando me entregan mi carnet de postulante?",
         "¿Cuando se realizan la toma de imagenes e identificación biometrica?",
@@ -543,8 +551,8 @@
 	"¿Puedo realizar mi suscripción al examen de forma virtual?",
 	"¿Cuántas formas de inscribirme existen?",
 	"¿Cuál es el enlace para realizar mi inscripción?",
-	"¿Puedo hacer mi suscripción de forma presencial?",
-	"¿Dónde realizo mi suscripción para el examen de admisión?"
+	"¿Puedo hacer mi inscripción de forma presencial?",
+	"¿Dónde realizo mi inscripción para el examen de admisión?"
       ],
       "responses": [
         "La inscripción del postulante al examen de admisión es exclusivamente a través de la plataforma virtual de la Universidad Nacional de Moquegua a (https://unam.edu.pe/admision/ ).",
@@ -579,6 +587,10 @@
     {
       "tag": "articulo30",
       "patterns": [
+	      "validación de la preinscipción",
+	      "despues de validar mi preinscripción",
+	      "pago derecho de examen",
+	      "cuando realizo el pago para el examen",
         "¿Qué hago después de que validen mi preinscripción?",
         "¿Dónde pago el derecho al examen de admisión?",
         "¿Cómo se valida el pago del examen de admisión?",
@@ -600,6 +612,8 @@
     {
       "tag": "articulo31",
       "patterns": [
+	      "como puedo realizar el pago si soy de otra ciudad",
+	      "puedo pagar en el banco",
         "¿Cómo hago el pago si vengo de otra ciudad para el examen?",
         "¿Cómo puedo realizar el pago si no me encuentro en Ilo o Moquegua?",
         "¿Cómo puedo realizar el pago si no puedo acercarme a caja UNAM?",
@@ -649,6 +663,7 @@
     {
       "tag": "articulo33",
       "patterns": [
+	      "cambio de carrera despues de la inscripción",
         "¿Puedo cambiar mi carrera o modalidad después de inscribirme?",
         "¿Es posible modificar la sede elegida tras la inscripción?",
         "¿Se aceptan cambios en la inscripción una vez realizada?",
@@ -690,6 +705,8 @@
     {
       "tag": "articulo35",
       "patterns": [
+	      "puntaje examen extraordinario",
+	      "evaluación examen extraordinario",
         "¿Cómo se realiza la evaluación en el examen extraordinario?",
         "¿Qué se evalúa en el examen extraordinario de la UNAM?",
         "¿Cuánto porcentaje del examen extraordinario es Razonamiento Matemático?",
@@ -717,6 +734,9 @@
     {
       "tag": "articulo36",
       "patterns": [
+	      "puntaje canal A",
+	      "puntaje canal B",
+	      "puntaje canal C",
         "¿Cuánto es el puntaje de cada pregunta si postulo a ciencias de la salud?",
         "¿Cuánto es el puntaje de cada pregunta si postulo a sociales?",
         "¿Cuánto es el puntaje de cada pregunta si postulo a ingenierias?",
