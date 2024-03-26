@@ -311,13 +311,13 @@
     {
       "tag": "articulo29",
       "patterns": [
-        "¿Qué involucra el proceso de preinscripción?",
-        "¿Cómo se verifica la información que envío para la preinscripción?",
+        "¿Cómo se valida la información que envío para la preinscripción?",
         "¿Qué pasa si hay un error en mi documentación de preinscripción?",
         "¿Cómo estar seguro que mi preinscripción esta correcta?",
         "¿Cómo se si hice mal mi preinscripción?",
         "¿Puedo corregir mi preinscripción?",
         "¿Cómo me notifican sobre la validación de mi preinscripción?",
+	"cuanto demoran en notificar observaciones",
         "cuanto tiempo demoraran en validar mi postulación",
         "cuanto tiempo demoraran en validar mis documentos"
       ],
@@ -331,77 +331,36 @@
       "patterns": [
        "validación de la preinscipción",
        "despues de validar mi preinscripción",
-       "pago derecho de examen",
-       "cuando realizo el pago para el examen",
+       "pago derecho de examen despues de validacion",
+       "cuando realizo el pago para el examen despues de validacion",
        "¿Qué hago después de que validen mi preinscripción?",
-       "¿Dónde pago el derecho al examen de admisión?",
+       "¿Dónde pago el derecho al examen de admisión si ya esta validado?",
        "¿Cómo se valida el pago del examen de admisión?",
        "¿Puedo pagar el examen de admisión en cualquier sede?",
-       "¿Hay un proceso automático para validar el pago del examen?",
        "¿Qué debe hacer el postulante una vez validada su preinscripción?",
-       "¿Cuándo debo realizar el pago del examen de admisión?",  
+       "¿Cuándo debo realizar el pago del examen de admisión?",
+	"¿donde puedo realizar el pago del examen de admisión?",
        "¿Cómo realizo el pago de admisión?",
        "¿Dónde hago el pago de admisión?",
-       "¿Cuál es el lugar donde tengo que hacer el pago del examen de admisión?"
-     ],
-      "responses": [
-        "Una vez validada la preinscripción, el postulante debe pagar el derecho al examen de admisión en el área de Caja UNAM en la sede Moquegua o filial Ilo. Este pago se valida automáticamente.",
-        "El postulante debe realizar el pago por el derecho al examen de admisión en el área de Caja UNAM, ubicada en la sede Moquegua o filial Ilo.",
-        "Después de la validación de la preinscripción, se procede al pago por derecho al examen de admisión, que se puede hacer en la sede Moquegua o filial Ilo de la UNAM. El proceso de validación de este pago es automático."
-      ]
-    },
-
-    {
-      "tag": "articulo31",
-      "patterns": [
-       "como puedo realizar el pago si soy de otra ciudad",
-       "puedo pagar en el banco",
+       "¿Cuál es el lugar donde tengo que hacer el pago del examen de admisión?",
+	"como puedo realizar el pago si soy de otra ciudad",
+       "puedo pagar en el banco de la nacion",
        "¿Cómo hago el pago si vengo de otra ciudad para el examen?",
        "¿Cómo puedo realizar el pago si no me encuentro en Ilo o Moquegua?",
        "¿Cómo puedo realizar el pago si no puedo acercarme a caja UNAM?",
        "¿Cómo valido el pago por Banco de la Nación?",
        "¿Qué hago después de pagar en el Banco de la Nación?",
        "¿En qué formato debo subir el comprobante de pago a la plataforma?",
-       "¿Es necesario que el boucher sea legible?",
-       "¿Dónde debo subir el boucher escaneado del pago?",
-       "¿Qué pasa si el boucher tiene enmendaduras?",
+       "¿Es necesario que el voucher sea legible?",
+       "¿Dónde debo subir el voucher escaneado del pago?",
+       "¿Qué pasa si el voucher tiene enmendaduras?",
        "¿Puedo realizar el pago desde otra región?",
        "¿Puedo realizar el pago a través de un agente del Banco de la Nación?"
      ],
       "responses": [
-        "Si provienes de otra ciudad, puedes realizar el depósito en el Banco de la Nación (C.C.: 00-141-028154) y luego subir a la plataforma de inscripción el boucher escaneado en formato JPG, asegurándote de que sea legible y sin enmendaduras para su validación.",
-        "Para postulantes de otras ciudades, el pago se hace en el Banco de la Nación (C.C.: 00-141-028154), y luego deben subir el comprobante de pago en formato JPG a la plataforma, verificando que el boucher sea claro y sin alteraciones para su correcta validación."
+        "Una vez validada la preinscripción, el postulante debe pagar el derecho al examen de admisión en el área de Caja UNAM en la sede Moquegua o filial Ilo. Este pago se valida automáticamente. \n Si provienes de otra ciudad, puedes realizar el depósito en el Banco de la Nación (C.C.: 00-141-028154) y luego subir a la plataforma de inscripción el boucher escaneado en formato JPG, asegurándote de que sea legible y sin enmendaduras para su validación.",
       ]
     },
-
-    {
-      "tag": "articulo32",
-      "patterns": [
-        "¿Qué recibo después de validar mi pago de inscripción?",
-        "¿Despues de validar el pago como soy notificada?",
-        "¿Me confirman mi inscripción después de realizar el pago?",
-        "¿La confirmación de inscripción lo envian a travez del correo electronico?",
-        "¿Porque medio me confirman mi inscripción?",
-        "¿Porqué medio enviaran el prospecto?",
-        "¿Enviaran información información adicional del proceso?",
-        "¿Cómo confirmo mi inscripción para el examen de admisión?",
-        "¿Dónde recibiré la información e instructivos del examen?",
-        "¿Qué sucede tras realizar el pago de inscripción?",
-        "¿Me enviarán información al correo después del pago?",
-        "¿Cómo accederé al correo institucional creado por la UNAM?",
-        "¿Cómo me confirman el pago que realicé para el examen de admisión?",
-        "¿Dónde recibiré la confirmación de mi inscripción al examen de admisión?",
-        "¿A través de qué medio me notificarán mi inscripción al examen de admisión?",
-        "Ya realicé el pago de preinscripción, ¿qué sigue?",
-        "¿Cómo sé que fue aceptado mi pago para el examen de admisión?",
-        "¿Cómo sé que validaron mi pago realizado para el examen de admisión?"
-      ],
-      "responses": [
-        "Tras validar el proceso de pago, el postulante recibirá un mensaje de confirmación de inscripción en su correo, junto con un instructivo para acceder al correo institucional de la UNAM, donde se enviará toda la información e instructivos del examen de admisión.",
-        "Una vez completado el pago, el postulante obtendrá un mensaje de confirmación en su correo proporcionado, incluyendo detalles para acceder al correo institucional de la UNAM, que contiene la información relevante y obligatoria sobre el examen de admisión."
-      ]
-    },
-
     {
       "tag": "articulo33",
       "patterns": [
@@ -429,18 +388,18 @@
       "patterns": [
         "¿Puedo volver a postular en el proceso Ordinario?",
         "¿Puedo volver a postular?",
-        "¿Puedo participar de otro proceso de admision?",
         "¿Qué opción tienen los postulantes que no alcanzan vacante a través del CEPREUNAM o del Examen Extraordinario?",
         "¿Qué oportunidad tiene los postulantes que no alcancen vacantes?",
         "¿A qué proceso pueden inscribirse los postulantes que no alcanzan vacante por CEPREUNAM o Examen Extraordinario?",
         "No alcancé una vacante por CEPREUNAM, ¿puedo postular?",
         "No alcancé una vacante por el examen extraordinario, ¿puedo postular?",
-        "¿Puedo volver a dar el examen de admisión?",
-        "¿Cuándo puedo volver a postular?"
+        "¿Puedo volver a dar el examen de admisión ordinario si no ingres por cepre o extraordinario?",
+        "¿Cuándo puedo volver a postular sino ingrese?",
+	"si no ingrese por cepre puedo postular a examen ordinario",
+	
       ],
       "responses": [
-        "Los postulantes que no alcanzan vacante, ya sea por la modalidad del CEPREUNAM o por la modalidad del Examen Extraordinario, tienen la opción de inscribirse al proceso de Examen Ordinario.",
-        "Los postulantes que no alcanzan vacante por CEPREUNAM o Examen Extraordinario pueden inscribirse al proceso de Examen Ordinario."
+        "Los postulantes que no alcanzan vacante, ya sea por la modalidad del CEPREUNAM o por la modalidad del Examen Extraordinario, tienen la opción de inscribirse al proceso de Examen Ordinario."
       ]
     },
 
