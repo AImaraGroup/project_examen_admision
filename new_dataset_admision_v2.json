@@ -453,52 +453,6 @@
       ]
     },
     {
-      "tag": "articulo36_salud",
-      "patterns": [
-       "¿Qué materias tengo que estudiar si postulo a ciencias de la salud?",
-       "¿Qué cursos tengo que estudiar si postulo a medicina?",
-       "¿Para ciencias de la salud, qué asignaturas tengo que estudiar?",
-       "¿Para ciencias de la salud, qué materias tengo que estudiar?",
-       "¿Cuáles son las materias que tengo que estudiar para medicina?"
-     ],
-      "responses": [
-        "Para el área de ciencias de la salud se tomarán la evaluación en base a las siguientes asignaturas: Aritmética-álgebra, Geometría-trigonometría, Razonamiento Matemático, Lenguaje, Razonamiento verbal, Historia, Física, Química y Biología."
-      ]
-    },
-    {
-      "tag": "articulo37_ingenierias",
-      "patterns": [
-       "¿Qué materias tengo que estudiar si postulo al área de ingenierías?",
-       "¿Qué cursos tengo que estudiar si postulo al área de ingenierías?",
-       "¿Para ingenierías, qué asignaturas tengo que estudiar?",
-       "¿Para ingenierías, qué materias tengo que estudiar?",
-       "¿Cuáles son las materias que tengo que estudiar para ingenierías?",
-       "¿Cuáles son los cursos que tengo que estudiar para ingresar a ingeniería de sistemas?",
-       "¿Cuáles son los cursos que tengo que estudiar para ingresar a ingeniería de minas?",
-       "¿Cuáles son los cursos que tengo que estudiar para ingresar a ingeniería agroindustrial?",
-       "¿Cuáles son los cursos que tengo que estudiar para ingresar a ingeniería ambiental?",
-       "¿Cuáles son los cursos que tengo que estudiar para ingresar a ingeniería pesquera?"
-
-     ],
-      "responses": [
-        "Para el área de ingenierías se tomarán la evaluación en base a las siguientes asignaturas: Aritmética-álgebra, Geometría-trigonometría, Razonamiento Matemático, Lenguaje, Razonamiento verbal, Historia, Geografía, Física, Química y Biología."
-      ]
-    },
-    {
-      "tag": "articulo36_sociales",
-      "patterns": [
-       "¿Qué materias tengo que estudiar si postulo al área de sociales?",
-       "¿Qué cursos tengo que estudiar si postulo al área de sociales?",
-       "¿Para sociales, qué asignaturas tengo que estudiar?",
-       "¿Para sociales, qué materias tengo que estudiar?",
-       "¿Cuáles son las materias que tengo que estudiar para sociales?",
-       "¿Cuáles son los cursos que tengo que estudiar para ingresar a ingeniería pesquera?"
-     ],
-      "responses": [
-        "Para el área de ciencias de la salud se tomarán la evaluación en base a las siguientes asignaturas: Aritmética-álgebra, Geometría-trigonometría, Razonamiento Matemático, Lenguaje, Razonamiento verbal, Historia, Geografía, Economía y Biología."
-      ]
-    },
-    {
       "tag": "articulo37",
       "patterns": [
         "¿Cuantas preguntas tiene el examen?",
@@ -529,7 +483,6 @@
       ],
       "responses": [
         "El examen presencial, tanto en la modalidad ordinario como extraordinario, en la Universidad Nacional de Moquegua consta de 60 preguntas y tiene una duración de 2 horas (120 minutos).",
-        "Tanto en las modalidades ordinaria como extraordinaria del examen de admisión de la UNAM, el examen consta de 60 preguntas, y los postulantes tienen un total de 2 horas (120 minutos) para completarlo."
       ]
     },
 	  
@@ -583,15 +536,6 @@
 	     "Pierde el derecho de ingreso, quien: \n \n a) No entregue todos los documentos originales en el plazo establecido en conformidad a lo solicitado según los Artículos 49° y 50°, y de acuerdo a la modalidad que haya ingresado. \n \n b) Haya sido sancionado en aplicación del presente reglamento. \n \n c) Renuncie o abandone la vacante otorgada (no se matricule en los plazos establecidos). \n \n d) Haya cometido un acto ilícito en cualquier etapa del Concurso de Admisión, comprobado en fecha posterior. \n \n Las vacantes libres en aplicación del presente artículo se cubrirán de acuerdo con lo estipulado en el artículo 39° del presente reglamento. \n \n De forma excepcional por razones ajenas al ingresante podrá solicitar (mediante documento) una ampliación de plazo para la presentación de la documentación correspondiente."
 	   ]
 	 },
-	 {
-	   "tag": "articulo52",
-	   "patterns": [
-	     
-	   ],
-	   "responses": [
-	     "Quienes pueden perder el derecho de ingreso a la UNAM incluyen a aquellos que no entreguen todos los documentos originales dentro del plazo establecido según el Artículo 49° y 50° ,de acuerdo con la modalidad de ingreso. También, quienes hayan sido sancionados en aplicación del presente reglamento, renuncien o abandonen la vacante otorgada, o hayan cometido un acto ilícito en cualquier etapa del Concurso de Admisión. Las vacantes liberadas se llenan de acuerdo con lo estipulado en el Artículo 39° del reglamento de EXAMEN GENERAL DEL PROCESO DE ADMISIÓN ."
-	   ]
-	 },
 	
 	 {
 	   "tag": "articulo54",  
@@ -620,13 +564,7 @@
 	     "Los ingresantes del Examen de Admisión CEPRE, Ordinario y Extraordinario que requieran solicitar su Constancia de Ingreso, para algún tipo de trámite externo, será dentro de las 72 horas a partir de la publicación de los resultados del examen ordinario, mediante mesa de partes de la UNAM. \n \n Asimismo, deberá entregar lo siguiente: \n - FUT con la solicitud de Constancia de Ingreso. \n - Recibo de pago por Constancia de ingreso: Según TUPA."
 	   ]
 	 },
-
-
-
-
-
-
- {
+ 	{
 		"tag": "formato_01",
 		"patterns": [
 		  "¿Qué tipo de cosas debo presentar para la inscripción del proceso de admisión?",
