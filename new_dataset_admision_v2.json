@@ -213,6 +213,94 @@
         "La modalidad del Examen Extraordinario es para titulados o graduados universitarios, traslados externos e internos, primeros puestos de secundaria ,egresados de los Colegios de Alto Rendimiento(COAR), deportistas calificados, personas con discapacidad, víctimas del terrorismo y bajo el Convenio Andrés Bello." 
       ]
     },
+    {
+	   "tag": "articulo49",
+	   "patterns": [
+	     "¿Qué documentos debo entregar luego de ser admitido como ingresante?",
+	     "¿Hay un plazo para entregar mis documentos después de haber ingresado?",
+	     "¿Cuánto tiempo tengo para proporcionar los documentos despues de haber ingresado?",
+	     "¿Cuántos días tengo para presentar mis documentos luego de ser admitido como ingresante?",
+	     "que debo presentar despues de haber ingresado",
+	     "cuanto tiempo tengo para entregar mis documentos depues de haber ingresado",
+	     "cual es el plazo para entregar mis documentos despues de haber ingresado",
+	     "que procede despues de haber ingresado",
+	     "que debo hacer con mis documentos depues de haber ingresado",
+	     "cuales son los documentos que debo presentar despues de haber ingresado",
+	     "despues de ingresar que documentos debo presentar",
+	     "despues de ingresar cuento tiempo tengo para presentar mis papeles",
+	     "¿Qué deben presentar los ingresantes por la modalidad Titulados o Graduados?",
+	     "¿Qué documentos originales deben presentar los ingresantes por modalidad Titulados o Graduados?",
+	     "El ingresado por la modalidad de Titulados O Graduados, ¿Qué documentos debo presentar?",
+	     "¿Que documentos debo presentar si ingresé por la modalidad Titulados o Graduados?",
+	     "¿Qué documentos debo proporcionar si mi ingreso se ha realizado bajo la modalidad de Titulados o Graduados?",
+	     "que debo hacer si ya ingrese a la universidad?"
+	   ],
+	   "responses": [
+	     "El ingresante deberá entregar en físico en un plazo no mayor a 48 horas después de publicados los resultados oficiales, los documentos originales, según su modalidad de ingreso y su certificado de estudios secundarios o la constancia de logros de aprendizaje. Los documentos deberán reunir los siguientes requisitos:  \n \n a) Los certificados de estudios deberán estar sellados por la Dirección y la Secretaría de la Institución Educativa que los expide. \n \n b) En caso de ser un certificado digital oficial o Constancia de Logros de Aprendizaje debe contar con el Código QR para constatar su veracidad. \n \n c) En los certificados de estudios, todos los cursos deberán aparecer con notas aprobatorias, \n \n d) No deberán presentar borrones, enmendaduras o modificaciones. \n \n Los ingresantes por la modalidad Titulados o Graduados en la UNAM deberán presentar copia fedateada por la universidad de origen o notarial de su certificado de estudios universitarios, y deberá presentar el documento original para el trámite de convalidación de cursos según TUPA."
+	   ]
+	 },
+	
+	 {
+	   "tag": "articulo52",
+	   "patterns": [
+	     
+		"¿Cuando pierdo el derecho de ingreso?",
+	     "¿En que casos pierdo el derecho de ingreso?",
+	     "¿Cuáles son las razones por las cuales puede perder el derecho de ingreso una vez dada el examen de admision?",
+	     "¿Qué ocurre si renuncias o abandonas la vacante otorgadas luego de ser admitido?",
+	     "¿Qué sucede si se comete un acto ilícito en el Concurso de Admisión?",
+	     "que sucede con los ingresantes no presentan los documentos",
+	     "hay plazo para presentar documentos para ingresantes",
+	     "cuando pierdo mi vacante",
+	     "perder mi vacante despues de haber ingresado",
+	     "sino entrego mis documentos pierdo vacante",
+	     "no entrego documentos pierdo vancante",
+	     "como pierdo mi vacante",
+	     "en que caso uno pierde su vancat",
+	     "que pasa si me olvido de presentar mi documentos?"
+	   ],
+	   "responses": [
+	     "Pierde el derecho de ingreso, quien: \n \n a) No entregue todos los documentos originales en el plazo establecido en conformidad a lo solicitado según los Artículos 49° y 50°, y de acuerdo a la modalidad que haya ingresado. \n \n b) Haya sido sancionado en aplicación del presente reglamento. \n \n c) Renuncie o abandone la vacante otorgada (no se matricule en los plazos establecidos). \n \n d) Haya cometido un acto ilícito en cualquier etapa del Concurso de Admisión, comprobado en fecha posterior. \n \n Las vacantes libres en aplicación del presente artículo se cubrirán de acuerdo con lo estipulado en el artículo 39° del presente reglamento. \n \n De forma excepcional por razones ajenas al ingresante podrá solicitar (mediante documento) una ampliación de plazo para la presentación de la documentación correspondiente."
+	   ]
+	 },
+	 {
+	   "tag": "articulo52",
+	   "patterns": [
+	     
+	   ],
+	   "responses": [
+	     "Quienes pueden perder el derecho de ingreso a la UNAM incluyen a aquellos que no entreguen todos los documentos originales dentro del plazo establecido según el Artículo 49° y 50° ,de acuerdo con la modalidad de ingreso. También, quienes hayan sido sancionados en aplicación del presente reglamento, renuncien o abandonen la vacante otorgada, o hayan cometido un acto ilícito en cualquier etapa del Concurso de Admisión. Las vacantes liberadas se llenan de acuerdo con lo estipulado en el Artículo 39° del reglamento de EXAMEN GENERAL DEL PROCESO DE ADMISIÓN ."
+	   ]
+	 },
+	
+	 {
+	   "tag": "articulo54",  
+	   "patterns": [
+	     "Requiero solicitar mi constancia de Ingreso, ¿Cómo hago?",
+	     "¿Donde obtengo mi constancia de Ingreso?",
+	     "¿Quiero mi Constancia de Ingreso donde lo solicito?",
+	     "¿A dónde solicito para optener mi constancia de ingreso?",
+	     "¿Cómo solicito para obtener la Constancia de Ingreso?",
+	     "¿Cuándo debo solicitar mi Constancia de Ingreso como ingresante  del Examen de Admisión Ordinario, Extraordinario O la CEPRE?",
+	     "¿Cuánto tiempo tienen para solicitar la Constancia de Ingreso después de la publicación de resultados?",
+	     "¿Hasta cuando tengo para solicitar la constancia de Ingreso?",
+	     "¿Cuanto tiempo tengo para solicitar la constancia de Ingreso?",
+	     "¿Cual es la fecha límite para poder hacer la solicitud de constancia de Ingreso?",
+	     "¿Cuál es el plazo establecido para solicitar la Constancia de Ingreso según el TUPA?",
+	     "¿Solo necesito realizar la solicitud para optener la constancia de ingreso?", 
+	     "¿Qué se requiere para solicitar la Constancia de Ingreso?",
+	     "¿Qué documentos deben entregar junto con la solicitud de Constancia de Ingreso?",
+	     "¿Cuales son los requisitos para obtener la Constancia de Ingreso?",
+	     "¿Cuándo se debe pagar el recibo por la Constancia de Ingreso?",
+	     "¿cual es el costo de constancia de ingreso?",
+	     "Que monto de dinero debo pagar por la constancia de ingreso?"
+	
+	   ],
+	   "responses": [
+	     "Los ingresantes del Examen de Admisión CEPRE, Ordinario y Extraordinario que requieran solicitar su Constancia de Ingreso, para algún tipo de trámite externo, será dentro de las 72 horas a partir de la publicación de los resultados del examen ordinario, mediante mesa de partes de la UNAM. \n \n Asimismo, deberá entregar lo siguiente: \n - FUT con la solicitud de Constancia de Ingreso. \n - Recibo de pago por Constancia de ingreso: Según TUPA."
+	   ]
+	 }
+
 
   ]
 }
