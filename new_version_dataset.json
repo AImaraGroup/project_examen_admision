@@ -1,0 +1,218 @@
+{
+  "intents": [
+    {
+      "tag": "saludos",
+      "patterns": ["Hola", "Holi", "¿Como estas?","quien eres","que puedes hacer"],
+      "responses": [
+        "Holi, soy tu asistente para el Examen de Admisión, en que puedo ayudarte?",
+        "Hola,soy tu asistente para el Examen de Admisión, en que necesitas ayuda",
+        "Hola , indicame en que te puedo ayudar"
+      ]
+    },
+
+
+    {
+      "tag": "articulo3",
+      "patterns": [
+        "Cuántas veces al año se hace el proceso de admisión",
+        "Cuántas veces al año se hace el examen de admisión en UNAM?",
+        "cuantos examenes hay en la unam por año",
+        "hay examen a mitad del año en la UNAM",
+        "hay examen a medio año en la UNAM",
+        "Se realiza proceso de admisión a mitad de año",
+        "En el año solo se realiza un proceso de admisión",
+        "Cuántas pruebas se realizan en la UNAM cada año",
+        "Sabes cuántos exámenes se hacen en la UNAM anualmente",
+        "Cuál es la cantidad de exámenes que se dan en la UNAM en un año?",
+        "Cuántos exámenes se programan en la UNAM",
+        "Cuántos exámenes se dan en la UNAM",
+        "Cuántos exámenes hay en la UNAM por año",
+        "cuantas convocatorias de examen de admisión tiene la UNAM",
+        "cuantas veces se ofrece el examen de admisión",
+        "habrá examen a mediados de año",
+        "cuando habrá otro examen en la unam"
+      ],
+      "responses": [
+        "La Universidad realiza su proceso de admisión dos veces al año conforme al calendario académico anual de la UNAM, aprobado por la Comisión Organizadora."
+      ]
+    },
+
+    {
+      "tag": "articulo8",
+      "patterns": [
+        "Que información me brinda el prospecto de admisión",
+        "como adquiero el prospecto de admisión",
+        "como obtengo el prospecto de admisión",
+        "que información se incluye en el prospecto de admisión",
+        "me enviarán el prospecto de admisión a mi correo",
+        "Es necesario comprar el prospecto para postular",
+        "Dónde se publica el prospecto de admisión",
+        "que información encuentro en el prospecto de admisión",
+        "cual es el contenido del prospecto de admisión",
+        "información del prospecto",
+        "donde encuentro el prospecto de admisión",
+        "como puedo obtener el prospecto de admisión",
+        "donde consigo información sobre el proceso de admisión",
+        "como puedo acceder al prospecto de admisión"
+      ],
+      "responses": [
+        "El prospecto de admisión contiene toda la información relacionada con el Concurso de Admisión, es indispensable y forma parte del servicio prestado, el cual será adquirido vía internet en la página web institucional de la Universidad y será remitido a los correos registrados por los postulantes. "
+      ]
+    },
+
+    {
+      "tag": "articulo9",
+      "patterns": [
+        "El examen se realizara en línea o presencial",
+        "El examen de admisión será en línea o presencial",
+        "Se realizará el examen de admisión de forma virtual",
+        "Se ha decidido si el examen de admisión será en línea o presencial",
+        "El examen de admision será a distancia",
+        "el examen de admisión se llevará a cabo de forma virtual o presencial",
+        "se realizara el examen de admisión de manera remota",
+        "será el examen en líneo o presencial",
+        "el examen sera online",
+        "el examen de la UNAM será presencial o en línea",
+        "el examen sera presencial",
+        "puedo dar el examen virtual"
+      ],
+      "responses": [
+        "El Concurso de Admisión 2024-I se llevará a cabo de manera presencial según el Reglamento de Examen General del Proceso de Admisión."
+      ]
+    },
+
+    {
+      "tag": "articulo11",
+      "patterns": [
+        "Cuáles son las modalidades de concurso de admisión a la Universidad",
+        "que metodos existen para ingresar a la universidad",
+        "que modalidades hay para ingresar a la UNAM",
+        "cuales son las alternativas de ingreso a la universidad",
+        "Existe más de una modalidad para el concurso de admisión",
+        "Hay diferentes formas de ingresar a la Universidad",
+        "Qué opciones tengo para el concurso de admisión",
+        "Cuántas y cuáles son las modalidades de ingreso a la Universidad",
+        "Cuáles son las modalidades de ingreso",
+        "modalidades de ingreso UNAM",
+        "modalidades de examen de admisión",
+        "modalidades de ingreso a la universidad",
+        "diferentes formas del concurso de admisión",
+        "opciones de ingreso a la universidad",
+        "que alternativas existen para ingresar a la UNAM",
+        "cuantas formas hay de ingresar a la UNAM"
+      ],
+      "responses": [
+        "El concurso de admisión a la Universidad se efectúa en tres modalidades: CEPREUNAM, Examen Extraordinario y Examen Ordinario."
+      ]
+    },
+    {
+      "tag": "articulo12",
+      "patterns": [
+        "puedo postular al examen ordinario",
+        "a quienes se les permite participar del examen ordinario general",
+        "quienes pueden presentar el examen ordinario",
+        "quienes pueden dar el examen ordinario general",
+        "que personas pueden rendir el examen ordinario",
+        "que personas pueden optar por el examen ordinario",
+        "Quiénes pueden postular al Examen Ordinario General",
+        "Quiénes pueden postular al examen Ordinario",
+        "quienes tienen autorización para participar en el examen ordinario",
+        "quienes pueden postular al examen ordinario general",
+        "donde debo realizar mi preinscripcion para el examen ordinario",
+        "Cómo hago mi preinscripción para participar del examen ordinario",
+        "Qué documentos necesito para la preinscripción al examen de admisión",
+        "Dónde se hace la preinscripción para el examen de admisión ordinario",
+        "donde realizo mi preinscripción para el examen ordinario",
+        "tamaño de fotografía para inscribirme para el examen ordinario",
+        "tipo de fotografía para inscribirme para el examen ordinario",
+        "cual es el formato de fotografia para inscribirme para el examen ordinario ",
+        "cual es el formato de la foto",
+        "cual es el tamaño de la foto",
+        "articulo 12",
+        "que dice el articulo 12",
+        "donde encuentro el articulo 12",
+        "articulo12"
+      ],
+      "responses": [
+        "La modalidad del Examen Ordinario general está orientada para los egresados de educación secundaria (debidamente acreditado). Los postulantes a la universidad por esta modalidad deberán realizar su preinscripción a  través  de la plataforma virtual en la página Web de la UNAM https://unam.edu.pe/admision/ , adjuntando en formato PDF, los siguientes documentos: \n a) Certificado de estudios de educación secundaria (digital con código QR y código virtual) o constancia de logros de aprendizaje emitidas por el ministerio de educación. \n b) Fotografía actual a color, tamaño carnet, en fondo blanco (formato JPG). \n c) Declaración jurada, que cumple con los requisitos establecidos en el estatuto de la UNAM para ingresar a la Universidad por el Concurso de Admisión (Formato N° 1 de la sección de anexos). \n d) Documento de identificación DNI o certificado de Inscripción C4 (Formato PDF anverso 1 página y reverso 1 pagina) ."
+      ]
+    },
+
+    {
+      "tag": "articulo13",
+      "patterns": [
+        "cuales son los requisitos para acceder modalidad de ingreso CEPREUNAM",
+        "que necesito para participar del proceso de admisión a traves de CEPREUNAM",
+        "como funciona el ingreso a la universidad mediante CEPREUNAM",
+        "cual es el procedimiento para ingresar por la modalidad CEPREUNAM",
+        "que se necesita para ingresar a la UNAM por CEPREUNAM",
+        "que requiero para participar en el proceso de admisión a traves de CEPREUNAM",
+        "Cómo es el ingreso a la Universidad a través de CEPREUNAM",
+        "Cómo ingreso por la modalidad de CEPREUNAM",
+        "Cuales son los requisitos para ingresar a la universidad por CEPREUNAM",
+        "Es diferente el proceso de ingreso por CEPREUNAM",
+        "Hay un proceso especial para quienes ingresan por CEPREUNAM"
+      ],
+      "responses": [
+        "Para acceder a la modalidad de ingreso por CEPREUNAM, el postulante debe estar matriculado en el Centro Preuniversitario de la Universidad Nacional de Moquegua (CEPRE) y rendir un examen de conocimientos. Para el proceso de admisión 2024-I el CEPRE dispone de dos fases y el número de vacantes está establecido en la tabla N°1. del Reglamento general de admisión 2024-I o ingresando al siguiente link: https://unam.edu.pe/wp-content/uploads/2024/02/REGLAMENTO_EXAMEN_GENERAL_%20ADMISION_2024_ACTUALIZADO.pdf"
+      ]
+    },
+
+    {
+      "tag": "articulo14",
+      "patterns": [
+        "cual es el número de vacantes disponibles si participo por CEPREUNAM",
+        "cual es el número de vacantes por modalidad CEPREUNAM",
+        "cuantas fases son en CEPREUNAM",
+        "fases del CEPREUNAM",
+        "cual es el número de vacantes por CEPREUNAM",
+        "cuantas vacantes hay por la modalidad CEPREUNAM",
+        "cual es la disponibilidad de vacantes para cada escuela en la modalidad CEPREUNAM",
+        "Cómo se informa sobre el número de vacantes para CEPREUNAM",
+        "Dónde puedo encontrar las vacantes disponibles para cada escuela profesional",
+        "Con cuánta antelación se publican las vacantes para CEPREUNAM",
+        "Se actualiza la información de vacantes para CEPREUNAM en cada ciclo de estudios",
+        "En qué plataforma se anuncian las fases y vacantes de CEPREUNAM",
+        "como se distribuyer las vacantes de CEPREUNAM",
+        "vacantes ofrecidas por CEPREUNAM"
+      ],
+      "responses": [
+        "El número de fases en cada proceso, así como el número de vacantes disponibles para cada escuela profesional de las que dispone la modalidad por CEPREUNAM son publicadas en la web UNAM previo a cada inicio del ciclo de estudios. "
+      ]
+    },
+
+    {
+      "tag": "articulo15",
+      "patterns": [
+        "que personas pueden optar por el examen extraordinario",
+        "quienes tienen la posibilidad de ingresar por modalidad del examen extraordinario",
+        "a quienes se les permite participar del examen extraordinario",
+        "que personas pueden elegir dar el examen extraordinario",
+        "Quiénes pueden dar el Examen Extraordinario",
+        "Pueden los titulados universitarios postular por Examen Extraordinario",
+        "Los primeros puestos de secundaria pueden dar el Examen Extraordinario",
+        "Los egresados del COAR pueden dar el Examen Extraordinario",
+        "Los deportistas calificados tienen acceso al Examen Extraordinario",
+        "Pueden postular por Examen Extraordinario las víctimas del terrorismo",
+        "Los traslados internos y externos entran en el Examen Extraordinario",
+        "Los traslados internos entran en el Examen Extraordinario",
+        "Los traslados externos entran en el Examen Extraordinario",
+        "Los traslados externos pueden participar en el Examen Extraordinario",
+        "Los traslados internos pueden participar en el Examen Extraordinario",
+        "cuales son las personas que pueden optar por el examen extraordinario",
+        "a quienes se les permite participar del examen extraordinario",
+        "los egresados COAR pueden participar del examen extraordinario",
+        "los translados internos pueden ingresar por Examen Extraordinario",
+        "Los traslados externos tienen la opción de presentar el Examen Extraordinario",
+        "Tienen derecho los primeros puestos de secundaria a dar el Examen Extraordinario",
+        "soy egresado COAR que modalidad me corresponde",
+        "soy deportista calificado que examen debo dar",
+        "si termine en primer o segundo puesto que examen me corresponde"
+      ],
+      "responses": [
+        "La modalidad del Examen Extraordinario es para titulados o graduados universitarios, traslados externos e internos, primeros puestos de secundaria ,egresados de los Colegios de Alto Rendimiento(COAR), deportistas calificados, personas con discapacidad, víctimas del terrorismo y bajo el Convenio Andrés Bello." 
+      ]
+    }
+
+  ]
+}
