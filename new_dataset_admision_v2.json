@@ -213,7 +213,325 @@
         "La modalidad del Examen Extraordinario es para titulados o graduados universitarios, traslados externos e internos, primeros puestos de secundaria ,egresados de los Colegios de Alto Rendimiento(COAR), deportistas calificados, personas con discapacidad, víctimas del terrorismo y bajo el Convenio Andrés Bello." 
       ]
     },
-	  
+    {
+          "tag": "articulo16",
+          "patterns": [
+            "¿Qué documentos necesito si tengo un título Profesional para el examen extraordinario?",
+            "¿Que documentos debo presentar si tengo titulo profesional?",
+            "¿Que requisitos debo presentar si tengo titulo profesional?",
+            "¿Que documentos debo presentar si tengo bachiller?",
+            "¿Que requisitos debo presentar si tengo bachiller?",
+            "¿Si tengo bachiller a que examen tengo derecho de postular?",
+            "¿Si tengo titulo profesional a que tipo de examen puedo postular?",
+            "¿Si tengo bachiller que documentos debo presentar?",
+            "¿Si tengo titulo profesional que documentos debo presentar?",
+            "¿Puedo participar del examen de admision si mi titulo profesional es del extranjero?",
+            "¿Para el examen extraordinario necesito presentar una copia fedateada o notariada de mi bachiller?",
+            "¿Puedo participar si el grado academico de bachiller he obtenido en la Policia Nacional del Perú?",
+            "¿Puedo participar si el titulo profesional lo he obtenido en la Policia Nacional del Perú?",
+            "¿Puedo participar si he obtenido el grado academico de bachiller en las fuerzas armadas?",
+            "¿Que debo presentar si mi título es de otro país?",
+            "¿Debo revalidar mi título extranjero para el examen extraordinario?",
+            "¿Qué documentos adicionales debo presentar si soy titulado?",
+            "¿Cómo valido mi título para el examen extraordinario?",
+            "¿Qué requisitos necesito para dar el examen extraordinario?",
+            "¿Que documento debo presentar si tengo un título?",
+            "¿Cómo debe ser la foto para modalidad de graduados o titulados?",
+            "¿Cómo debe ser la fotografia para modalidad de graduados o titulados?",
+            "¿Cómo debe ser la foto si tengo bachiller?",
+            "¿Cómo debe ser la foto si tengo titulo?",
+            "¿Cómo debe ser la fotografia si tengo bachiller?",
+            "¿Cómo debe ser la fotografia si tengo titulo?",
+            "¿Cómo debe ser la foto para modalidad de graduados?",
+            "¿Puedo postular al examen extraordinario si ya soy titulado?",
+            "¿Si soy titulado en el extranjero puedo participar en el examen de admisión?",
+            "¿Que requisitos debo presentar si mi titulo es del extranjero?",
+            "¿Si soy egresado del cuartel puedo postular a la unam?",
+            "¿Si soy egresado y tengo titulo profesional de la la Policia Nacional del Perú puedo postular a la unam?",
+            "¿Si soy egresado y tengo titulo profesional de las fuerzas armadas puedo postular a la unam?"
+          ],
+          "responses": [
+            "Los postulantes por la modalidad de examen extraordinario que tengan Título Profesional o Grado Académico de Bachiller otorgado por una universidad del Perú o del extranjero, deberán acreditar su condición de tal, presentando a través de la plataforma virtual  de admisión, en formato PDF, los siguientes documentos: \n - Copia (fedateada o notariada) del Título o grado académico que posee. Si la universidad es de origen extranjera deberá presentar el título o grado académico revalidado por la SUNEDU. Se incluye el título o grado obtenido en Escuelas de Oficiales de las Fuerzas Armadas y de la Policía Nacional. \n - Los documentos requeridos en el Artículo 12º del presente reglamento con excepción de los incisos “a” y “c”. \n - Formatos de declaraciones juradas N°12 y N°13 que figuran en la sección de anexos."
+          ]
+        },
+        
+        {
+          "tag": "articulo17",
+          "patterns": [
+            "¿Que requisitos son los que debo presentar para traslado externo?",
+            "¿Si he sido sancionado por falta grave puedo postular al examen admisión como traslado externo?",
+            "¿Si he sido sancionado puedo postular al examen admision como traslado externo?",
+            "¿Qué documentos necesito para inscribirme en la modalidad de traslado externo?",
+            "¿Si tengo antecedentes penales puedo participar del proceso de admisión por traslado externo?",
+            "¿Si tengo antecedentes penales puedo realizar traslado externo?",
+            "¿Cómo acredito mi condición para el traslado externo?",
+            "¿Se requiere algún certificado especial para el traslado externo?",
+            "¿Cómo presento mis documentos para el traslado externo?",
+            "¿Es necesario tener un cierto número de créditos para el traslado externo?",
+            "¿Cuantos créditos necesito para el traslado externo?",
+            "¿Debo tener un mínimo de semestres aprobados para el traslado externo?",
+            "¿Qué se necesita para el traslado externo?",
+            "¿Debo presentar certificado de estudio cuando es traslado externo?",
+            "¿Es necesario tener un cierto número de créditos para el traslado externo?",
+            "¿Cómo debe ser la fotografia para traslado externo?",
+            "¿Cómo debo tomar la fotografia para realizar mi traslado externo?",
+            "¿Cómo debe ser la foto para traslado externo?",
+            "¿Cómo debo tomar la fotografia para realizar mi traslado externo?"
+          ],
+          "responses": [
+            "Para inscribirse virtualmente, como postulante en la modalidad de traslado externo, deberán acreditar su condición de tal, presentando a través de la plataforma virtual  de admisión, en formato PDF, los siguientes documentos: \n a) Certificado de estudios universitarios (fedateado por la Universidad de origen) que acrediten haber aprobado por lo menos cuatro periodos lectivos semestrales o dos anuales o setenta y dos (72) créditos. \n b) Los documentos requeridos en el Artículo 12º del presente reglamento con excepción de los incisos “a” y “c”. \n c) Declaración Jurada de no tener antecedentes penales según formato N°15 que figuran en la sección de anexos. \n d) Declaración Jurada de no haber sido separado de su institución de procedencia por medida disciplinaria o falta grave, según formato N°16 que figuran en la sección de anexos."
+          ]
+        },
+        
+        {
+          "tag": "articulo18",
+          "patterns": [
+            "¿Que documentos debo presentar para el traslado interno y participar del examen?",
+            "¿Qué documentos necesito para inscribirme en la modalidad de traslado interno?",
+            "¿Que requisitos son los que debo presentar para traslado interno?",
+            "¿Para participar del examen y soy de traslado interno que requisitos debo presentar?",
+            "¿Qué necesito para inscribirme en traslado interno?",
+            "¿Que debo presentar para el traslado interno?",
+            "¿Que debo presentar para la modalidad de traslado interno?",
+            "¿Cómo se realiza la inscripción para el traslado interno?",
+            "¿Qué documentos son necesarios para el traslado interno?",
+            "¿Es necesario un certificado de estudios secundarios para el traslado interno?",
+            "¿Debo presentar certificado de estudio cuando es traslado interno?",
+            "¿Debo presentar algún certificado de la UNAM para el traslado interno?",
+            "¿Qué declaraciones juradas son necesarias para el traslado interno?",
+            "¿Que formatos debo completar para traslado interno?",
+            "¿Que formatos debo llenar para traslado interno?",
+            "¿Cómo debe ser la fotografia para traslado interno?",
+            "¿Cómo debo tomar la fotografia para realizar mi traslado interno?",
+            "¿Cómo debe ser la foto para traslado interno?",
+            "¿Cómo debo tomar la foto para realizar mi traslado interno?"
+          ],
+          "responses": [
+            "Para inscribirse virtualmente, como postulante en la modalidad de traslado interno deberán acreditar su condición de tal, presentando a través de la plataforma virtual de admisión, en formato PDF, los siguientes documentos: \n a) Certificado de estudios de Educación Secundaria o Constancia de conformidad de Documentos, emitida por la Dirección de Actividades y Servicios Académicos (DASA). \n b) Certificado de estudios universitarios que acrediten haber aprobado por lo menos cuatro periodos lectivos semestrales o dos anuales o setenta y dos (72) créditos en la escuela profesional de origen. \n c) Declaración jurada de no haber sido sancionado y no tener proceso disciplinario en trámite en la UNAM, según formato N°18 que figuran en la sección de anexos. \n d) Declaración Jurada de no adeudo de bienes y material bibliográfico de la UNAM, según formato N°19 que figuran en la sección de anexos. \n e) Los documentos requeridos en el Artículo 12º del presente reglamento con excepción de los incisos “a” y “c”."
+          ]
+        },
+        
+        {
+          "tag": "articulo19",
+          "patterns": [
+            "¿Quiénes no pueden hacer traslado interno?",
+            "¿Puedo realizar traslado interno si ya realice traslado antes?",
+            "¿Puedo realizar traslado interno si ya realice traslado anteriormente?",
+            "¿Puedo realizar traslado interno dos veces?",
+            "¿Cuantas veces puedo hacer traslado interno?",
+            "¿Si ingrese por otra metodología puedo realizar traslado interno?",
+            "¿En que casos no puedo realizar traslado interno?",
+            "¿Puedo volver a realizar traslado interno?",
+            "¿Hay restricciones para el traslado interno?",
+            "¿Puedo hacer traslado interno si ya tengo un título profesional?",
+            "¿Se permite el traslado interno si ya hice uno antes?",
+            "¿Qué pasa si he sido separado temporalmente de la UNAM?",
+            "¿Puedo trasladarme internamente si fui separado por desaprobar una materia?"
+          ],
+          "responses": [
+            "Los estudiantes no tendrán derecho al traslado interno en los casos siguientes: \n a) Aquellos que ya hayan ingresado por tener grado académico o título profesional, o por traslado externo. \n b) Aquellos que ya hayan realizado su traslado interno anteriormente. \n c) Aquellos comprendidos en el Art. 102 de la Ley Universitaria N° 30220, quienes, habiéndose desaprobado una misma materia por tres veces, hayan sido separados temporalmente de la Universidad Nacional de Moquegua."
+          ]
+        },
+        
+        {
+          "tag": "articulo20",
+          "patterns": [
+            "¿Cómo me exonero del Concurso de Admisión Ordinario si fui primero o segundo en mi colegio?",
+            "¿Cómo me exonero del examen de Admisión si obtuve el primer o segundo puesto en mi colegio?",
+            "¿Cómo me exonero del examen de Admisión si obtuve el primer puesto en mi colegio?",
+            "¿Cómo me exonero del examen de Admisión si obtuve el segundo puesto en mi colegio?",
+            "¿Cómo me exonero del examen ordinario si obtuve el primer puesto en mi colegio?",
+            "¿Cómo me exonero del Concurso de Admisión Ordinario si obtuve el primer o segundo puesto en mi colegio?",
+            "¿Cómo me exonero del Concurso de Admisión Ordinario si obtuve el primer puesto en mi colegio?",
+            "¿Cómo me exonero del Concurso de Admisión Ordinario si obtuve el segundo puesto en mi colegio?",
+            "¿Qué debo presentar si ocupe los primeros puestos en el colegio?",
+            "¿Por ocupar primer puesto en mi colegio doy un examen separado?",
+            "¿Si ocupe los primeros puestos en mi colegio debo dar el examen ordinario?",
+            "¿Si ocupe el primer puesto en mi colegio debo dar el examen ordinario?",
+            "¿Si ocupe el segundo puesto en mi colegio debo dar el examen ordinario?",
+            "¿Solo puedo postular una vez por la metodología de primeros puestos?",
+            "¿Qué documentos presento para la exoneración por mérito académico en secundaria?",
+            "¿Qué necesito para acreditar haber ocupado los primeros puestos en secundaria?",
+            "¿Cómo demuestro que no he usado antes el derecho de admisión por mérito?",
+            "¿Qué documentos adicionales requiero para la exoneración del Concurso de Admisión?",
+            "¿Cómo debe ser la fotografia para modalidad de primeros puestos?",
+            "¿Cómo debo tomar la fotografia para primeros puestos?",
+            "¿Cómo debe ser la foto para modalidad de primeros puestos?",
+            "¿Cómo debo tomar la foto para primeros puestos?"
+          ],
+          "responses": [
+            "En el caso de los postulantes que quieran acogerse a la exoneración del Concurso de Admisión Ordinario por haber ocupado los dos (02) primeros puestos de su respectivo Centro Educativo de Nivel Secundario en los dos últimos años (2022 o 2023), deberán acreditar su condición de tal, presentando a través de la plataforma virtual de admisión, en formato PDF, los siguientes documentos: \n a) Constancia o Certificado (original) otorgado por el director del Centro Educativo del cual procede, que acredite el orden de mérito en el que se encuentra y evidencie haber concluido los estudios secundarios en el año 2022 o 2023. \n b) Declaración Jurada de no haber hecho uso del derecho de admisión del primer o segundo puesto en ninguna Universidad pública o privada a nivel nacional, según formato N°3 que figura en la sección de anexos. \n c) Los documentos requeridos en el Artículo 12° del presente reglamento."
+          ]
+        },
+        
+        {
+          "tag": "articulo21",
+          "patterns": [
+            "¿Qué documentos debo presentar si soy egresado del COAR?",
+            "¿Qué debo presentar para acreditar que soy del COAR?",
+            "¿Qué trámite debo realizar si soy egresado del COAR?",
+            "¿Qué requisitos debo cumplir si soy egresado del COAR?",
+            "¿Que examen me corresponde dar si soy egresado del COAR?",
+            "¿Qué documentos debo presentar para poder participar del examen de admisión si soy egresado del COAR?",
+            "¿Qué necesitan los egresados de Colegios de Alto Rendimiento para postular al examen extraordinario?",
+            "¿Qué necesito presentar para postular si soy alumno del COAR?",
+            "¿Si estudie en el COAR debo dar un examen diferente?",
+            "¿Cómo acreditan su condición los egresados de Colegios de Alto Rendimiento?",
+            "¿Cuales son los requisitos que debo cumplir para participar del examen de admision si sy egresado del COAR?",
+            "¿Qué documentos presentan los egresados de Colegios de Alto Rendimiento?",
+            "¿Deben los egresados de Colegios de Alto Rendimiento hacer una declaración jurada?",
+            "¿Cómo demuestran los egresados de Colegios de Alto Rendimiento que no usaron esta modalidad antes?",
+            "¿Qué documentación adicional requieren los egresados de Colegios de Alto Rendimiento?",
+            "¿Cómo debe ser la fotografia para la modalidad de alumnos COAR?",
+            "¿Cómo debo tomar la fotografia para la modalidad de alumnos COAR?",
+            "¿Cómo debe ser la foto para alumnos del colegio de alto rendimiento?",
+            "¿Cómo debo tomar la foto para alumnos del colegio de alto rendimiento?",
+            "¿Cómo debe ser la fotografia para la modalidad de alumnos del colegio de alto rendimiento?",
+            "¿Cómo debo tomar la fotografia para la modalidad de alumnos del colegio de alto rendimiento?",
+            "¿Cómo debe ser la foto para modalidad de alumnos COAR?",
+            "¿Cómo debo tomar la foto para alumnos COAR?"
+          ],
+          "responses": [
+            "Los egresados de los Colegios de Alto Rendimiento en los dos últimos años (2022 o 2023), podrán postular al examen extraordinario 2024-I, deberán acreditar su condición de tal, presentando a través de la plataforma virtual de admisión, en formato PDF, los siguientes documentos: \n a) Constancia de haber egresado de un Colegio de Alto Rendimiento en el año 2022 o 2023, expedido por el colegio de origen. \n d) Declaración Jurada de no haber hecho uso de esta modalidad en otras Universidades, según formato N°8 que figura en la sección de anexos. \n e) Los documentos requeridos en el Artículo 12º del presente reglamento."
+          ]
+        },
+        
+        {
+          "tag": "articulo22",
+          "patterns": [
+            "¿Qué documentos debo presentar si soy deportista calificado?",
+            "¿Qué debo presentar para acreditar que soy deportista calificado?",
+            "¿Qué requisitos debo cumplir si soydeportista calificado?",
+            "¿Cuáles son los requisitos que debo presentar para presentarme al examen de admisión si soy deportista calificado?",
+            "¿Cuáles son los documentos que debo presentar para rendir el examen de admisión si soy deportista calificado?",
+            "¿Qué necesitan los deportistas calificados para postular a la universidad?",
+            "¿Cómo acreditan su condición los deportistas calificados?",
+            "¿Qué documentos deben presentar los deportistas calificados?",
+            "¿Deben los deportistas hacer alguna declaración jurada?",
+            "¿Qué compromisos deben asumir los deportistas calificados?",
+            "¿Qué documentación adicional requieren los deportistas calificados?",
+            "¿Como demuestro que soy deportista calificado?"
+          ],
+          "responses": [
+            "Los deportistas calificados de nacionalidad peruana debidamente reconocidos en el ámbito regional, nacional e internacional, que acrediten su condición de seleccionado nacional y/o haber participado dentro de los dos últimos años en certámenes nacionales y/o internacionales, tienen derecho de solicitar ingreso a la universidad mediante esta modalidad. Deberán acreditar su condición de tal, presentando a través de la plataforma virtual de admisión, en formato PDF, los siguientes documentos: \n a) Resolución emitida por el presidente del Instituto Peruano del Deporte o quien haga sus veces y alternativamente del director del IPD de la localidad. \n b) Declaración jurada de no haber sido sancionado por falta grave o actividades antideportivas por losTribunales o Comisión de Justicia de la Federación o Comisión Nacional respectiva, según formato N°10 que figura en la sección de anexos. \n c) Documento de compromiso de participación en la representación del equipo de la universidad en el deporte de su especialidad, y en todos los eventos deportivos en que la universidad lo requiera, según formato N°12 que figura en la sección de anexos. \n d) Los documentos requeridos en el Artículo 11° del presente reglamento."
+          ]
+        },
+        
+        {
+          "tag": "articulo23",
+          "patterns": [
+            "¿Qué documentos debo presentar si tengo alguna discapacidad?",
+            "¿Qué debo presentar para acreditar que soy una persona con discapacidad?",
+            "¿Qué requisitos debo cumplir si soy una persona con discapacidad?",
+            "¿Que examen me corresponde dar si soy una persona con discapacidad?",
+            "¿Cuáles son los requisitos para presentarme al examen si soy una persona con discapacidad?",
+            "¿Qué documentos debo presentar para poder participar del examen de admisión si tengo alguna discapacidad?",
+            "¿Qué necesitan las personas con discapacidad para postular a la universidad?",
+            "¿Recibo algun apoyo si soy una persona con discapacidad?",
+            "¿Si presento alguna discapacidad como puedo postular?",
+            "¿Cómo acreditan su condición las personas con discapacidad?",
+            "¿Qué documentos deben presentar las personas con discapacidad?",
+            "¿Hay algún apoyo especial para personas con discapacidad en el examen?",
+            "¿Cómo comunican las personas con discapacidad su necesidad de apoyo en el examen?",
+            "¿Qué documentación adicional requieren las personas con discapacidad?",
+            "¿Cómo debe ser la fotografia para personas con discapacidad?",
+            "¿Cómo debo tomarme la fotografia si soy una persona con discapacidad?",
+            "¿Cómo debe ser la foto para modalidad de personas con discapacidad?",
+            "¿Cómo debo tomar la foto si soy una persona con discapacidad?",
+            "¿Debo presentar obligatoriamente mi carnet del CONADIS para postular como persona con discapacidad?",
+            "¿Que pasa si no tengo mi carnet CONADIS y quiero postular por modalidad de persona con discapacidad?",
+            "¿Es necesario el carnet CONADIS para postular por modalidad de persona con discapacidad?",
+            "¿Si soy una persona con discapacidad pero no tengo mi carnet de CONADIS puedo postular?"
+          ],
+          "responses": [
+            "En cumplimiento del Artículo 38º de la Ley 29973, Ley General de la persona con discapacidad, la universidad reserva el 5% de las vacantes autorizadas, para personas con discapacidad, quienes accederán a este centro de estudios. Deberán acreditar su condición de tal, presentando a través de la plataforma virtual de admisión, en formato PDF, los siguientes documentos: \n a) Carnet expedido por el Consejo Nacional para la Integración de la persona con Discapacidad (CONADIS) ó Resolución de Presidencia de Inscripción al registro de Personas con Discapacidad. \n b) Los documentos requeridos en el Artículo 12° del presente reglamento. \n El postulante que requiera un apoyo especial para rendir el examen comunicará oportunamente a la dirección de admisión para el acondicionamiento del área o brindar el soporte según su necesidad, hasta el cierre de inscripciones, al correo: admision@unam.edu.pe."
+          ]
+        },
+        
+        {
+          "tag": "articulo24",
+          "patterns": [
+            "¿Qué documentos debo presentar si soy víctima de terrorismo?",
+            "¿Qué debo presentar para acreditar que soy víctima de terrorismo?",
+            "¿Qué requisitos debo cumplir si soy víctima de terrorismo?",
+            "¿Qué requisitos debo cumplir para dar el examen de admision si soy víctima de terrorismo?",
+            "¿Que examen me corresponde dar si soy víctima de terrorismo?",
+            "¿Cuáles son los requisitos para presentarme al examen de admision si soy víctima de terrorismo?",
+            "¿Cuáles son los documentos que debo presentar para participar en el examen de admisión si soy víctima de terrorismo?",
+            "¿Qué documentos debo presentar para poder participar del examen de admisión si soy victima de terrorismo?",
+            "¿Qué necesitan los postulantes víctimas de terrorismo para postular a la universidad?",
+            "¿Cómo demuestro que fui víctima de terrorismo?",
+            "¿Cómo puedo postular si fui víctima de terrorismo?",
+            "¿Cómo acreditan su condición los postulantes víctimas de terrorismo?",
+            "¿Qué documentos deben presentar los postulantes víctimas de terrorismo?",
+            "¿Deben hacer alguna declaración jurada los postulantes víctimas de terrorismo?",
+            "¿Qué documentación adicional requieren los postulantes víctimas de terrorismo?",
+            "¿Cómo demuestran los postulantes víctimas de terrorismo que no han usado este derecho antes?",
+            "¿Cómo debe ser la fotografia para las víctimas de terrorismo?",
+            "¿Cómo debo tomarme la fotografia si soy víctima de terrorismo?",
+            "¿Cómo debe ser la foto para modalidad de víctimas de terrorismo?",
+            "¿Cómo debo tomar la foto si soy víctima de terrorismo?"
+          ],
+          "responses": [
+            "En el caso de los postulantes de víctimas de terrorismo, previstas en la Ley Nº 27277 – Ley que establece vacantes de ingreso a las Universidades para víctimas de terrorismo, para inscribirse como postulante, deberá presentar a través de la plataforma virtual de admisión, en formato PDF, los siguientes documentos: \n a) Constancia del Consejo Nacional de Calificación, según Art. 2° del D.S. N° 051- 88-PCM, o Dirección de Bienestar de la Policía Nacional del Perú, o Comando Conjunto de las Fuerzas Armadas, que acredite su situación como tal. \n b) Declaración Jurada de no haber hecho uso de este derecho o modalidad en otra Universidad del país. \n c) Los documentos requeridos en el Artículo 12° del presente reglamento."
+          ]
+        },
+        
+        {
+          "tag": "articulo25",
+          "patterns": [
+            "¿Qué documentos debo presentar si soy beneficiario del Plan Integral de Reparaciones?",
+            "¿Qué debo presentar para acreditar si soy beneficiaria del Plan Integral de Reparaciones?",
+            "¿Cómo postulan al examen los beneficiarios del Plan Integral de Reparaciones?",
+            "¿Qué requisitos debo cumplir si soy beneficiario del Plan Integral de Reparaciones?",
+            "¿Qué documentos necesitan los postulantes del Plan Integral de Reparaciones?",
+            "¿Que examen me corresponde dar si soy beneficiaria del Plan Integral de Reparaciones?",
+            "¿Cuáles son los documentos que debo presentar para participar en el examen de admisión si soy beneficiaria del Plan Integral de Reparaciones?",
+            "¿Qué requisitos debo cumplir para dar el examen de admision si soy beneficiaria del Plan Integral de Reparaciones?",
+            "¿Qué constancia deben presentar los postulantes del Plan Integral de Reparaciones?",
+            "¿Es necesaria una declaración jurada para postular bajo el Plan Integral de Reparaciones?",
+            "¿Qué otros documentos se requieren para postular bajo el Plan Integral de Reparaciones?",
+            "¿Cómo acredito ser beneficiario del Plan Integral de Reparaciones para postular?",
+            "¿Cómo debe ser la fotografia para postulantes del Plan Integral de Reparaciones?",
+            "¿Cómo debo tomarme la fotografia si soy beneficiario del Plan Integral de Reparaciones?",
+            "¿Cómo debe ser la foto para modalidad de postulantes del Plan Integral de Reparaciones?",
+            "¿Cómo debo tomar la foto si soy postulante del Plan Integral de Reparaciones?"
+          ],
+          "responses": [
+            "Los postulantes por el Plan Integral de Reparaciones, previstas en la Ley Nº 28592, podrán postular al examen 2024-I, presentando a través de la plataforma virtual de admisión, en formato PDF, los siguientes documentos: \n a) Constancia del Consejo Nacional de Calificación, expedido por el Consejo de Reparaciones de la Presidencia del Consejo de ministros (PCM), según la Ley N° 28592, presentando los documentos oficiales. Este beneficio es sólo para pregrado y para los titulares beneficiados, según D.S. Nº 001- 2016- JUS, que modifica el Art. 18 del Reglamento de la ley 28592. \n b) Declaración Jurada de no haber accedido a educación superior no universitaria o universitaria haciendo valer su calidad de Víctima, según el Plan Integral de Reparaciones, según formato N°6 que figura en la sección de anexos. \n c) Los documentos requeridos en el artículo 12° del presente Reglamento."
+          ]
+        },
+        
+        {
+          "tag": "articulo26",
+          "patterns": [
+            "¿Qué documentos debo presentar si participo por el Convenio Andres Bello?",
+            "¿Qué requisitos debo cumplir si participo por el Convenio Andres Bello?",
+            "¿Qué requisitos debo cumplir para dar el examen de admision si participo por el Convenio Andres Bello?",
+            "¿Que examen me corresponde dar si participo por el Convenio Andres Bello?",
+            "¿Cuáles son los requisitos para presentarme al examen de admisión si participo por el Convenio Andres Bello?",
+            "¿Cuáles son los documentos que debo presentar para participar en el examen de admisión si participo por el Convenio Andres Bello?",
+            "¿Qué documentos debo presentar para poder participar del examen de admisión si participo por el Convenio Andres Bello?",
+            "¿Qué documentos necesito para postular por el Convenio Andrés Bello?",
+            "¿Cómo acredito mis estudios secundarios del extranjero para postular?",
+            "¿Qué constancia se requiere para postular por el Convenio Andrés Bello?",
+            "¿Necesito algún documento especial si nací en el extranjero?",
+            "¿Qué documentos adicionales se requieren para postulantes del Convenio Andrés Bello?",
+            "¿Cómo postulo al examen 2024_I bajo el Convenio Andrés Bello?",
+            "¿Cómo debe ser la fotografia si participo por el Convenio Andres Bello?",
+            "¿Cómo debo tomarme la fotografia si soy beneficiario del Plan Integral de Reparaciones?",
+            "¿Cómo debe ser la foto para modalidad del Convenio Andrés Bello?",
+            "¿Cómo debo tomar la foto si soy postulante del Convenio Andrés Bello?",
+	          "¿Cuáles son las condiciones para participar del examen por el Convenio Andrés Bello?",
+	          "¿Qué papeles debo presentar para postular por el Convenio de Andrés Bello?",
+	          "¿Cuántos documentos hacen falta para postular por el Convenio de Andrés Bello?",
+	          "¿Qué expedientes debo cumplir para dar el examen si participo por el Convenio de Andrés Bello?",
+	          "¿Cuáles son los expedientes que debo presentar para dar el examen por el Convenio de Andrés Bello?"
+          ],
+          "responses": [
+            "Los postulantes por el Convenio Andrés Bello, según el D.S. N° 012-99-ED, podrán postular al examen 2024-I, presentando a través de la plataforma virtual de admisión, en formato PDF, los siguientes documentos: \n a) Certificado de convalidación y/o revalidación de estudios, emitido por el Ministerio de Educación del Perú (MINEDU). \n b) Certificado de estudios secundarios acreditado por la entidad educativa oficial del país de procedencia (Ministerio de Educación o quien haga sus veces) y, si fuera el caso, traducido al español. \n c) Partida de Nacimiento (si el alumno nació en el extranjero, apostillado por el país de procedencia o legalizada por el consulado peruano en dicho país), o Pasaporte o Carne de Extranjería. \n d) Los documentos requeridos en el artículo 12° del presente Reglamento con excepción del inciso “a” y “e” lllenado del formato N°21 de la sección de anexos."
+          ]
+        },  
     {
       "tag": "articulo27_fecha_inscripción",
       "patterns": [
