@@ -398,7 +398,7 @@
           ]
         },
         
-        {
+         {
           "tag": "articulo22",
           "patterns": [
             "¿Qué documentos debo presentar si soy deportista calificado?",
@@ -412,7 +412,10 @@
             "¿Deben los deportistas hacer alguna declaración jurada?",
             "¿Qué compromisos deben asumir los deportistas calificados?",
             "¿Qué documentación adicional requieren los deportistas calificados?",
-            "¿Como demuestro que soy deportista calificado?"
+            "¿Como demuestro que soy deportista calificado?",
+		"que documentos necesito para postular como deportista calificado en la UNAM",
+		"como realizo mi inscripción si soy deportista calificado",
+		"que necesito para inscribirme como deportista calificado"
           ],
           "responses": [
             "Los deportistas calificados de nacionalidad peruana debidamente reconocidos en el ámbito regional, nacional e internacional, que acrediten su condición de seleccionado nacional y/o haber participado dentro de los dos últimos años en certámenes nacionales y/o internacionales, tienen derecho de solicitar ingreso a la universidad mediante esta modalidad. Deberán acreditar su condición de tal, presentando a través de la plataforma virtual de admisión, en formato PDF, los siguientes documentos: \n a) Resolución emitida por el presidente del Instituto Peruano del Deporte o quien haga sus veces y alternativamente del director del IPD de la localidad. \n b) Declaración jurada de no haber sido sancionado por falta grave o actividades antideportivas por losTribunales o Comisión de Justicia de la Federación o Comisión Nacional respectiva, según formato N°10 que figura en la sección de anexos. \n c) Documento de compromiso de participación en la representación del equipo de la universidad en el deporte de su especialidad, y en todos los eventos deportivos en que la universidad lo requiera, según formato N°12 que figura en la sección de anexos. \n d) Los documentos requeridos en el Artículo 11° del presente reglamento."
@@ -1342,33 +1345,7 @@
 		]
 	  },
   
-	  {
-		"tag": "formato_17",
-		"patterns": [
-		  "¿Qué requisitos debo cumplir para inscribirse bajo la Modalidad de Traslado Interno en la UNAM?",
-		  "¿Qué tipo de constancia de créditos necesito para la Modalidad de Traslado Interno?",
-		  "¿Se requiere un certificado de estudios de educación secundaria para el Traslado Interno?",
-		  "¿Es necesario presentar una declaración jurada de no adeudo de material bibliográfico para el Traslado Interno?",
-		  "¿Qué tipo de fotografía debo presentar para el proceso de admisión como Traslado Interno?",
-		  "¿Cómo puedo asegurar que cumplo con los requisitos para el Traslado Interno?",
-		  "¿Qué necesito para inscribirme con Traslado Interno en la UNAM?",
-		  "¿Qué constancia de créditos necesito para el Traslado Interno?",
-		  "¿Es necesario tener un certificado de estudios de secundaria para el Traslado Interno?",
-		  "¿Debo presentar una declaración jurada de no adeudo de material bibliográfico para el Traslado Interno?",
-		  "¿Cómo puedo asegurarme de que cumplo con los requisitos para el Traslado Interno?",
-		  "Modalidad de Traslado Interno",
-		  "¿De qué se trata el formato 17?",
-		  "¿De qué se trata el formato17?",
-		  "formato 17",
-		  "formato17",
-		  "modo de inscricion Traslado Interno",
-		  "inscripcion de modalidad Traslado Interno",
-      "como me inscribo en la modalidad de traslado interno?"
-		],
-		"responses": [
-		  "Para inscribirse en la UNAM bajo la Modalidad de Traslado Interno, se requieren los siguientes documentos y declaraciones: 1) Constancia de haber aprobado al menos dos periodos lectivos semestrales o 36 créditos, emitida por la Dirección de Actividades y Servicios Académicos (DASA), 2) Certificado de estudios de educación secundaria o constancia de logros de aprendizaje, 3) Declaración jurada de no haber sido sancionado o estar incurriendo en proceso disciplinario en la escuela de origen, 4) Declaración jurada de no adeudo de material bibliográfico, 5) Fotografía a color en fondo blanco, 6) Documento Nacional de Identidad. Proporcionar información falsa en estas declaraciones puede resultar en sanciones legales. La declaración no procede si está deteriorada, manchada o borroneada."
-		]
-	  },
+	
   
 	  {
 		"tag": "formato_18",
