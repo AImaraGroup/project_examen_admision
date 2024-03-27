@@ -265,7 +265,10 @@
             "¿Debo tener un mínimo de semestres aprobados para el traslado externo?",
             "¿Qué se necesita para el traslado externo?",
             "¿Debo presentar certificado de estudio cuando es traslado externo?",
-            "¿Es necesario tener un cierto número de créditos para el traslado externo?"
+            "¿Es necesario tener un cierto número de créditos para el traslado externo?",
+		"¿Qué requisitos debo cumplir para inscribirme bajo la Modalidad de Traslado Externo en la UNAM?",
+		"¿Qué tipo de certificado de estudios universitarios necesito para la Modalidad de Traslado Externo?",
+		"¿Se requiere un certificado de estudios de educación secundaria para el Traslado Externo?",
           ],
           "responses": [
             "Para inscribirse virtualmente, como postulante en la modalidad de traslado externo, deberán acreditar su condición de tal, presentando a través de la plataforma virtual  de admisión, en formato PDF, los siguientes documentos: \n a) Certificado de estudios universitarios (fedateado por la Universidad de origen) que acrediten haber aprobado por lo menos cuatro periodos lectivos semestrales o dos anuales o setenta y dos (72) créditos. \n b) Los documentos requeridos en el Artículo 12º del presente reglamento con excepción de los incisos “a” y “c”. \n c) Declaración Jurada de no tener antecedentes penales según formato N°15 que figuran en la sección de anexos. \n d) Declaración Jurada de no haber sido separado de su institución de procedencia por medida disciplinaria o falta grave, según formato N°16 que figuran en la sección de anexos."
@@ -994,7 +997,9 @@
 	     "El ingresado por la modalidad de Titulados O Graduados, ¿Qué documentos debo presentar?",
 	     "¿Que documentos debo presentar si ingresé por la modalidad Titulados o Graduados?",
 	     "¿Qué documentos debo proporcionar si mi ingreso se ha realizado bajo la modalidad de Titulados o Graduados?",
-	     "que debo hacer si ya ingrese a la universidad?"
+	     "que debo hacer si ya ingrese a la universidad?",
+	     "Para la Modalidad de Graduados y/o Titulados Universitarios, ¿es necesario tener un título o grado académico específico?",
+	       "En que documento debo declarar que soy graduado o titulado universitario?"
 	   ],
 	   "responses": [
 	     "El ingresante deberá entregar en físico en un plazo no mayor a 48 horas después de publicados los resultados oficiales, los documentos originales, según su modalidad de ingreso y su certificado de estudios secundarios o la constancia de logros de aprendizaje. Los documentos deberán reunir los siguientes requisitos:  \n \n a) Los certificados de estudios deberán estar sellados por la Dirección y la Secretaría de la Institución Educativa que los expide. \n \n b) En caso de ser un certificado digital oficial o Constancia de Logros de Aprendizaje debe contar con el Código QR para constatar su veracidad. \n \n c) En los certificados de estudios, todos los cursos deberán aparecer con notas aprobatorias, \n \n d) No deberán presentar borrones, enmendaduras o modificaciones. \n \n Los ingresantes por la modalidad Titulados o Graduados en la UNAM deberán presentar copia fedateada por la universidad de origen o notarial de su certificado de estudios universitarios, y deberá presentar el documento original para el trámite de convalidación de cursos según TUPA."
