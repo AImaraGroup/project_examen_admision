@@ -1344,27 +1344,22 @@
 		  "En el Formato N°16 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, el postulante debe declarar bajo juramento 'No haber sido separado de la universidad de procedencia por conducta disciplinaria o falta grave durante mis años de estudio'. Declaraciones falsas pueden resultar en sanciones legales. Es importante ser transparente sobre cualquier incidente disciplinario o falta grave que pueda haber resultado en una separación de una institución anterior. La declaración no procede si está deteriorada, manchada o borronada. El formato debe ser firmado por el solicitante y/o su representante legal, junto con la huella digital del estudiante."
 		]
 	  },
-  
-	
-  
+
 	  {
 		"tag": "formato_18",
 		"patterns": [
-		  "¿Qué debo declarar en el Formato 18 para el proceso de admisión?",
+		"declaración jurada de no haber sido sancionado en la escuela de origen",
+		"proceso disciplinario",
+		"sanción por proceso disciplinario",
 		  "¿Es necesario detallar algún proceso disciplinario anterior en la UNAM en el Formato 18?",
 		  "¿De qué trata el formato  18?",
-		  "¿Qué debe declarar bajo juramento el postulante en el Formato 18 ?",
-		  "¿Qué condiciones invalidarían la declaración en el Formato 18?",
-		  "¿Quién debe firmar el Formato 18 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua?",
-		  "¿Qué información adicional debe incluirse en el Formato N°18?",
 		  "'No haber sido sancionado o estar en curso de proceso disciplinario en la Universidad Nacional de Moquegua'",
 		  "¿De qué se trata el formato 18?",
 		  "¿De qué se trata el formato18?",
 		  "formato 18",
-		  "formato18",
 		  "declaracion de No haber sido sancionado o estar en curso de proceso disciplinario",
-      "donde declaro que no eh sido sancionado o estar en curso de proceso diciplinario?",
-      "No haber sido sancionado o estar en curso de proceso disciplinario"
+	      "donde declaro que no eh sido sancionado o estar en curso de proceso diciplinario?",
+	      "No haber sido sancionado o estar en curso de proceso disciplinario"
 		  
 		],
 		"responses": [
@@ -1375,13 +1370,12 @@
 	  {
 		"tag": "formato_19",
 		"patterns": [
-		  "¿Qué debo declarar en el Formato 19 para el proceso de admisión?",
+		"declaración de no adeudo de material bibliográfico",
 		  "¿donde declaro el no adeudo material bibliográfico?",
-      "juramento de no adeudo de material bibliografico",
+      		"juramento de no adeudo de material bibliografico",
 		  "¿Cómo se verifica el no adeudo de material bibliográfico en el proceso de admisión?",
 		  "¿Puede afectar un adeudo previo de material bibliográfico mi admisión en la UNAM?",
 		  "¿Para qué es el formato  19?",
-		  "¿Qué debe declarar bajo juramento el postulante en el Formato 19 para el proceso de admisión?",
 		  "¿Qué condiciones invalidarían la declaración en el Formato 19?",
 		  "¿Qué información adicional debe incluirse en el Formato N°19?",
 		  "'No adeudar material bibliográfico durante mis años de estudio'",
@@ -1391,9 +1385,9 @@
 		  "formato19",
 		  "declaracion de no adeudo",
 		  "No adeudar material bibliográfico durante mis años de estudio",
-      "que formato debo llenar para declarar que no tengo adeudo de material?",
-      "declaracion de no adeudo de material",
-      "en que documento declaro que no debo ningun material bibliografico?"
+	      "que formato debo llenar para declarar que no tengo adeudo de material?",
+	      "declaracion de no adeudo de material",
+	      "en que documento declaro que no debo ningun material bibliografico?"
 
 		],
 		"responses": [
