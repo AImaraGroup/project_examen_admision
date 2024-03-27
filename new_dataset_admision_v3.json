@@ -1234,7 +1234,6 @@
 		"tag": "formato_13",
 		"patterns": [
 		  "En la Modalidad de Graduados y/o Titulados Universitarios, ¿qué debo declarar bajo juramento en el Formato 13?",
-		  "Para la Modalidad de Graduados y/o Titulados Universitarios, ¿es obligatorio tener un título o grado académico específico?",
 		  "¿Cuáles son las consecuencias de proporcionar información falsa en el Formato 13 para la Modalidad de Graduados y/o Titulados Universitarios?",
 		  "¿Qué tipo de título o grado académico debo indicar en el Formato 13 para esta modalidad?",
 		  "Si no poseo el título o grado académico requerido, ¿puedo postular en el Formato 13 para la Modalidad de Graduados y/o Titulados Universitarios?",
@@ -1257,9 +1256,7 @@
 		  "¿De qué se trata el formato 13?",
 		  "¿De qué se trata el formato13?",
 		  "formato 13",
-		  "formato13",
-      "enque documento debo declarar que soy graduado o titulado universitario?"
-
+		  "formato13"
 
 		],
 		"responses": [
@@ -1269,9 +1266,6 @@
 	  {
 		"tag": "formato_14",
 		"patterns": [
-		  "¿Qué requisitos debo cumplir para inscribirme bajo la Modalidad de Traslado Externo en la UNAM?",
-		  "¿Qué tipo de certificado de estudios universitarios necesito para la Modalidad de Traslado Externo?",
-		  "¿Se requiere un certificado de estudios de educación secundaria para el Traslado Externo?",
 		  "¿Necesito declarar sobre antecedentes penales para la Modalidad de Traslado Externo?",
 		  "¿Qué declaró respecto a mi institución de procedencia para el Traslado Externo?",
 		  "¿Es necesario presentar una fotografía a color en fondo blanco para la Modalidad de Traslado Externo?",
