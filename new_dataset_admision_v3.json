@@ -1702,5 +1702,23 @@
           "Todos los formatos para postular al examen de admisión de la Universidad Nacional de Moquegua se encuentran en el reglamento, lo puede descargar ingresando el siguiente link : wwww.unam.edu.pe"
         ]
         }
+	  ,
+        {
+          "tag": "informacion-falsa",
+          "patterns": [
+            "que pasa si pongo informacion  falsa?",
+            "que sucede si llego a entregar un documento falsificado?",
+            "¿Qué consecuencias legales enfrentaría alguien que proporciona información falsa en una declaración?",
+            "¿Cuál es el artículo del Código Penal que regula el delito de falsa declaración en Procesos Administrativos?",
+            "¿Qué tipo de delito se considera proporcionar información falsa en una declaración según la ley?",
+            "¿Cuál es la importancia de brindar información veraz en procesos administrativos?",
+            "¿Cómo se podría evitar el riesgo de cometer el delito de falsa declaración en un proceso administrativo?",
+            "¿Qué medidas preventivas se pueden tomar para garantizar que la información en una declaración sea precisa y verificable?"
+ 
+          ],
+          "responses": [
+            "Proporcionar información falsa en esta declaración puede resultar en el delito de falsa declaración en Procesos Administrativos - Artículo 411º del Código Penal y Delito contra la Fe Pública - Título XIX del Código Penal acorde al artículo 32º de la Ley Nº 27444 Ley de Procedimientos Administrativos General. La declaración no procede si está deteriorada, manchada o borroneada."
+          ]
+          }
   ]
 }
