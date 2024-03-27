@@ -314,7 +314,11 @@
             "¿Puedo hacer traslado interno si ya tengo un título profesional?",
             "¿Se permite el traslado interno si ya hice uno antes?",
             "¿Qué pasa si he sido separado temporalmente de la UNAM?",
-            "¿Puedo trasladarme internamente si fui separado por desaprobar una materia?"
+            "¿Puedo trasladarme internamente si fui separado por desaprobar una materia?",
+		"que necesito para inscribirme como traslado interno",
+		  "como me inscribo en la modalidad traslado interno",
+		  "que debo presentar como traslado interno",
+		  "que debo cumplir para la modalidad de traslado interno"
           ],
           "responses": [
             "Los estudiantes no tendrán derecho al traslado interno en los casos siguientes: \n a) Aquellos que ya hayan ingresado por tener grado académico o título profesional, o por traslado externo. \n b) Aquellos que ya hayan realizado su traslado interno anteriormente. \n c) Aquellos comprendidos en el Art. 102 de la Ley Universitaria N° 30220, quienes, habiéndose desaprobado una misma materia por tres veces, hayan sido separados temporalmente de la Universidad Nacional de Moquegua."
