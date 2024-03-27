@@ -768,6 +768,143 @@
         "El examen presencial, tanto en la modalidad ordinario como extraordinario, en la Universidad Nacional de Moquegua consta de 60 preguntas y tiene una duración de 2 horas (120 minutos)."
       ]
     },
+	 {
+      "tag": "articulo39",
+      "patterns": [
+        "¿Cuánto es el puntaje minimo para obtener una vacante?",
+        "¿Cuánto es el puntaje minimo para obtener una vacante en ingenierias?",
+        "¿Cuánto es el puntaje minimo para obtener una vacante en sociales?",
+        "¿Cuánto es el puntaje minimo para obtener una vacante en ciencias de la salud?",
+	"¿Sobre cuanto es el puntaje?",
+	"¿Cuánto es el puntaje mínimo en el examen extraordinario para obtener una vacante en la UNAM?",
+	"¿Cuánto es el puntaje minimo en el examen ordinario para obtener una vacante?",
+        "¿Cuál es el puntaje mínimo para obtener una vacante en la UNAM?",
+        "¿Cómo se determina la asignación de vacantes en la UNAM?",
+        "¿Qué pasa si obtengo un puntaje de 37.50 en el examen de admisión?",
+        "¿Cómo se decide quién ingresa a cada escuela profesional en la UNAM?",
+        "¿Se puede ingresar con un puntaje inferior a 37.50?",
+        "¿Cómo se clasifica a los postulantes para las vacantes?",
+        "¿Cuál es el criterio de selección para las vacantes?",
+        "¿El puntaje del examen determina mi admisión?",
+     
+      ],
+      "responses": [
+        "La asignación de vacantes en cada escuela profesional por cualquiera de las tres modalidades de admisión en la UNAM se realiza en estricto orden de mérito, y se requiere un puntaje igual o superior a 37.50 sobre 100 puntos de acuerdo con el cuadro de vacantes.",
+        "Las vacantes se otorgan en función del puntaje obtenido en el examen de admisión, con un mínimo requerido de 37.50 para ser considerado para una vacante."
+      ]
+    },
+
+    {
+      "tag": "articulo40",
+      "patterns": [
+        "Si sucediera un empate en el examen ¿Qué pasa en esos casos?",
+	"¿Qué sucede si varios postulantes tienen el mismo puntaje?",
+        "¿Cómo se manejan los empates en el examen de admisión?",
+	"¿Cuál es el criterio que toma la universidad para un desempate si hubiera un empate en el examen ordinario?",
+	"¿Si hubiera un empate aceptan a los dos postulantes?",
+	"¿Qué sucede si varios postulantes tienen el mismo puntaje en el examen ordinario general?",
+        "Si mi puntaje es igual que otro postulante ¿Cuál es la decisión que toman?",
+        "Si el examen que rendi en en el proceso de admision tiene un puntaje igual que otro postulante ¿Cuál es la decisión que toma la universidad?",
+        "Estoy postulanto a ingenierias, si el examen que rendi en el proceso de admision tiene un puntaje igual que otro postulante ¿Cuál es la decisión que toma la universidad?",
+        "¿Qué sucede en caso de empate en el último lugar en el examen ordinario de la UNAM?",
+        "¿Cómo se resuelve un empate en el examen ordinario?",
+        "¿Qué criterio se usa para desempatar en el examen ordinario de áreas de ingeniería?",
+        "¿Cómo se decide entre postulantes con el mismo puntaje en el examen ordinario?",
+        "¿Hay una segunda evaluación para desempatar en el examen ordinario?",
+        "¿Qué factores adicionales se toman en cuenta en caso de empate?",
+        "¿El promedio de notas de secundaria influye en la selección final?",
+        "¿Cómo se determina el ingreso en caso de múltiples empates?",
+        "¿Qué pasa si dos postulantes tienen el mismo puntaje total?"
+      ],
+      "responses": [
+        "Si existe un empate en el último lugar en la modalidad de Examen Ordinario General, la UNAM cubre la última vacante tomando en cuenta el puntaje acumulado en razonamiento matemático para áreas de ingeniería ,razonamiento verbal para áreas sociales y en el eje temático de ciencia,tenología y ambiente para el áreas de ciencias de la salud . Si persiste el empate, se recurre al promedio de notas de los estudios cursados en educación secundaria consignados en el certificado de estudios.",
+        "En caso de empate, la selección final se basa en el desempeño específico en áreas clave del examen y, si es necesario, se recurre al promedio académico de educación secundaria para desempatar."
+      ]
+    },
+
+    {
+      "tag": "articulo41",
+      "patterns": [
+        "Si sucediera un empate en el examen ¿Qué pasa en esos casos?",
+        "Si mi puntaje es igual que otro postulante ¿Cuál es la decisión que toman?",
+        "Si el examen que rendi en en el proceso de admision tiene un puntaje igual que otro postulante ¿Cuál es la decisión que toma la universidad?",
+        "Estoy postulanto a ingenierias, si el examen que rendi en en el proceso de admision tiene un puntaje igual que otro postulante ¿Cuál es la decisión que toma la universidad?",
+        "¿Cómo se resuelve un empate en el examen extraordinario en la UNAM?",
+        "¿Qué sucede si varios postulantes tienen el mismo puntaje en el último lugar en el examen extraordinario?",
+        "¿Se pueden aceptar más estudiantes que las vacantes disponibles en caso de empate en el examen extraordinario?",
+        "¿Qué criterio se utiliza para decidir entre postulantes empatados en el examen extraordinario?",
+        "¿Cómo se manejan los empates en el examen extraordinario?",
+        "¿Se toma en cuenta el promedio de notas de secundaria en los empates del examen extraordinario?",
+	"¿Qué información se utiliza del certificado de estudios de educación secundaria en caso de empate?",
+	"¿Qué sucede si persiste el empate después de considerar los puntajes en las áreas de sociales?",
+	"¿Qué sucede si persiste el empate después de considerar los puntajes en las áreas de ciencias de la salud?",
+	"¿Qué sucede si persiste el empate después de considerar los puntajes en las áreas de ingenierias?"
+	
+      ],
+      "responses": [
+        "Si existiera un empate en el último lugar entre dos o más postulantes en la modalidad de EXÁMEN EXTRAORDINARIO, la última vacante se cubrirá tomando en cuenta el promedio de notas de los estudios cursados en educación secundaria consignados en el certificado de estudios.",
+        "En ningún caso se puede aceptar un mayor número de ingresantes que el número de vacantes aprobado por la UNAM en el caso de un empate."
+      ]
+    },
+    {
+      "tag": "articulo43",
+      "patterns": [
+        "¿Los resultados del examen donde serán publicados?",
+	"¿Qué información específica se publicará en la página web de la UNAM sobre los postulantes que lograron su ingreso?",  
+	"¿Los resultados del examen ordinario donde serán publicados?",
+	"¿Los resultados del examen extraordinario donde serán publicados?",
+        "¿La publicación de los resultados por que medio los daran a conocer?",
+        "¿Enviaran al correo electronico los resultados del examen de admisión?",
+        "¿Dónde se publican los resultados del ingreso a la UNAM?",
+        "¿Cómo puedo saber si logré ingresar a la UNAM?",
+        "¿En qué página web puedo encontrar la lista de ingresantes?",
+        "¿Dónde encuentro la relación de postulantes admitidos?",
+        "¿Se publican en línea los resultados del proceso de admisión?",
+        "¿Hay un sitio web específico para verificar mi admisión en la UNAM?",
+        "¿Cómo se comunica oficialmente el ingreso a la universidad?"
+      ],
+      "responses": [
+        "La relación de postulantes que han logrado su ingreso a la UNAM se publicará en la página web oficial de la universidad, accesible a través de https://unam.edu.pe/admision/."
+      ]
+    },
+    {
+      "tag": "articulo45",
+      "patterns": [
+        "¿Quién es responsable de la exactitud de los datos en los documentos de inscripción?",
+        "¿Qué importancia tiene la veracidad de la información proporcionada en la inscripción?",
+        "¿Qué sucede si la información proporcionada en la inscripción es falsa?",
+	"¿Qué medidas de verificación pueden implementarse para asegurar que los datos proporcionados son veraces?",
+	"¿Cómo garantizan la veracidad de la información proporcionada por los postulantes?",
+        "¿Cómo se trata la información proporcionada por los postulantes en su inscripción?",
+        "¿Qué nivel de seriedad tiene la información suministrada en la inscripción?",
+        "¿Qué responsabilidad tiene el postulante sobre los datos en su inscripción?",
+        "¿Se considera la información de inscripción como una declaración jurada?"
+      ],
+      "responses": [
+        "Los postulantes son completamente responsables de la veracidad y exactitud de los datos e información proporcionados en los documentos de inscripción. Esta información tiene carácter de declaración jurada."
+      ]
+    },
+
+    {
+      "tag": "articulo46",
+      "patterns": [
+        "¿Si tengo antecedentes penales puedo postular?",
+	"¿Quiénes están impedidos de postular según las condiciones establecidas?",
+	"¿Qué personas están prohibidas de postular?",
+	"¿Quiénes no pueden postular según las restricciones impuestas por la UNAM?",
+        "¿Existen restricciones para postular a la UNAM basadas en antecedentes penales?",
+        "¿Quiénes están excluidos del proceso de admisión de la UNAM?",
+        "¿Qué tipo de historial penal impide postular a la UNAM?",
+        "¿Pueden postular a la UNAM personas con sanciones previas en el sistema universitario?",
+        "¿Qué antecedentes descalifican a un postulante de la UNAM?",
+        "¿Se permite la postulación de individuos con condenas por terrorismo?",
+        "¿La UNAM rechaza postulantes con faltas graves en su historial académico?"
+      ],
+      "responses": [
+        "Las personas condenadas por delitos relacionados con terrorismo, así como aquellas sancionadas o separadas de la UNAM o del sistema universitario por infracciones reglamentarias o disciplinarias, no son elegibles para postular a la universidad.",
+        "La UNAM prohíbe la postulación de individuos que posean antecedentes de condenas por terrorismo o faltas graves contra el reglamento universitario, incluyendo sanciones o descalificaciones previas en el sistema educativo."
+      ]
+    },
 	  
     {
 	   "tag": "articulo49",
