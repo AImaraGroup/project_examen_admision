@@ -600,7 +600,7 @@
         "para cuando esta prevista la publicación de resultados",
         "fecha que se anuncian los resultados",
         "fecha de examel canal A",
-        "fecha de examen canal B Y C",
+        "fecha de examen canal B Y C"
       ],
       "responses": [
         "Las fechas del  examen de admisión de la UNAM varían en cada proceso de admisión. Consulta el sitio web oficial para conocer los plazos actuales.  \n \n Para el proceso de admisión 2024-I: \n El examen de admisión extraordinario fue el 10 de Marzo. \n El examen de admisión ordinario-canal A (sede Moquegua) fue el 16 de marzo.\n  El examen de admisión ordinario-canal B y C (sede Moquegua e Ilo) fue el 17 de marzo."
@@ -621,7 +621,7 @@
         "¿Dónde realizo mi inscripción para el examen de admisión?",
         "¿puedo realizar mi inscripción de forma virtual?",
 	"¿Cuántas formas de inscribirme existen?",
-	"¿Cómo accedo a la plataforma virtual de inscripción?",
+	"¿Cómo accedo a la plataforma virtual de inscripción?"
       ],
       "responses": [
         "La inscripción del postulante al examen de admisión es exclusivamente a través de la plataforma virtual de la Universidad Nacional de Moquegua a (https://unam.edu.pe/admision/ )."
@@ -648,7 +648,7 @@
 	"¿Cómo sé que mi preinscripción fue correcta?"
       ],
       "responses": [
-        "El proceso de preinscripción incluye el llenado de datos y carga de documentos digitales según los requisitos de inscripción de la modalidad a la que se encuentre postulando. La oficina de admisión verifica esta información y notifica al postulante en caso de errores en un plazo de 24 horas. No se realiza ningún pago hasta completar esta validación.",
+        "El proceso de preinscripción incluye el llenado de datos y carga de documentos digitales según los requisitos de inscripción de la modalidad a la que se encuentre postulando. La oficina de admisión verifica esta información y notifica al postulante en caso de errores en un plazo de 24 horas. No se realiza ningún pago hasta completar esta validación."
       ]
     },
 
@@ -684,7 +684,7 @@
        "¿Puedo realizar el pago a través de un agente del Banco de la Nación?"
      ],
       "responses": [
-        "Una vez validada la preinscripción, el postulante debe pagar el derecho al examen de admisión en el área de Caja UNAM en la sede Moquegua o filial Ilo. Este pago se valida automáticamente. \n Si provienes de otra ciudad, puedes realizar el depósito en el Banco de la Nación (C.C.: 00-141-028154) y luego subir a la plataforma de inscripción el boucher escaneado en formato JPG, asegurándote de que sea legible y sin enmendaduras para su validación.",
+        "Una vez validada la preinscripción, el postulante debe pagar el derecho al examen de admisión en el área de Caja UNAM en la sede Moquegua o filial Ilo. Este pago se valida automáticamente. \n Si provienes de otra ciudad, puedes realizar el depósito en el Banco de la Nación (C.C.: 00-141-028154) y luego subir a la plataforma de inscripción el boucher escaneado en formato JPG, asegurándote de que sea legible y sin enmendaduras para su validación."
       ]
     },
     {
@@ -721,7 +721,7 @@
         "No alcancé una vacante por el examen extraordinario, ¿puedo postular?",
         "¿Puedo volver a dar el examen de admisión ordinario si no ingres por cepre o extraordinario?",
         "¿Cuándo puedo volver a postular sino ingrese?",
-	"si no ingrese por cepre puedo postular a examen ordinario",
+	"si no ingrese por cepre puedo postular a examen ordinario"
 	
       ],
       "responses": [
@@ -808,7 +808,7 @@
         "¿Qué tiempo se me da para contestar el examen en la UNAM?"
       ],
       "responses": [
-        "El examen presencial, tanto en la modalidad ordinario como extraordinario, en la Universidad Nacional de Moquegua consta de 60 preguntas y tiene una duración de 2 horas (120 minutos).",
+        "El examen presencial, tanto en la modalidad ordinario como extraordinario, en la Universidad Nacional de Moquegua consta de 60 preguntas y tiene una duración de 2 horas (120 minutos)."
       ]
     },
 	  
