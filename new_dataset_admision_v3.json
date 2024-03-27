@@ -1541,15 +1541,13 @@
 		]
 	  },
   
-	  {
+	  	  {
 		"tag": "formato_20",
 		"patterns": [
 		  "¿Qué debo declarar en el Formato 20 para el proceso de admisión?",
-		  "¿Qué tipo de carnet necesito para acreditar mi discapacidad en la admisión?",
 		  "¿Cómo puedo comprobar que cumplo con los requisitos de discapacidad para la admisión?",
 		  "¿Qué formato debo llenar si soy persona con discapacidad?",
 		  "¿Para qué es el formato 20?",
-		  "¿Cuál es la consecuencia de proporcionar información falsa en la declaración bajo juramento en el Formato 20?",
 		  "¿Qué condiciones invalidarían la declaración bajo juramento en el Formato 20?",
 		  "¿Quién debe firmar el Formato 20 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, el solicitante o su representante legal?",
 		  "¿Qué información debe incluirse en el Formato 20 para cumplir con los requisitos de ingreso bajo la Modalidad de Personas con Discapacidad?",
@@ -1626,7 +1624,7 @@
       "cual es el formato de preinscripcion en la unam?",
       "que datos requiere el formato 22 de preinscripcion?",
       "de que trata el formato de preinscrion de la unam?",
-      "que se necesita presentar para la preinscicion en a unam?"
+      "que datos se necesita para llenar el formato de  preinscicion en a unam?"
 		],
 		"responses": [
 		  "Para completar el Formato N°22 de preinscripción en la UNAM, necesitarás proporcionar tu nombre completo, DNI, fecha de nacimiento, sexo, información de contacto(dirección,telefono,correo), detalles de tu institución educativa previa, la carrera a la que postulas y la sede de examen. Además, debes cancelar el monto correspondiente al derecho de examen de admisión y presentar el recibo. Es importante que el formulario esté firmado y  acompañado de tu huella dactilar. En caso de ser menor de edad, se requerirá la firma de un apoderado. Asegúrate de que el formulario no esté deteriorado, manchado o borroneado al entregarlo."
