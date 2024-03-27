@@ -483,7 +483,12 @@
 	          "¿Qué papeles debo presentar para postular por el Convenio de Andrés Bello?",
 	          "¿Cuántos documentos hacen falta para postular por el Convenio de Andrés Bello?",
 	          "¿Qué expedientes debo cumplir para dar el examen si participo por el Convenio de Andrés Bello?",
-	          "¿Cuáles son los expedientes que debo presentar para dar el examen por el Convenio de Andrés Bello?"
+	          "¿Cuáles son los expedientes que debo presentar para dar el examen por el Convenio de Andrés Bello?",
+		  	  "juramento para Modalidad de Convenio Andrés Bello",
+		  "Que documentos tengo que presentar para la modalidad de Convenio de Andrés Bello?",
+		  "En que formato debo declarar que cumplo con los requisitos bajo la Modalidad de Convenio de Andrés Bello?",
+		   "en que formato debo declarar que cumplo con los requisitos para ingresar bajo la Modalidad de Convenio Andrés Bello?",
+		  "¿Donde optengo el formato para  declarar el juramento para Modalidad de Convenio Andrés Bello?"
           ],
           "responses": [
             "Los postulantes por el Convenio Andrés Bello, según el D.S. N° 012-99-ED, podrán postular al examen 2024-I, presentando a través de la plataforma virtual de admisión, en formato PDF, los siguientes documentos: \n a) Certificado de convalidación y/o revalidación de estudios, emitido por el Ministerio de Educación del Perú (MINEDU). \n b) Certificado de estudios secundarios acreditado por la entidad educativa oficial del país de procedencia (Ministerio de Educación o quien haga sus veces) y, si fuera el caso, traducido al español. \n c) Partida de Nacimiento (si el alumno nació en el extranjero, apostillado por el país de procedencia o legalizada por el consulado peruano en dicho país), o Pasaporte o Carne de Extranjería. \n d) Los documentos requeridos en el artículo 12° del presente Reglamento con excepción del inciso “a” y “e” lllenado del formato N°21 de la sección de anexos."
@@ -1577,13 +1582,10 @@
 		"patterns": [
 		  "¿Qué debo declarar en el Formato 21 para el proceso de admisión?",
 		  "¿Cuál es la condición para que proceda la declaración bajo juramento según el Formato 21?",
-		  "declaracion jurada para Modalidad de Convenio Andrés Bello",
 		  "¿De qué se trata el formato 21?",
 		  "¿De qué se trata el formato21?",
-		  "juramento para Modalidad de Convenio Andrés Bello",
 		  "formato 21",
 		  "formato21",
-      "en que formato debo declarar que cumplo con los requisitos para ingresar bajo la Modalidad de Convenio Andrés Bello?",
       "en que documento debo declarar que cumplo con los requisitos para ingresar bajo la Modalidad de Convenio Andrés Bello",
       "¿Cómo debo decir que tengo todo lo necesario para entrar usando el Convenio Andrés Bello?",
       "¿Qué papel debo llenar para demostrar que soy apto para entrar bajo la Modalidad de Convenio Andrés Bello?",
