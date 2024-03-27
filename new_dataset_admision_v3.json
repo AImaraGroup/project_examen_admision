@@ -814,6 +814,8 @@
       "tag": "articulo37",
       "patterns": [
         "¿Cuantas preguntas tiene el examen?",
+	"¿Cuánto tiempo dura el examen?",
+	"¿Cuál es la cantidad de preguntas del examen ordinario?",
         "¿Cuántas preguntas tiene el examen ordinario?",
         "¿Cuántas preguntas tiene el examen ordinario?",
         "¿Cuántas preguntas tiene el examen ordinario general?",
@@ -841,6 +843,22 @@
       ],
       "responses": [
         "El examen presencial, tanto en la modalidad ordinario como extraordinario, en la Universidad Nacional de Moquegua consta de 60 preguntas y tiene una duración de 2 horas (120 minutos)."
+      ]
+    },
+	   {
+      "tag": "articulo38",
+      "patterns": [
+        "¿He llenado mal mis datos en el examen, me anulan el examen?",
+	"¿Por descuido se ha deteriorado la ficha optica, me descalifican?",
+	"¿He llenado mal mi codigo de postulante, me anulan el examen?",
+	"¿He llenado mal mi codigo de postulante, me descalifican del proceso?",
+        "¿Me equivoqué en escribir mi codigo de postulante, que sucede en esos casos?",
+	"¿He roto la ficha optica, que sucede en esos casos?",
+	"¿Es mi responsabilidad el llenado de los datos?"
+       
+      ],
+      "responses": [
+        " El procesamiento de calificación es anónimo y automatizado determinados por las fichas de respuesta a través de la lectora óptica y software correspondiente. En tal sentido el postulante es responsable del correcto llenado de datos y del estado de la ficha óptica. Así mismo, de ocurrir errores en el código del postulante, el examen será anulado. Se realiza en presencia del Director de Admisión e integrantes de la Comisión Organizadora. La no asistencia de los integrantes de la Comisión Organizadora no impide el proceso de calificación."
       ]
     },
 	 {
