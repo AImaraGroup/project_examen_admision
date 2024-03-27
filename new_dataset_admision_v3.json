@@ -921,6 +921,22 @@
         "En ningún caso se puede aceptar un mayor número de ingresantes que el número de vacantes aprobado por la UNAM en el caso de un empate."
       ]
     },
+	  {
+      "tag": "articulo42",
+      "patterns": [
+        "¿Qué sucede con las vacantes no cubiertas en las modalidades de admisión extraordinaria?",
+        "¿Las vacantes de CEPREUNAM no utilizadas se añaden a qué modalidad?",
+        "¿Qué modalidad recibe las vacantes adicionales si no se llenan en el examen extraordinario?",
+        "¿Hay reasignación de vacantes entre las modalidades de admisión?",
+        "¿Cómo se ajustan las vacantes para el concurso de admisión ordinario?",
+        "¿Qué pasa con las vacantes no ocupadas en las otras modalidades de admisión?"
+      ],
+      "responses": [
+        "Las vacantes que no sean cubiertas por cualquiera de las modalidades de admisión, ya sea EXÁMEN EXTRAORDINARIO o el ingreso de CEPREUNAM, se incrementarán a las vacantes por modalidad de concurso de admisión ordinario."
+      ]
+    },
+
+	  
     {
       "tag": "articulo43",
       "patterns": [
