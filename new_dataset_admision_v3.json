@@ -1544,8 +1544,8 @@
 	  	  {
 		"tag": "formato_20",
 		"patterns": [
+
 		  "¿Qué debo declarar en el Formato 20 para el proceso de admisión?",
-		  "¿Cómo puedo comprobar que cumplo con los requisitos de discapacidad para la admisión?",
 		  "¿Qué formato debo llenar si soy persona con discapacidad?",
 		  "¿Para qué es el formato 20?",
 		  "¿Qué condiciones invalidarían la declaración bajo juramento en el Formato 20?",
@@ -1557,18 +1557,15 @@
 		  "formato20",
 		  "declaracion para personas discapacitadas",
 		  "formato de discapacidad",
-		  "declaracion de personas con discapacidad",
-		  "juramento de personas con discapacidad",
-      "en que formato declaro que estoy postulando bajo modalidad de discapacitados?",
-      "¿En qué formato debo declarar que estoy postulando bajo la modalidad de discapacitados?",
-
-      "¿Cómo puedo hacer la declaración bajo juramento de que cumplo con los requisitos para ingresar bajo la Modalidad de Personas con Discapacidad?",
-    "¿Qué información debo incluir al hacer la declaración bajo juramento para la Modalidad de Personas con Discapacidad?",
-    "¿Hay algún formulario específico para hacer la declaración bajo juramento de que cumplo con los requisitos como persona con discapacidad?",
-    "¿Cuál es el procedimiento para presentar la declaración bajo juramento de que cumplo con los requisitos como persona con discapacidad?",
-    "¿Puedo presentar pruebas adicionales junto con mi declaración bajo juramento para la Modalidad de Personas con Discapacidad?"
-  
-
+		  "declaracion jurada de ser una personas con discapacidad",
+		  "juramento de que soy una personas con discapacidad",
+	      "en que formato declaro que estoy postulando bajo modalidad de discapacitados?",
+	      "¿En qué formato debo declarar que estoy postulando bajo la modalidad de discapacitados?",
+	      "¿Cómo puedo hacer la declaración bajo juramento de que cumplo con los requisitos para ingresar bajo la Modalidad de Personas con Discapacidad?",
+	      "¿Qué información debo incluir al hacer la declaración bajo juramento para la Modalidad de Personas con Discapacidad?",
+	      "¿Hay algún formulario específico para hacer la declaración bajo juramento de que cumplo con los requisitos como persona con discapacidad?",
+	      "¿Cuál es el procedimiento para presentar la declaración bajo juramento de que cumplo con los requisitos como persona con discapacidad?",
+	      "¿Puedo presentar pruebas adicionales junto con mi declaración bajo juramento para la Modalidad de Personas con Discapacidad?"
 		],
 		"responses": [
 		  "En el Formato N°20 para el proceso de admisión 2024-I de la Universidad Nacional de Moquegua, el postulante debe declarar bajo juramento que cumple con los requisitos para ingresar bajo la Modalidad de Personas con Discapacidad. Esto incluye tener un carnet expedido por el CONADIS, certificado de estudios de educación secundaria o constancia de logros de aprendizaje, una fotografía a color en fondo blanco y Documento Nacional de Identidad. Proporcionar información falsa en esta declaración puede resultar en sanciones legales. La declaración no procede si está deteriorada, manchada o borroneada. Finalmente, el formato debe ser firmado por el solicitante y/o su representante legal, junto con la huella digital del estudiante."
