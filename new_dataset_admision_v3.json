@@ -268,7 +268,7 @@
             "¿Es necesario tener un cierto número de créditos para el traslado externo?",
 		"¿Qué requisitos debo cumplir para inscribirme bajo la Modalidad de Traslado Externo en la UNAM?",
 		"¿Qué tipo de certificado de estudios universitarios necesito para la Modalidad de Traslado Externo?",
-		"¿Se requiere un certificado de estudios de educación secundaria para el Traslado Externo?",
+		"¿Se requiere un certificado de estudios de educación secundaria para el Traslado Externo?"
           ],
           "responses": [
             "Para inscribirse virtualmente, como postulante en la modalidad de traslado externo, deberán acreditar su condición de tal, presentando a través de la plataforma virtual  de admisión, en formato PDF, los siguientes documentos: \n a) Certificado de estudios universitarios (fedateado por la Universidad de origen) que acrediten haber aprobado por lo menos cuatro periodos lectivos semestrales o dos anuales o setenta y dos (72) créditos. \n b) Los documentos requeridos en el Artículo 12º del presente reglamento con excepción de los incisos “a” y “c”. \n c) Declaración Jurada de no tener antecedentes penales según formato N°15 que figuran en la sección de anexos. \n d) Declaración Jurada de no haber sido separado de su institución de procedencia por medida disciplinaria o falta grave, según formato N°16 que figuran en la sección de anexos."
@@ -489,6 +489,7 @@
             "Si ya me inscribí como víctima de terrorismo en otra universidad, ¿puedo inscribirme en la UNAM?",
             "¿donde declaro que no usé mi derecho de admisión como víctima de terrorismo en otra universidad?",
             "juramento que no has hecho uso del derecho de admisión en tu condición de víctima de terrorismo",
+            "en que formato o documento declaro que no hice uso del derecho de admision en condicion de victima por terrorismo?",
             "¿En qué documento debo declarar que no he hecho uso del derecho de admisión como víctima de terrorismo?",
             "juramento que no has hecho uso del derecho de admisión en tu condición de víctima de terrorismo en otra institución"
           ],
@@ -859,7 +860,7 @@
         "¿Se puede ingresar con un puntaje inferior a 37.50?",
         "¿Cómo se clasifica a los postulantes para las vacantes?",
         "¿Cuál es el criterio de selección para las vacantes?",
-        "¿El puntaje del examen determina mi admisión?",
+        "¿El puntaje del examen determina mi admisión?"
      
       ],
       "responses": [
@@ -1233,7 +1234,7 @@
 		  "¿De qué se trata el formato 20?",
 		  "¿De qué se trata el formato20?",
 		  "formato 20",
-		  "formato20",
+		  "formato20"
 		  
 		],
 		"responses": [
